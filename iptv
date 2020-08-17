@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,SBS
+http://183.100.234.45:9981/stream/channelid/1124346476
+#EXTINF:-1,SBS [SD]
+http://183.100.234.45:9981/stream/channelid/209730538
+#EXTINF:-1,KBS2
+http://183.100.234.45:9981/stream/channelid/1564137658
+#EXTINF:-1,KBS2 [SD]
+http://183.100.234.45:9981/stream/channelid/806525648
+#EXTINF:-1,KBS1
+http://183.100.234.45:9981/stream/channelid/983691437
+#EXTINF:-1,MBC
+http://183.100.234.45:9981/stream/channelid/326095401
+#EXTINF:-1,MBC [SD]
+http://183.100.234.45:9981/stream/channelid/975745349
+#EXTINF:-1,EBS
+http://183.100.234.45:9981/stream/channelid/984134941
+#EXTINF:-1,EBS [SD]
+http://183.100.234.45:9981/stream/channelid/1358704792
+#EXTINF:-1,有線財經資訊台 HD
+http://livetv.dnsfor.me:80/channel.6.m3u8
+#EXTINF:-1,有線新聞台 HD
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1,有線綜合娛樂台 HD
+http://livetv.dnsfor.me:80/channel.7.m3u8
+#EXTINF:-1,now直播台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1,now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1,RTHK32
+http://livetv.dnsfor.me:80/channel.2.m3u8
+#EXTINF:-1,FAN
+http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:-1,TVB NEWS
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1,TVB INFO
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1,NOW SPORT
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1,ATV
+http://livetv.dnsfor.me:80/channel.14.m3u8
+#EXTINF:-1,HKS
+http://livetv.dnsfor.me:80/channel.15.m3u8
+#EXTINF:-1,TVB
+http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:-1,TVB ?
+http://livetv.dnsfor.me:80/channel.19.m3u8
+#EXTINF:-1,VIU TV
+http://livetv.dnsfor.me:80/channel.20.m3u8
