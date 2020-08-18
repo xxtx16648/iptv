@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1,SBS
-http://183.100.234.45:9981/stream/channelid/1124346476
-#EXTINF:-1,SBS [SD]
-http://183.100.234.45:9981/stream/channelid/209730538
-#EXTINF:-1,KBS2
-http://183.100.234.45:9981/stream/channelid/1564137658
-#EXTINF:-1,KBS2 [SD]
-http://183.100.234.45:9981/stream/channelid/806525648
-#EXTINF:-1,KBS1
-http://183.100.234.45:9981/stream/channelid/983691437
-#EXTINF:-1,MBC
-http://183.100.234.45:9981/stream/channelid/326095401
-#EXTINF:-1,MBC [SD]
-http://183.100.234.45:9981/stream/channelid/975745349
-#EXTINF:-1,EBS
-http://183.100.234.45:9981/stream/channelid/984134941
-#EXTINF:-1,EBS [SD]
-http://183.100.234.45:9981/stream/channelid/1358704792
 #EXTINF:-1,有線財經資訊台 HD
 http://livetv.dnsfor.me:80/channel.6.m3u8
 #EXTINF:-1,有線新聞台 HD
@@ -43,7 +25,65 @@ http://livetv.dnsfor.me:80/channel.14.m3u8
 http://livetv.dnsfor.me:80/channel.15.m3u8
 #EXTINF:-1,TVB
 http://livetv.dnsfor.me:80/channel.18.m3u8
-#EXTINF:-1,TVB ?
+#EXTINF:-1,J2
 http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:-1,VIU TV
 http://livetv.dnsfor.me:80/channel.20.m3u8
+#EXTINF:-1,港台電視 31
+http://116.49.135.177:9981/stream/channelid/937757987
+#EXTINF:-1,港台電視 32
+http://116.49.135.177:9981/stream/channelid/628593312
+#EXTINF:-1,中央電視台綜合頻道（CCTV-1綜合)
+http://116.49.135.177:9981/stream/channelid/306146248
+#EXTINF:-1,香港國際財經台
+http://116.49.135.177:9981/stream/channelid/142893056
+#EXTINF:-1,香港開電視
+http://116.49.135.177:9981/stream/channelid/501329815
+#EXTINF:-1,翡翠台
+http://116.49.135.177:9981/stream/channelid/1525015162
+#EXTINF:-1,J2台
+http://116.49.135.177:9981/stream/channelid/1720989042
+#EXTINF:-1,無綫新聞台
+http://116.49.135.177:9981/stream/channelid/1518584232
+#EXTINF:-1,明珠台
+http://116.49.135.177:9981/stream/channelid/1375828671
+#EXTINF:-1,無綫財經 · 資訊台
+http://116.49.135.177:9981/stream/channelid/1557445780
+#EXTINF:-1,ViuTVsix
+http://116.49.135.177:9981/stream/channelid/664168959
+#EXTINF:-1,ViuTV
+http://116.49.135.177:9981/stream/channelid/800247485
+#EXTINF:-1,澳视澳门
+https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1,RTP
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1,澳門資訊
+http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1,澳门1
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1,澳门2
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1,澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1,[粤语]澳视资讯
+http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1,ATV
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
+#EXTINF:-1,SBS
+http://183.100.234.45:9981/stream/channelid/1124346476
+#EXTINF:-1,SBS [SD]
+http://183.100.234.45:9981/stream/channelid/209730538
+#EXTINF:-1,KBS2
+http://183.100.234.45:9981/stream/channelid/1564137658
+#EXTINF:-1,KBS2 [SD]
+http://183.100.234.45:9981/stream/channelid/806525648
+#EXTINF:-1,KBS1
+http://183.100.234.45:9981/stream/channelid/983691437
+#EXTINF:-1,MBC
+http://183.100.234.45:9981/stream/channelid/326095401
+#EXTINF:-1,MBC [SD]
+http://183.100.234.45:9981/stream/channelid/975745349
+#EXTINF:-1,EBS
+http://183.100.234.45:9981/stream/channelid/984134941
+#EXTINF:-1,EBS [SD]
+http://183.100.234.45:9981/stream/channelid/1358704792
