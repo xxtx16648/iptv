@@ -9,6 +9,8 @@ http://livetv.dnsfor.me:80/channel.7.m3u8
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1,now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1,RTHK31
+http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1,RTHK32
 http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:-1,FAN
@@ -69,6 +71,126 @@ http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1,ATV
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
+#EXTINF:-1,CCTV1
+http://60.223.84.26:9981/stream/channelid/1312248411
+#EXTINF:-1,CCTV2
+http://60.223.84.26:9981/stream/channelid/969446076
+#EXTINF:-1,CCTV3
+http://60.223.84.26:9981/stream/channelid/1857557396
+#EXTINF:-1,CCTV4
+http://60.223.84.26:9981/stream/channelid/1953541637
+#EXTINF:-1,CCTV5
+http://60.223.84.26:9981/stream/channelid/854914819
+#EXTINF:-1,CCTV6
+http://60.223.84.26:9981/stream/channelid/1988075573
+#EXTINF:-1,CCTV7
+http://60.223.84.26:9981/stream/channelid/1540794632
+#EXTINF:-1,CCTV8
+http://60.223.84.26:9981/stream/channelid/334876308
+#EXTINF:-1,CCTV9
+http://60.223.84.26:9981/stream/channelid/917658007
+#EXTINF:-1,CCTV10
+http://60.223.84.26:9981/stream/channelid/64982087
+#EXTINF:-1,CCTV11
+http://60.223.84.26:9981/stream/channelid/415271700
+#EXTINF:-1,CCTV12
+http://60.223.84.26:9981/stream/channelid/2025067500
+#EXTINF:-1,CCTV13
+http://60.223.84.26:9981/stream/channelid/1624912290
+#EXTINF:-1,CCTV14
+http://60.223.84.26:9981/stream/channelid/1279302486
+#EXTINF:-1,CCTV15
+http://60.223.84.26:9981/stream/channelid/1649860228
+#EXTINF:-1,山西卫视
+http://60.223.84.26:9981/stream/channelid/1343769159
+#EXTINF:-1,湖南卫视
+http://60.223.84.26:9981/stream/channelid/777926731
+#EXTINF:-1,东方卫视
+http://60.223.84.26:9981/stream/channelid/582395486
+#EXTINF:-1,辽宁卫视
+http://60.223.84.26:9981/stream/channelid/180272931
+#EXTINF:-1,浙江卫视
+http://60.223.84.26:9981/stream/channelid/910274617
+#EXTINF:-1,安徽卫视
+http://60.223.84.26:9981/stream/channelid/1096421873
+#EXTINF:-1,江苏卫视
+http://60.223.84.26:9981/stream/channelid/958972
+#EXTINF:-1,北京卫视
+http://60.223.84.26:9981/stream/channelid/338402191
+#EXTINF:-1,东南卫视
+http://60.223.84.26:9981/stream/channelid/2032516811
+#EXTINF:-1,金鹰卡通
+http://60.223.84.26:9981/stream/channelid/216970752
+#EXTINF:-1,四川卫视
+http://60.223.84.26:9981/stream/channelid/161643943
+#EXTINF:-1,贵州卫视
+http://60.223.84.26:9981/stream/channelid/2091429095
+#EXTINF:-1,广东卫视
+http://60.223.84.26:9981/stream/channelid/1528946012
+#EXTINF:-1,广西卫视
+http://60.223.84.26:9981/stream/channelid/162989690
+#EXTINF:-1,深圳卫视
+http://60.223.84.26:9981/stream/channelid/351317341
+#EXTINF:-1,黑龙江卫视
+http://60.223.84.26:9981/stream/channelid/1199007339
+#EXTINF:-1,湖北卫视
+http://60.223.84.26:9981/stream/channelid/1104905551
+#EXTINF:-1,重庆卫视
+http://60.223.84.26:9981/stream/channelid/108309281
+#EXTINF:-1,山东卫视
+http://60.223.84.26:9981/stream/channelid/736889687
+#EXTINF:-1,河南卫视
+http://60.223.84.26:9981/stream/channelid/2054805310
+#EXTINF:-1,陕西卫视
+http://60.223.84.26:9981/stream/channelid/811490412
+#EXTINF:-1,江西卫视
+http://60.223.84.26:9981/stream/channelid/1752552612
+#EXTINF:-1,甘肃卫视
+http://60.223.84.26:9981/stream/channelid/1593285590
+#EXTINF:-1,天津卫视
+http://60.223.84.26:9981/stream/channelid/1252078549
+#EXTINF:-1,河北卫视
+http://60.223.84.26:9981/stream/channelid/538782071
+#EXTINF:-1,RTHK31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1,RTHK32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1,FASHION MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,FTV PARIS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1,Fashion TV International
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,WFTV
+https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
+#EXTINF:-1,WFTV
+https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8
+#EXTINF:-1,WFTV
+https://wfc.bonus-tv.ru/cdn/wfcrus/index.m3u8
+#EXTINF:-1,MTV now-breakfast-club
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1,Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1,Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1,NHK WORLD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1,RT
+https://rt-news-gd.secure2.footprint.net/1103.m3u8
+#EXTINF:-1,NEWS NET
+https://bozztv.com/36bay2/giniko_newsnet/index.m3u8
 #EXTINF:-1,SBS
 http://183.100.234.45:9981/stream/channelid/1124346476
 #EXTINF:-1,SBS [SD]
@@ -87,3 +209,103 @@ http://183.100.234.45:9981/stream/channelid/975745349
 http://183.100.234.45:9981/stream/channelid/984134941
 #EXTINF:-1,EBS [SD]
 http://183.100.234.45:9981/stream/channelid/1358704792
+#EXTINF:-1,니켈로디언
+http://221.139.128.112:9981/stream/channelid/1214987132
+#EXTINF:-1,스크린
+http://221.139.128.112:9981/stream/channelid/1141432264
+#EXTINF:-1,KBS2
+http://221.139.128.112:9981/stream/channelid/132596789
+#EXTINF:-1,MBC
+http://221.139.128.112:9981/stream/channelid/32279901
+#EXTINF:-1,SBS
+http://221.139.128.112:9981/stream/channelid/844167694
+#EXTINF:-1,EBS
+http://221.139.128.112:9981/stream/channelid/444960589
+#EXTINF:-1,KBS1
+http://221.139.128.112:9981/stream/channelid/2111415026
+#EXTINF:-1,edu TV
+http://221.139.128.112:9981/stream/channelid/1361960375
+#EXTINF:-1,OBS
+http://221.139.128.112:9981/stream/channelid/1555490922
+#EXTINF:-1,Euro sport
+http://221.139.128.112:9981/stream/channelid/700084095
+#EXTINF:-1,KBS N Sports
+http://221.139.128.112:9981/stream/channelid/78546293
+#EXTINF:-1,D one
+http://221.139.128.112:9981/stream/channelid/1545374533
+#EXTINF:-1,OCN
+http://221.139.128.112:9981/stream/channelid/614833054
+#EXTINF:-1,OCN Thrills
+http://221.139.128.112:9981/stream/channelid/2130698334
+#EXTINF:-1,XtvN
+http://221.139.128.112:9981/stream/channelid/1159478343
+#EXTINF:-1,국방TV
+http://221.139.128.112:9981/stream/channelid/2063939616
+#EXTINF:-1,JTBC
+http://221.139.128.112:9981/stream/channelid/697943734
+#EXTINF:-1,MBN
+http://221.139.128.112:9981/stream/channelid/670830723
+#EXTINF:-1,채널A
+http://221.139.128.112:9981/stream/channelid/623821603
+#EXTINF:-1,TV조선
+http://221.139.128.112:9981/stream/channelid/1805501121
+#EXTINF:-1,Fashion N
+http://221.139.128.112:9981/stream/channelid/160319586
+#EXTINF:-1,중화TV
+http://221.139.128.112:9981/stream/channelid/1941962531
+#EXTINF:-1,MBC NET
+http://221.139.128.112:9981/stream/channelid/670813252
+#EXTINF:-1,SKY SPORT
+http://221.139.128.112:9981/stream/channelid/1130123466
+#EXTINF:-1,TJB 대전방송
+http://221.139.128.112:9981/stream/channelid/536649204
+#EXTINF:-1,Tooniverse
+http://221.139.128.112:9981/stream/channelid/1135501970
+#EXTINF:-1,Disney Channel
+http://221.139.128.112:9981/stream/channelid/712074602
+#EXTINF:-1,Disney Junior
+http://221.139.128.112:9981/stream/channelid/1019502803
+#EXTINF:-1,SPOTV2
+http://221.139.128.112:9981/stream/channelid/1326568768
+#EXTINF:-1,아리랑 TV
+http://221.139.128.112:9981/stream/channelid/1639364027
+#EXTINF:-1,NGC
+http://221.139.128.112:9981/stream/channelid/1884000909
+#EXTINF:-1,BBC Earth
+http://221.139.128.112:9981/stream/channelid/696326263
+#EXTINF:-1,O tvN
+http://221.139.128.112:9981/stream/channelid/1568168876
+#EXTINF:-1,MBC SPORTS+2
+http://221.139.128.112:9981/stream/channelid/1153073579
+#EXTINF:-1,YTN
+http://221.139.128.112:9981/stream/channelid/1006719182
+#EXTINF:-1,연합뉴스TV
+http://221.139.128.112:9981/stream/channelid/727500126
+#EXTINF:-1,SBS CNBC
+http://221.139.128.112:9981/stream/channelid/1862609225
+#EXTINF:-1,BBC WN
+http://221.139.128.112:9981/stream/channelid/2070871611
+#EXTINF:-1,tvN
+http://221.139.128.112:9981/stream/channelid/617651377
+#EXTINF:-1,Mnet
+http://221.139.128.112:9981/stream/channelid/1062351435
+#EXTINF:-1,KBS JOY
+http://221.139.128.112:9981/stream/channelid/1867707512
+#EXTINF:-1,MBC Every1
+http://221.139.128.112:9981/stream/channelid/226547411
+#EXTINF:-1,SBS funE
+http://221.139.128.112:9981/stream/channelid/323697642
+#EXTINF:-1,SBS MTV
+http://221.139.128.112:9981/stream/channelid/1201527436
+#EXTINF:-1,K STAR
+http://221.139.128.112:9981/stream/channelid/758758722
+#EXTINF:-1,MBC Dramanet
+http://221.139.128.112:9981/stream/channelid/1284036298
+#EXTINF:-1,SBS Plus
+http://221.139.128.112:9981/stream/channelid/750257578
+#EXTINF:-1,KBS DRAMA
+http://221.139.128.112:9981/stream/channelid/542605160
+#EXTINF:-1,B tv
+http://221.139.128.112:9981/stream/channelid/1638385410
+#EXTINF:-1,B tv
+http://221.139.128.112:9981/stream/channelid/1060031610
