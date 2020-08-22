@@ -164,9 +164,9 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 #EXTINF:-1,WFTV
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 #EXTINF:-1,WFTV
-https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8
-#EXTINF:-1,WFTV
 https://wfc.bonus-tv.ru/cdn/wfcrus/index.m3u8
+#EXTINF:-1,FASHION STYLE
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,MTV now-breakfast-club
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,Bloomberg TV Asia
