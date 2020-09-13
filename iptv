@@ -83,102 +83,154 @@ http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1,ATV
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
-#EXTINF:-1,CCTV4K
-http://116.20.80.37:9981/stream/channelid/2064576588
-#EXTINF:-1,CCTV5+高清
-http://116.20.80.37:9981/stream/channelid/1944192663
-#EXTINF:-1,中央一套
-http://116.20.80.37:9981/stream/channelid/680018984
-#EXTINF:-1,全纪实HD(付费)
-http://116.20.80.37:9981/stream/channelid/1889355887
-#EXTINF:-1,劲爆体育HD (付费)
-http://116.20.80.37:9981/stream/channelid/886766527
-#EXTINF:-1,北京卫视高清
-http://116.20.80.37:9981/stream/channelid/42342415
-#EXTINF:-1,备用2
-http://116.20.80.37:9981/stream/channelid/455836341
-#EXTINF:-1,天津卫视高清
-http://116.20.80.37:9981/stream/channelid/955683799
-#EXTINF:-1,安徽卫视高清
-http://116.20.80.37:9981/stream/channelid/1615257760
-#EXTINF:-1,山东卫视高清
-http://116.20.80.37:9981/stream/channelid/1204452981
-#EXTINF:-1,广东卫视
-http://116.20.80.37:9981/stream/channelid/1683087572
-#EXTINF:-1,快乐垂钓高清(付费)
-http://116.20.80.37:9981/stream/channelid/1006848482
-#EXTINF:-1,新视觉(付费)
-http://116.20.80.37:9981/stream/channelid/1951269106
-#EXTINF:-1,欢笑剧场4K(付费)
-http://116.20.80.37:9981/stream/channelid/450781350
-#EXTINF:-1,求索纪录 (付费)
-http://116.20.80.37:9981/stream/channelid/988739416
-#EXTINF:-1,江苏卫视高清
-http://116.20.80.37:9981/stream/channelid/566035672
-#EXTINF:-1,浙江卫视高清
-http://116.20.80.37:9981/stream/channelid/147725878
-#EXTINF:-1,湖北卫视高清
-http://116.20.80.37:9981/stream/channelid/1855239636
-#EXTINF:-1,湖南卫视高清 https://iptv.live
-http://116.20.80.37:9981/stream/channelid/596359579
-#EXTINF:-1,精彩影视HD (付费)
-http://116.20.80.37:9981/stream/channelid/2036446311
-#EXTINF:-1,足球频道高清
-http://116.20.80.37:9981/stream/channelid/1686819685
-#EXTINF:-1,高清电影 (付费)
-http://116.20.80.37:9981/stream/channelid/651661259
-#EXTINF:-1,魅力足球(付费)
-http://116.20.80.37:9981/stream/channelid/579104495
-#EXTINF:-1,黑龙江卫视高清
-http://116.20.80.37:9981/stream/channelid/1375549898
-#EXTINF:-1,RTHK TV 31
-http://116.20.80.37:9981/stream/channelid/228344500
-#EXTINF:-1,RTHK TV 32
-http://116.20.80.37:9981/stream/channelid/1543969802
-#EXTINF:-1,Jade
-http://116.20.80.37:9981/stream/channelid/2072681781
-#EXTINF:-1,J2
-http://116.20.80.37:9981/stream/channelid/2019622513
-#EXTINF:-1,TVB News Channel
-http://116.20.80.37:9981/stream/channelid/1038781959
-#EXTINF:-1,Pearl
-http://116.20.80.37:9981/stream/channelid/1326245367
-#EXTINF:-1,TVB Finance & Information Channel
-http://116.20.80.37:9981/stream/channelid/564597783
-#EXTINF:-1,ViuTVsix
-http://116.20.80.37:9981/stream/channelid/1011431083
-#EXTINF:-1,ViuTV
-http://116.20.80.37:9981/stream/channelid/1095396113
-#EXTINF:-1,中央一套高清
-http://116.20.80.37:9981/stream/channelid/139210075
-#EXTINF:-1,中央二套高清
-http://116.20.80.37:9981/stream/channelid/114305734
-#EXTINF:-1,中央三套高清
-http://116.20.80.37:9981/stream/channelid/241009388
-#EXTINF:-1,中央五套高清
-http://116.20.80.37:9981/stream/channelid/1121094740
-#EXTINF:-1,中央六套高清
-http://116.20.80.37:9981/stream/channelid/1859515354
-#EXTINF:-1,高清中央七套
-http://116.20.80.37:9981/stream/channelid/1043859767
-#EXTINF:-1,中央八套高清
-http://116.20.80.37:9981/stream/channelid/1442233861
-#EXTINF:-1,中央九套高清
-http://116.20.80.37:9981/stream/channelid/320024302
-#EXTINF:-1,中央十套高清
-http://116.20.80.37:9981/stream/channelid/2041688889
-#EXTINF:-1,高清中央十二套
-http://116.20.80.37:9981/stream/channelid/1885975801
-#EXTINF:-1,中央十四套高清
-http://116.20.80.37:9981/stream/channelid/1203351260
-#EXTINF:-1,广东卫视高清
-http://116.20.80.37:9981/stream/channelid/430587068
-#EXTINF:-1,广东体育高清
-http://116.20.80.37:9981/stream/channelid/1265114946
-#EXTINF:-1,深圳卫视高清
-http://116.20.80.37:9981/stream/channelid/737920809
-#EXTINF:-1,上海东方高清
-http://116.20.80.37:9981/stream/channelid/225709969
+#EXTINF:-1,CCTV1
+http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV2
+http://liveplay-kk.rtxapp.com/live/program/live/cctv2hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV3
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV4
+http://liveplay-kk.rtxapp.com/live/program/live/cctv4hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV5
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV5+
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5+hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV6
+http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV7
+http://liveplay-kk.rtxapp.com/live/program/live/cctv7hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV9
+http://liveplay-kk.rtxapp.com/live/program/live/cctv9hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV10
+http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV11
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1,CCTV12
+http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1,CCTV13
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1,CCTV14
+http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+#EXTINF:-1,CCTV15
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1,CCTV16
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,CCTV17
+http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
+#EXTINF:-1,凤凰中文 HD
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1,凤凰资讯 HD
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1,凤凰香港 HD
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1,香港卫视
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+#EXTINF:-1,湖南卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1,江苏卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1,浙江卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1,上海东方 HD
+http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1,北京卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1,广东卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1,深圳卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1,天津卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1,安徽卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1,山东卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1,湖北卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1,辽宁卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1,重庆卫视 HD
+http://112.50.243.8/PLTV/88888888/224/3221225831/1.m3u8
+#EXTINF:-1,江西卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1,贵州卫视 HD
+http://112.50.243.8/PLTV/88888888/224/3221226827/1.m3u8
+#EXTINF:-1,四川卫视 HD
+http://112.50.243.8/PLTV/88888888/224/3221227006/1.m3u8
+#EXTINF:-1,河南卫视 HD
+http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
+#EXTINF:-1,广西卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
+#EXTINF:-1,吉林卫视 HD
+http://112.50.243.8/PLTV/88888888/224/3221225851/1.m3u8
+#EXTINF:-1,海南卫视 HD
+http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+#EXTINF:-1,厦门卫视 HD
+http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1,黑龙江卫视 HD
+http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1,河北卫视
+http://live5.plus.hebtv.com/hbws/sd/live.m3u8
+#EXTINF:-1,东南卫视
+http://39.134.65.162/PLTV/88888888/224/3221225500/index.m3u8
+#EXTINF:-1,陕西卫视
+http://112.50.243.8/PLTV/88888888/224/3221225850/1.m3u8
+#EXTINF:-1,甘肃卫视
+http://112.50.243.8/PLTV/88888888/224/3221225845/1.m3u8
+#EXTINF:-1,青海卫视
+http://liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
+#EXTINF:-1,云南卫视
+http://liveplay-kk.rtxapp.com/live/program/live/ynws/1300000/mnf.m3u8
+#EXTINF:-1,宁夏卫视
+http://112.50.243.8/PLTV/88888888/224/3221225849/1.m3u8
+#EXTINF:-1,新疆卫视
+http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8
+#EXTINF:-1,西藏卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1,内蒙古卫视
+http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8
+#EXTINF:-1,BasTV4K影院
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1,纯享4K超清
+http://ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
+#EXTINF:-1,CCTV1
+http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
+#EXTINF:-1,CCTV2
+http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+#EXTINF:-1,CCTV3
+http://112.50.243.8/PLTV/88888888/224/3221225924/1.m3u8
+#EXTINF:-1,CCTV4
+http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+#EXTINF:-1,CCTV5
+http://112.50.243.8/PLTV/88888888/224/3221225925/1.m3u8
+#EXTINF:-1,CCTV5
+http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
+#EXTINF:-1,CCTV7
+http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1,CCTV9
+http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
+#EXTINF:-1,CCTV5+
+http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
+#EXTINF:-1,超级体育
+http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
+#EXTINF:-1,CCTV6
+http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
+#EXTINF:-1,CCTV1
+http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8
+#EXTINF:-1,CCTV2
+http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+#EXTINF:-1,CCTV4
+http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+#EXTINF:-1,CCTV5+
+http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
+#EXTINF:-1,CCTV7
+http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1,CCTV9
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1,CCTV10
+http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1,FASHION MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1,FTV PARIS
