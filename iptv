@@ -107,34 +107,38 @@ http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1,香港卫视
 http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+#EXTINF:-1,北京纪实 HD
+http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 #EXTINF:-1,湖南卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 #EXTINF:-1,江苏卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
 #EXTINF:-1,浙江卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225825/1.m3u8
 #EXTINF:-1,上海东方 HD
-http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
 #EXTINF:-1,北京卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
 #EXTINF:-1,广东卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
 #EXTINF:-1,深圳卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8
 #EXTINF:-1,天津卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8
 #EXTINF:-1,安徽卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225844/1.m3u8
 #EXTINF:-1,山东卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8
 #EXTINF:-1,湖北卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8
 #EXTINF:-1,辽宁卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225832/1.m3u8
 #EXTINF:-1,重庆卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225831/1.m3u8
 #EXTINF:-1,江西卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225834/1.m3u8
+#EXTINF:-1,河北卫视 HD
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
 #EXTINF:-1,贵州卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226827/1.m3u8
 #EXTINF:-1,四川卫视 HD
@@ -142,39 +146,33 @@ http://112.50.243.8/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1,河南卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
 #EXTINF:-1,广西卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225836/1.m3u8
 #EXTINF:-1,吉林卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225851/1.m3u8
 #EXTINF:-1,海南卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:-1,厦门卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1,东南卫视 HD
+http://112.50.243.8/PLTV/88888888/224/3221225833/1.m3u8
 #EXTINF:-1,黑龙江卫视 HD
-http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
-#EXTINF:-1,河北卫视
-http://live5.plus.hebtv.com/hbws/sd/live.m3u8
-#EXTINF:-1,东南卫视
-http://39.134.65.162/PLTV/88888888/224/3221225500/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
 #EXTINF:-1,陕西卫视
 http://112.50.243.8/PLTV/88888888/224/3221225850/1.m3u8
 #EXTINF:-1,甘肃卫视
 http://112.50.243.8/PLTV/88888888/224/3221225845/1.m3u8
+#EXTINF:-1,山西卫视
+http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
 #EXTINF:-1,青海卫视
-http://liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
 #EXTINF:-1,云南卫视
-http://liveplay-kk.rtxapp.com/live/program/live/ynws/1300000/mnf.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225853/1.m3u8
 #EXTINF:-1,宁夏卫视
 http://112.50.243.8/PLTV/88888888/224/3221225849/1.m3u8
 #EXTINF:-1,新疆卫视
 http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8
-#EXTINF:-1,西藏卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1,内蒙古卫视
 http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8
-#EXTINF:-1,BasTV4K影院
-http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1,纯享4K超清
-http://ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1,CCTV1
 http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 #EXTINF:-1,CCTV2
@@ -897,3 +895,153 @@ http://39.117.250.106:9981/stream/channelid/958807493
 http://39.117.250.106:9981/stream/channelid/116640318
 #EXTINF:-1,바둑TV
 http://39.117.250.106:9981/stream/channelid/977429615
+#EXTINF:-1,Adult Barely 18
+http://flow2.biz:25461/800102/800102/27636
+#EXTINF:-1,Adult Beyond Porn 18+ Girls
+http://flow2.biz:25461/800102/800102/27637
+#EXTINF:-1,Adult Beyond Porn Amateur Gilrs
+http://flow2.biz:25461/800102/800102/27638
+#EXTINF:-1,Adult Beyond Porn Anal Addicts
+http://flow2.biz:25461/800102/800102/27639
+#EXTINF:-1,Adult Beyond Porn BBW Girls Do Porn
+http://flow2.biz:25461/800102/800102/27640
+#EXTINF:-1,Adult Brazzers TV 1
+http://flow2.biz:25461/800102/800102/27641
+#EXTINF:-1,Adult Classic Sex Channel 1
+http://flow2.biz:25461/800102/800102/27642
+#EXTINF:-1,Adult Dorcel TV
+http://flow2.biz:25461/800102/800102/27643
+#EXTINF:-1,Adult Evil Angel 1
+http://flow2.biz:25461/800102/800102/27644
+#EXTINF:-1,Adult Evil Angel 2
+http://flow2.biz:25461/800102/800102/27645
+#EXTINF:-1,Adult HotClub
+http://flow2.biz:25461/800102/800102/27646
+#EXTINF:-1,Adult HotClub 7
+http://flow2.biz:25461/800102/800102/27647
+#EXTINF:-1,Adult HotClub 8
+http://flow2.biz:25461/800102/800102/27648
+#EXTINF:-1,Adult HotClub 9
+http://flow2.biz:25461/800102/800102/27649
+#EXTINF:-1,Adult HotClub Anal
+http://flow2.biz:25461/800102/800102/27650
+#EXTINF:-1,Adult Hotclub Asian Redlight
+http://flow2.biz:25461/800102/800102/27651
+#EXTINF:-1,Adult HotClub Black
+http://flow2.biz:25461/800102/800102/27652
+#EXTINF:-1,Adult HotClub Blowjob Extreme
+http://flow2.biz:25461/800102/800102/27653
+#EXTINF:-1,Adult HotClub Femdom
+http://flow2.biz:25461/800102/800102/27654
+#EXTINF:-1,Adult HotClub Gone Wild
+http://flow2.biz:25461/800102/800102/27655
+#EXTINF:-1,Adult HotClub GroupSex
+http://flow2.biz:25461/800102/800102/27656
+#EXTINF:-1,Adult HotClub Mixed Girls
+http://flow2.biz:25461/800102/800102/27657
+#EXTINF:-1,Adult Gangbang Gone Wild
+http://flow2.biz:25461/800102/800102/27658
+#EXTINF:-1,Adult Hustler TV
+http://flow2.biz:25461/800102/800102/27659
+#EXTINF:-1,Adult Outdoor Club
+http://flow2.biz:25461/800102/800102/27660
+#EXTINF:-1,Adult Passionate 1
+http://flow2.biz:25461/800102/800102/27661
+#EXTINF:-1,Adult Passionate 2
+http://flow2.biz:25461/800102/800102/27662
+#EXTINF:-1,Adult Penthouse 1
+http://flow2.biz:25461/800102/800102/27663
+#EXTINF:-1,Adult Penthouse 2
+http://flow2.biz:25461/800102/800102/27664
+#EXTINF:-1,Adult Pinko 1
+http://flow2.biz:25461/800102/800102/27665
+#EXTINF:-1,Adult Pinko 2
+http://flow2.biz:25461/800102/800102/27666
+#EXTINF:-1,Adult Playboy TV
+http://flow2.biz:25461/800102/800102/27667
+#EXTINF:-1,Adult Playboy TV USA
+http://flow2.biz:25461/800102/800102/27668
+#EXTINF:-1,Adult Red Erotic 1
+http://flow2.biz:25461/800102/800102/27669
+#EXTINF:-1,Adult Red Erotic 2
+http://flow2.biz:25461/800102/800102/27670
+#EXTINF:-1,Adult Red Erotic 3
+http://flow2.biz:25461/800102/800102/27671
+#EXTINF:-1,Adult Red Erotic 4
+http://flow2.biz:25461/800102/800102/27672
+#EXTINF:-1,Adult Red Erotic 5
+http://flow2.biz:25461/800102/800102/27673
+#EXTINF:-1,Adult Red Erotic 6
+http://flow2.biz:25461/800102/800102/27674
+#EXTINF:-1,Adult Redlight District 1
+http://flow2.biz:25461/800102/800102/27675
+#EXTINF:-1,Adult Redlight District 2
+http://flow2.biz:25461/800102/800102/27676
+#EXTINF:-1,Adult Redlight District 3
+http://flow2.biz:25461/800102/800102/27677
+#EXTINF:-1,Adult SexTream
+http://flow2.biz:25461/800102/800102/27678
+#EXTINF:-1,Adult Venus 1
+http://flow2.biz:25461/800102/800102/27679
+#EXTINF:-1,Adult Venus 2
+http://flow2.biz:25461/800102/800102/27680
+#EXTINF:-1,Adult Xtreme Satisfaction
+http://flow2.biz:25461/800102/800102/27681
+#EXTINF:-1,Adult Girls Do Porn 1
+http://flow2.biz:25461/800102/800102/27682
+#EXTINF:-1,Adult Girls Do Porn 2
+http://flow2.biz:25461/800102/800102/27683
+#EXTINF:-1,Adult Girls Do Porn 3
+http://flow2.biz:25461/800102/800102/27684
+#EXTINF:-1,Adult Girls Do Porn 4
+http://flow2.biz:25461/800102/800102/27685
+#EXTINF:-1,Adult Girls Do Porn 5
+http://flow2.biz:25461/800102/800102/27686
+#EXTINF:-1,Adult Girls Do Porn 6
+http://flow2.biz:25461/800102/800102/27687
+#EXTINF:-1,Adult Girls Do Porn 7
+http://flow2.biz:25461/800102/800102/27688
+#EXTINF:-1,Adult Girls Do Porn 8
+http://flow2.biz:25461/800102/800102/27689
+#EXTINF:-1,Adult Girls Do Porn 9 https://iptv.live
+http://flow2.biz:25461/800102/800102/27690
+#EXTINF:-1,Adult Girls Do Porn 10
+http://flow2.biz:25461/800102/800102/27691
+#EXTINF:-1,Adult Brazzers TV 2
+http://flow2.biz:25461/800102/800102/27692
+#EXTINF:-1,Adult Brazzers TV 3
+http://flow2.biz:25461/800102/800102/27693
+#EXTINF:-1,Adult Brazzers TV 4
+http://flow2.biz:25461/800102/800102/27694
+#EXTINF:-1,Adult Brazzers TV 5
+http://flow2.biz:25461/800102/800102/27695
+#EXTINF:-1,Adult Sensation 1
+http://flow2.biz:25461/800102/800102/27696
+#EXTINF:-1,Adult Sensation 2
+http://flow2.biz:25461/800102/800102/27697
+#EXTINF:-1,Adult Sensation 3
+http://flow2.biz:25461/800102/800102/27698
+#EXTINF:-1,Adult Sensation 4
+http://flow2.biz:25461/800102/800102/27699
+#EXTINF:-1,Adult Sensation 5
+http://flow2.biz:25461/800102/800102/27700
+#EXTINF:-1,Adult Paradise 1
+http://flow2.biz:25461/800102/800102/27701
+#EXTINF:-1,Adult Paradise 2
+http://flow2.biz:25461/800102/800102/27702
+#EXTINF:-1,Adult Paradise 3
+http://flow2.biz:25461/800102/800102/27703
+#EXTINF:-1,Adult Paradise 4
+http://flow2.biz:25461/800102/800102/27704
+#EXTINF:-1,Adult Paradise 5
+http://flow2.biz:25461/800102/800102/27705
+#EXTINF:-1,Adult Paradise 6
+http://flow2.biz:25461/800102/800102/27706
+#EXTINF:-1,Adult Paradise 7
+http://flow2.biz:25461/800102/800102/27707
+#EXTINF:-1,Adult Paradise 8
+http://flow2.biz:25461/800102/800102/27708
+#EXTINF:-1,Adult Paradise 9
+http://flow2.biz:25461/800102/800102/27709
+#EXTINF:-1,Adult Paradise 10
+http://flow2.biz:25461/800102/800102/27710
