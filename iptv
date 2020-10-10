@@ -37,30 +37,6 @@ http://livetv.dnsfor.me:80/channel.17.m3u8
 http://livetv.dnsfor.me:80/channel.23.m3u8
 #EXTINF:-1,亚旅卫视
 http://livetv.dnsfor.me:80/channel.24.m3u8
-#EXTINF:-1,港台電視 31
-http://42.2.137.166:9981/stream/channelid/127114208
-#EXTINF:-1,港台電視 32
-http://42.2.137.166:9981/stream/channelid/1249283661
-#EXTINF:-1,中央電視台綜合頻道（CCTV-1綜合)
-http://42.2.137.166:9981/stream/channelid/968533998
-#EXTINF:-1,香港國際財經台
-http://42.2.137.166:9981/stream/channelid/1380020192
-#EXTINF:-1,香港開電視
-http://42.2.137.166:9981/stream/channelid/1736688978
-#EXTINF:-1,翡翠台
-http://42.2.137.166:9981/stream/channelid/1839764467
-#EXTINF:-1,J2台
-http://42.2.137.166:9981/stream/channelid/254628867
-#EXTINF:-1,無綫新聞台
-http://42.2.137.166:9981/stream/channelid/1630086388
-#EXTINF:-1,明珠台
-http://42.2.137.166:9981/stream/channelid/1633308591
-#EXTINF:-1,無綫財經 · 資訊台
-http://42.2.137.166:9981/stream/channelid/1002567682
-#EXTINF:-1,ViuTVsix
-http://42.2.137.166:9981/stream/channelid/1057002522
-#EXTINF:-1,ViuTV
-http://42.2.137.166:9981/stream/channelid/784533839
 #EXTINF:-1, 翡翠台
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1, 明珠台
@@ -895,3 +871,499 @@ http://39.117.250.106:9981/stream/channelid/958807493
 http://39.117.250.106:9981/stream/channelid/116640318
 #EXTINF:-1,바둑TV
 http://39.117.250.106:9981/stream/channelid/977429615
+#EXTINF:-1,湖北卫视
+http://188.40.76.108:25461/mytv01/uSIRzmks51/5
+#EXTINF:-1,湖南卫视
+http://188.40.76.108:25461/mytv01/uSIRzmks51/6
+#EXTINF:-1,东方卫视
+http://188.40.76.108:25461/mytv01/uSIRzmks51/7
+#EXTINF:-1,江苏卫视
+http://188.40.76.108:25461/mytv01/uSIRzmks51/8
+#EXTINF:-1,浙江卫视
+http://188.40.76.108:25461/mytv01/uSIRzmks51/9
+#EXTINF:-1,NewTV 家庭剧场
+http://188.40.76.108:25461/mytv01/uSIRzmks51/10
+#EXTINF:-1,CCTV15 音乐
+http://188.40.76.108:25461/mytv01/uSIRzmks51/11
+#EXTINF:-1,CCTV13 新闻
+http://188.40.76.108:25461/mytv01/uSIRzmks51/12
+#EXTINF:-1,CCTV12 社会与法
+http://188.40.76.108:25461/mytv01/uSIRzmks51/13
+#EXTINF:-1,CCTV11 戏曲
+http://188.40.76.108:25461/mytv01/uSIRzmks51/14
+#EXTINF:-1,CCTV10 科教
+http://188.40.76.108:25461/mytv01/uSIRzmks51/15
+#EXTINF:-1,CCTV9/CGTN DOC
+http://188.40.76.108:25461/mytv01/uSIRzmks51/16
+#EXTINF:-1,CCTV8 电视剧
+http://188.40.76.108:25461/mytv01/uSIRzmks51/17
+#EXTINF:-1,CCTV7 国防军事
+http://188.40.76.108:25461/mytv01/uSIRzmks51/18
+#EXTINF:-1,CCTV4 中文国际
+http://188.40.76.108:25461/mytv01/uSIRzmks51/19
+#EXTINF:-1,CCTV3 综艺
+http://188.40.76.108:25461/mytv01/uSIRzmks51/20
+#EXTINF:-1,CCTV2 财经
+http://188.40.76.108:25461/mytv01/uSIRzmks51/21
+#EXTINF:-1,CCTV1 综合
+http://188.40.76.108:25461/mytv01/uSIRzmks51/22
+#EXTINF:-1,viuTV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/24
+#EXTINF:-1,TVB J2
+http://188.40.76.108:25461/mytv01/uSIRzmks51/27
+#EXTINF:-1,TVB 星河
+http://188.40.76.108:25461/mytv01/uSIRzmks51/28
+#EXTINF:-1,Astro AEC
+http://188.40.76.108:25461/mytv01/uSIRzmks51/272
+#EXTINF:-1,ASTRO 双星
+http://188.40.76.108:25461/mytv01/uSIRzmks51/273
+#EXTINF:-1,ASTRO 天映经典
+http://188.40.76.108:25461/mytv01/uSIRzmks51/274
+#EXTINF:-1,ASTRO 欢喜
+http://188.40.76.108:25461/mytv01/uSIRzmks51/275
+#EXTINF:-1,ASTRO AOD
+http://188.40.76.108:25461/mytv01/uSIRzmks51/276
+#EXTINF:-1,ASTRO 全佳
+http://188.40.76.108:25461/mytv01/uSIRzmks51/277
+#EXTINF:-1,ASTRO AWANI
+http://188.40.76.108:25461/mytv01/uSIRzmks51/118
+#EXTINF:-1,STAR MOVIES
+http://188.40.76.108:25461/mytv01/uSIRzmks51/70
+#EXTINF:-1,CCTV6 电影
+http://188.40.76.108:25461/mytv01/uSIRzmks51/71
+#EXTINF:-1,CHC 高清电影
+http://188.40.76.108:25461/mytv01/uSIRzmks51/72
+#EXTINF:-1,FOX ACTION MOVIES
+http://188.40.76.108:25461/mytv01/uSIRzmks51/73
+#EXTINF:-1,CELESTIAL MOVIES 天映频道
+http://188.40.76.108:25461/mytv01/uSIRzmks51/74
+#EXTINF:-1,WARNER TV 華納電影
+http://188.40.76.108:25461/mytv01/uSIRzmks51/75
+#EXTINF:-1,EBC 東森洋片
+http://188.40.76.108:25461/mytv01/uSIRzmks51/76
+#EXTINF:-1,EBC 東森電影
+http://188.40.76.108:25461/mytv01/uSIRzmks51/77
+#EXTINF:-1,PHOENIX MOVIES 凤凰卫视电影
+http://188.40.76.108:25461/mytv01/uSIRzmks51/78
+#EXTINF:-1,STAR CHINESE MOVIES 衛視電影
+http://188.40.76.108:25461/mytv01/uSIRzmks51/79
+#EXTINF:-1,Astro AEC HD
+http://tvku.live:8888/donal/donal/4257
+#EXTINF:-1,MY AFC HD
+http://tvku.live:8888/donal/donal/4258
+#EXTINF:-1,MY Animal Planet HD
+http://tvku.live:8888/donal/donal/4259
+#EXTINF:-1,MY Aniplus HD
+http://tvku.live:8888/donal/donal/4260
+#EXTINF:-1,Astro AOD 350
+http://tvku.live:8888/donal/donal/4261
+#EXTINF:-1,Astro AOD 351
+http://tvku.live:8888/donal/donal/4262
+#EXTINF:-1,Astro AOD 352
+http://tvku.live:8888/donal/donal/4263
+#EXTINF:-1,Astro AOD 353
+http://tvku.live:8888/donal/donal/4264
+#EXTINF:-1,Astro AOD 361
+http://tvku.live:8888/donal/donal/4265
+#EXTINF:-1,Astro AOD 362
+http://tvku.live:8888/donal/donal/4266
+#EXTINF:-1,Astro AOD HD 363
+http://tvku.live:8888/donal/donal/4267
+#EXTINF:-1,MY Asian Action
+http://tvku.live:8888/donal/donal/4268
+#EXTINF:-1,Astro Awani
+http://tvku.live:8888/donal/donal/4269
+#EXTINF:-1,MY AXN HD
+http://tvku.live:8888/donal/donal/4270
+#EXTINF:-1,MY beIN SPORTS
+http://tvku.live:8888/donal/donal/4274
+#EXTINF:-1,MY BNC
+http://tvku.live:8888/donal/donal/4276
+#EXTINF:-1,Astro Bollyone HD
+http://tvku.live:8888/donal/donal/4277
+#EXTINF:-1,MY Cartoon Network
+http://tvku.live:8888/donal/donal/4278
+#EXTINF:-1,MY CCM
+http://tvku.live:8888/donal/donal/4279
+#EXTINF:-1,MY CCTV4
+http://tvku.live:8888/donal/donal/4280
+#EXTINF:-1,MY CELESTIAL HD
+http://tvku.live:8888/donal/donal/4281
+#EXTINF:-1,Astro Ceria
+http://tvku.live:8888/donal/donal/4282
+#EXTINF:-1,MY CHUTTI TV
+http://tvku.live:8888/donal/donal/4284
+#EXTINF:-1,MY Crime Investigation HD
+http://tvku.live:8888/donal/donal/4285
+#EXTINF:-1,MY CINEMAX HD
+http://tvku.live:8888/donal/donal/4286
+#EXTINF:-1,MY CLASSIC MOVIES
+http://tvku.live:8888/donal/donal/4287
+#EXTINF:-1,MY CNBC
+http://tvku.live:8888/donal/donal/4288
+#EXTINF:-1,MY CNN HD
+http://tvku.live:8888/donal/donal/4289
+#EXTINF:-1,MY COLORS HD
+http://tvku.live:8888/donal/donal/4290
+#EXTINF:-1,MY CTI ASIA
+http://tvku.live:8888/donal/donal/4291
+#EXTINF:-1,MY Discovery Science HD
+http://tvku.live:8888/donal/donal/4292
+#EXTINF:-1,MY Discovery Asia
+http://tvku.live:8888/donal/donal/4293
+#EXTINF:-1,MY Discovery HD
+http://tvku.live:8888/donal/donal/4294
+#EXTINF:-1,MY Disney Channel
+http://tvku.live:8888/donal/donal/4295
+#EXTINF:-1,MY Disney Junior
+http://tvku.live:8888/donal/donal/4296
+#EXTINF:-1,MY Disney XD HD
+http://tvku.live:8888/donal/donal/4297
+#EXTINF:-1,MY DMAX HD
+http://tvku.live:8888/donal/donal/4299
+#EXTINF:-1,MY eGG Network
+http://tvku.live:8888/donal/donal/4301
+#EXTINF:-1,MY EUROSPORT HD
+http://tvku.live:8888/donal/donal/4302
+#EXTINF:-1,MY Food Network HD
+http://tvku.live:8888/donal/donal/4303
+#EXTINF:-1,Astro Go Shop 2
+http://tvku.live:8888/donal/donal/4304
+#EXTINF:-1,Astro Go Shop
+http://tvku.live:8888/donal/donal/4305
+#EXTINF:-1,Astro Go Shop 3
+http://tvku.live:8888/donal/donal/4306
+#EXTINF:-1,MY Golf Channel HD
+http://tvku.live:8888/donal/donal/4307
+#EXTINF:-1,MY HBO HD
+http://tvku.live:8888/donal/donal/4308
+#EXTINF:-1,MY HELLO
+http://tvku.live:8888/donal/donal/4309
+#EXTINF:-1,MY HGTV HD
+http://tvku.live:8888/donal/donal/4310
+#EXTINF:-1,MY HISTORY HD
+http://tvku.live:8888/donal/donal/4311
+#EXTINF:-1,MY HITS HD
+http://tvku.live:8888/donal/donal/4312
+#EXTINF:-1,Astro HUA HEE DAI HD
+http://tvku.live:8888/donal/donal/4313
+#EXTINF:-1,MY JAYA TV
+http://tvku.live:8888/donal/donal/4315
+#EXTINF:-1,MY KALAIGNAR
+http://tvku.live:8888/donal/donal/4316
+#EXTINF:-1,MY KBS WORLD HD
+http://tvku.live:8888/donal/donal/4317
+#EXTINF:-1,MY KIX HD
+http://tvku.live:8888/donal/donal/4318
+#EXTINF:-1,MY KPLUS HD
+http://tvku.live:8888/donal/donal/4319
+#EXTINF:-1,MY MAKKAL TV
+http://tvku.live:8888/donal/donal/4320
+#EXTINF:-1,MY NAURA
+http://tvku.live:8888/donal/donal/4321
+#EXTINF:-1,MY NICKELODEON
+http://tvku.live:8888/donal/donal/4322
+#EXTINF:-1,Astro OASIS HD
+http://tvku.live:8888/donal/donal/4323
+#EXTINF:-1,MY Oh!K HD
+http://tvku.live:8888/donal/donal/4324
+#EXTINF:-1,MY ONE HD
+http://tvku.live:8888/donal/donal/4325
+#EXTINF:-1,Astro Prima HD
+http://tvku.live:8888/donal/donal/4326
+#EXTINF:-1,Astro QUAN JIA HD
+http://tvku.live:8888/donal/donal/4327
+#EXTINF:-1,MY RAJ TV
+http://tvku.live:8888/donal/donal/4328
+#EXTINF:-1,Astro Ria HD
+http://tvku.live:8888/donal/donal/4329
+#EXTINF:-1,MY SETANTA SPORTS
+http://tvku.live:8888/donal/donal/4330
+#EXTINF:-1,Astro SHUANG XING HD
+http://tvku.live:8888/donal/donal/4331
+#EXTINF:-1,Astro STAR VIJAY HD
+http://tvku.live:8888/donal/donal/4332
+#EXTINF:-1,MY SUN MUSIC
+http://tvku.live:8888/donal/donal/4333
+#EXTINF:-1,MY SUN TV HD
+http://tvku.live:8888/donal/donal/4334
+#EXTINF:-1,MY TLC HD
+http://tvku.live:8888/donal/donal/4335
+#EXTINF:-1,Astro TUTOR TV PT3
+http://tvku.live:8888/donal/donal/4336
+#EXTINF:-1,Astro TUTOR TV SPM
+http://tvku.live:8888/donal/donal/4337
+#EXTINF:-1,Astro TUTOR TV UPSR
+http://tvku.live:8888/donal/donal/4338
+#EXTINF:-1,MY TVB CLASSIC
+http://tvku.live:8888/donal/donal/4339
+#EXTINF:-1,MY TVB E-NEWS
+http://tvku.live:8888/donal/donal/4340
+#EXTINF:-1,MY TVB JADE
+http://tvku.live:8888/donal/donal/4341
+#EXTINF:-1,MY TVB XING HE
+http://tvku.live:8888/donal/donal/4342
+#EXTINF:-1,MY TVBS ASIA
+http://tvku.live:8888/donal/donal/4343
+#EXTINF:-1,MY iQIYI HD
+http://tvku.live:8888/donal/donal/4314
+#EXTINF:-1,Astro TVIQ
+http://tvku.live:8888/donal/donal/4344
+#EXTINF:-1,Astro VAANAVIL
+http://tvku.live:8888/donal/donal/4345
+#EXTINF:-1,Astro VINMEEN HD
+http://tvku.live:8888/donal/donal/4346
+#EXTINF:-1,TVB Jade
+http://tvku.live:8888/donal/donal/4347
+#EXTINF:-1,Astro WARNA HD
+http://tvku.live:8888/donal/donal/4348
+#EXTINF:-1,MY WWE NETWORK
+http://tvku.live:8888/donal/donal/4349
+#EXTINF:-1,Astro XIAO TAI YANG
+http://tvku.live:8888/donal/donal/4350
+#EXTINF:-1,MY ABC AUSTRALIA
+http://tvku.live:8888/donal/donal/4358
+#EXTINF:-1,MY AL JAZEERA HD
+http://tvku.live:8888/donal/donal/4359
+#EXTINF:-1,MY ANIMAX
+http://tvku.live:8888/donal/donal/4360
+#EXTINF:-1,MY BBC WORLD NEWS HD
+http://tvku.live:8888/donal/donal/4361
+#EXTINF:-1,MY CNA HD
+http://tvku.live:8888/donal/donal/4362
+#EXTINF:-1,MY COLORS TAMIL
+http://tvku.live:8888/donal/donal/4363
+#EXTINF:-1,MY COMEDY CENTRAL HD
+http://tvku.live:8888/donal/donal/4364
+#EXTINF:-1,MY DW HD
+http://tvku.live:8888/donal/donal/4365
+#EXTINF:-1,MY FOX SPORTS 2 HD
+http://tvku.live:8888/donal/donal/4366
+#EXTINF:-1,MY FOX SPORTS 3 HD
+http://tvku.live:8888/donal/donal/4367
+#EXTINF:-1,MY FOX SPORTS HD
+http://tvku.live:8888/donal/donal/4368
+#EXTINF:-1,MY MTV
+http://tvku.live:8888/donal/donal/4370
+#EXTINF:-1,MY Nat Geo Wild HD
+http://tvku.live:8888/donal/donal/4371
+#EXTINF:-1,MY tvN Movies
+http://tvku.live:8888/donal/donal/4375
+#EXTINF:-1,MY WARNER TV
+http://tvku.live:8888/donal/donal/4376
+#EXTINF:-1,MY Fox Life HD
+http://tvku.live:8888/donal/donal/4379
+#EXTINF:-1,MY Celestial Movies
+http://tvku.live:8888/donal/donal/4386
+#EXTINF:-1,MY Fox Movies HD
+http://tvku.live:8888/donal/donal/4390
+#EXTINF:-1,MY Fox Action HD
+http://tvku.live:8888/donal/donal/4391
+#EXTINF:-1,MY Fox Movies Family HD
+http://tvku.live:8888/donal/donal/4392
+#EXTINF:-1,MY FOX HD
+http://tvku.live:8888/donal/donal/4393
+#EXTINF:-1,IN: Colors HD
+http://tvku.live:8888/donal/donal/2548
+#EXTINF:-1,IN: Star Jalsha
+http://tvku.live:8888/donal/donal/2547
+#EXTINF:-1,IN: Star Vijay
+http://tvku.live:8888/donal/donal/2545
+#EXTINF:-1,IN: UTV Bindass
+http://tvku.live:8888/donal/donal/2544
+#EXTINF:-1,IN: UTV Movies HD
+http://tvku.live:8888/donal/donal/2543
+#EXTINF:-1,IN: Zee Bollywood
+http://tvku.live:8888/donal/donal/2541
+#EXTINF:-1,IN: Zee Cinema
+http://tvku.live:8888/donal/donal/2542
+#EXTINF:-1,IN: & Picture HD
+http://tvku.live:8888/donal/donal/2553
+#EXTINF:-1,IN: &TV HD India
+http://tvku.live:8888/donal/donal/2554
+#EXTINF:-1,IN: B4U Movies
+http://tvku.live:8888/donal/donal/2557
+#EXTINF:-1,IN: B4U Music
+http://tvku.live:8888/donal/donal/2558
+#EXTINF:-1,IN: SUN Life
+http://tvku.live:8888/donal/donal/2556
+#EXTINF:-1,IN: SUN Music
+http://tvku.live:8888/donal/donal/2555
+#EXTINF:-1,IN: Zee HD
+http://tvku.live:8888/donal/donal/2559
+#EXTINF:-1,CN: CCTV 4
+http://tvku.live:8888/donal/donal/2912
+#EXTINF:-1,TV1
+http://tvku.live:8888/donal/donal/2262
+#EXTINF:-1,TV2
+http://tvku.live:8888/donal/donal/2263
+#EXTINF:-1,TV3
+http://tvku.live:8888/donal/donal/2264
+#EXTINF:-1,TV8
+http://tvku.live:8888/donal/donal/2333
+#EXTINF:-1,AR: Al Nahar
+http://tvku.live:8888/donal/donal/2575
+#EXTINF:-1,AR: MBC Action HD
+http://tvku.live:8888/donal/donal/2564
+#EXTINF:-1,AR: MBC Drama HD
+http://tvku.live:8888/donal/donal/2565
+#EXTINF:-1,AR: MBC Variety HD
+http://tvku.live:8888/donal/donal/2567
+#EXTINF:-1,AR: Nile Cinema
+http://tvku.live:8888/donal/donal/2584
+#EXTINF:-1,AR: NILE COMEDY
+http://tvku.live:8888/donal/donal/2583
+#EXTINF:-1,AR: Nile Culture
+http://tvku.live:8888/donal/donal/2582
+#EXTINF:-1,AR: Nile Drama
+http://tvku.live:8888/donal/donal/2581
+#EXTINF:-1,AR: Nile Family
+http://tvku.live:8888/donal/donal/2576
+#EXTINF:-1,AR: Nile Life
+http://tvku.live:8888/donal/donal/2580
+#EXTINF:-1,AR: NILE NEWS
+http://tvku.live:8888/donal/donal/2579
+#EXTINF:-1,AR: Nile tv
+http://tvku.live:8888/donal/donal/2577
+#EXTINF:-1,AR: Rotana Alfam HD
+http://tvku.live:8888/donal/donal/2574
+#EXTINF:-1,AR: Rotana Cinema HD
+http://tvku.live:8888/donal/donal/2573
+#EXTINF:-1,AR: Rotana Classic HD
+http://tvku.live:8888/donal/donal/2572
+#EXTINF:-1,AR: Rotana Khalijiah HD
+http://tvku.live:8888/donal/donal/2571
+#EXTINF:-1,AR: Rotana Masriah HD
+http://tvku.live:8888/donal/donal/2570
+#EXTINF:-1,FMN
+http://tvku.live:8888/donal/donal/11489
+#EXTINF:-1,Sony Ten 1 HD
+http://tvku.live:8888/donal/donal/12132
+#EXTINF:-1,Sony Ten 2 HD
+http://tvku.live:8888/donal/donal/12133
+#EXTINF:-1,Sony Ten 3 HD
+http://tvku.live:8888/donal/donal/12134
+#EXTINF:-1,Sony Six HD
+http://tvku.live:8888/donal/donal/12136
+#EXTINF:-1,Piala Indonesia
+http://tvku.live:8888/donal/donal/2150
+#EXTINF:-1,Khanzanah
+http://tvku.live:8888/donal/donal/2207
+#EXTINF:-1,Sinema Indonesia
+http://tvku.live:8888/donal/donal/3476
+#EXTINF:-1,Channel 5
+http://tvku.live:8888/donal/donal/11199
+#EXTINF:-1,Channel 8
+http://tvku.live:8888/donal/donal/11200
+#EXTINF:-1,Horee
+http://tvku.live:8888/donal/donal/14106
+#EXTINF:-1,TVRI
+http://tvku.live:8888/donal/donal/36
+#EXTINF:-1,Duck TV UK
+http://tvku.live:8888/donal/donal/14944
+#EXTINF:-1,CGTN News
+http://tvku.live:8888/donal/donal/15070
+#EXTINF:-1,Bayern TV
+http://tvku.live:8888/donal/donal/15084
+#EXTINF:-1,Arena Sport 1 HD
+http://tvku.live:8888/donal/donal/15089
+#EXTINF:-1,Arena Sport 2 HD
+http://tvku.live:8888/donal/donal/15090
+#EXTINF:-1,Arena Sport 3 HD
+http://tvku.live:8888/donal/donal/15091
+#EXTINF:-1,Arena Sport 4 HD
+http://tvku.live:8888/donal/donal/15092
+#EXTINF:-1,Arena Sport 5 HD
+http://tvku.live:8888/donal/donal/15093
+#EXTINF:-1,MY: Nat Geo Asia
+http://tvku.live:8888/donal/donal/15104
+#EXTINF:-1,MY: Nat Geo People
+http://tvku.live:8888/donal/donal/15105
+#EXTINF:-1,MY: Nat Geo Wild
+http://tvku.live:8888/donal/donal/15106
+#EXTINF:-1,Stadium Sports Network
+http://tvku.live:8888/donal/donal/19012
+#EXTINF:-1,Tennis Channel 2
+http://tvku.live:8888/donal/donal/19168
+#EXTINF:-1,NFL Network HD
+http://tvku.live:8888/donal/donal/19208
+#EXTINF:-1,Server ID: History
+http://tvku.live:8888/donal/donal/24220
+#EXTINF:-1,LFCTV
+http://tvku.live:8888/donal/donal/24796
+#EXTINF:-1,ESPN
+http://tvku.live:8888/donal/donal/24888
+#EXTINF:-1,ESPN 2
+http://tvku.live:8888/donal/donal/24889
+#EXTINF:-1,Lax Sports Network
+http://tvku.live:8888/donal/donal/25212
+#EXTINF:-1,TSN 1 HD
+http://tvku.live:8888/donal/donal/25357
+#EXTINF:-1,TSN 2 HD
+http://tvku.live:8888/donal/donal/25356
+#EXTINF:-1,TSN 3 HD
+http://tvku.live:8888/donal/donal/25358
+#EXTINF:-1,TSN 4 HD
+http://tvku.live:8888/donal/donal/25359
+#EXTINF:-1,TSN 5 HD
+http://tvku.live:8888/donal/donal/25360
+#EXTINF:-1,Channel U
+http://tvku.live:8888/donal/donal/26209
+#EXTINF:-1,Okto
+http://tvku.live:8888/donal/donal/26210
+#EXTINF:-1,Suria
+http://tvku.live:8888/donal/donal/26212
+#EXTINF:-1,SEC Network
+http://tvku.live:8888/donal/donal/26319
+#EXTINF:-1,Vasantham
+http://tvku.live:8888/donal/donal/26584
+#EXTINF:-1,Wesal TV
+http://tvku.live:8888/donal/donal/26629
+#EXTINF:-1,Ahsan TV
+http://tvku.live:8888/donal/donal/26630
+#EXTINF:-1,Al-Iman TV
+http://tvku.live:8888/donal/donal/26631
+#EXTINF:-1,Reformed 21
+http://tvku.live:8888/donal/donal/26632
+#EXTINF:-1,Vision Prime
+http://tvku.live:8888/donal/donal/26635
+#EXTINF:-1,CH3 FHD
+http://tvku.live:8888/donal/donal/26636
+#EXTINF:-1,CH5 FHD
+http://tvku.live:8888/donal/donal/26638
+#EXTINF:-1,CH7 FHD
+http://tvku.live:8888/donal/donal/26640
+#EXTINF:-1,ThaiPBS FHD
+http://tvku.live:8888/donal/donal/26644
+#EXTINF:-1,ONE FHD
+http://tvku.live:8888/donal/donal/26646
+#EXTINF:-1,GMM25
+http://tvku.live:8888/donal/donal/26656
+#EXTINF:-1,Amarin FHD
+http://tvku.live:8888/donal/donal/26648
+#EXTINF:-1,True4U
+http://tvku.live:8888/donal/donal/26660
+#EXTINF:-1,Voice TV
+http://tvku.live:8888/donal/donal/26662
+#EXTINF:-1,ZQTV Drama
+http://tvku.live:8888/donal/donal/26979
+#EXTINF:-1,VTV 6
+http://tvku.live:8888/donal/donal/27058
+#EXTINF:-1,Server ID: Nick JR ID
+http://tvku.live:8888/donal/donal/14165
+#EXTINF:-1,BeIN Sport 2 ID
+http://tvku.live:8888/donal/donal/729
+#EXTINF:-1,BeIN Sport 1 ID
+http://tvku.live:8888/donal/donal/728
+#EXTINF:-1,i konser
+http://tvku.live:8888/donal/donal/29594
+#EXTINF:-1,Zhejiang International
+http://tvku.live:8888/donal/donal/29595
+#EXTINF:-1,Shenzhen International
+http://tvku.live:8888/donal/donal/29596
+#EXTINF:-1,ETTV Asia
+http://tvku.live:8888/donal/donal/29597
+#EXTINF:-1,Kungfu TV
+http://tvku.live:8888/donal/donal/29598
+#EXTINF:-1,Chinese Drama
+http://tvku.live:8888/donal/donal/29599
