@@ -343,6 +343,8 @@ http://119.126.158.60:9981/stream/channelid/328402685
 http://119.126.158.60:9981/stream/channelid/1360237696
 #EXTINF:-1,黑龙江卫视-HD
 http://119.126.158.60:9981/stream/channelid/1080509408
+#EXTINF:-1,CCTV4K
+http://116.20.80.33:9981/stream/channelid/2064576588
 #EXTINF:-1, 翡翠台
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1, 明珠台
