@@ -1088,82 +1088,6 @@ http://39.117.250.106:9981/stream/channelid/958807493
 http://39.117.250.106:9981/stream/channelid/116640318
 #EXTINF:-1,바둑TV
 http://39.117.250.106:9981/stream/channelid/977429615
-#EXTINF:-1,湖北卫视
-http://188.40.76.108:25461/mytv01/uSIRzmks51/5
-#EXTINF:-1,湖南卫视
-http://188.40.76.108:25461/mytv01/uSIRzmks51/6
-#EXTINF:-1,东方卫视
-http://188.40.76.108:25461/mytv01/uSIRzmks51/7
-#EXTINF:-1,江苏卫视
-http://188.40.76.108:25461/mytv01/uSIRzmks51/8
-#EXTINF:-1,浙江卫视
-http://188.40.76.108:25461/mytv01/uSIRzmks51/9
-#EXTINF:-1,NewTV 家庭剧场
-http://188.40.76.108:25461/mytv01/uSIRzmks51/10
-#EXTINF:-1,CCTV15 音乐
-http://188.40.76.108:25461/mytv01/uSIRzmks51/11
-#EXTINF:-1,CCTV13 新闻
-http://188.40.76.108:25461/mytv01/uSIRzmks51/12
-#EXTINF:-1,CCTV12 社会与法
-http://188.40.76.108:25461/mytv01/uSIRzmks51/13
-#EXTINF:-1,CCTV11 戏曲
-http://188.40.76.108:25461/mytv01/uSIRzmks51/14
-#EXTINF:-1,CCTV10 科教
-http://188.40.76.108:25461/mytv01/uSIRzmks51/15
-#EXTINF:-1,CCTV9/CGTN DOC
-http://188.40.76.108:25461/mytv01/uSIRzmks51/16
-#EXTINF:-1,CCTV8 电视剧
-http://188.40.76.108:25461/mytv01/uSIRzmks51/17
-#EXTINF:-1,CCTV7 国防军事
-http://188.40.76.108:25461/mytv01/uSIRzmks51/18
-#EXTINF:-1,CCTV4 中文国际
-http://188.40.76.108:25461/mytv01/uSIRzmks51/19
-#EXTINF:-1,CCTV3 综艺
-http://188.40.76.108:25461/mytv01/uSIRzmks51/20
-#EXTINF:-1,CCTV2 财经
-http://188.40.76.108:25461/mytv01/uSIRzmks51/21
-#EXTINF:-1,CCTV1 综合
-http://188.40.76.108:25461/mytv01/uSIRzmks51/22
-#EXTINF:-1,viuTV
-http://188.40.76.108:25461/mytv01/uSIRzmks51/24
-#EXTINF:-1,TVB J2
-http://188.40.76.108:25461/mytv01/uSIRzmks51/27
-#EXTINF:-1,TVB 星河
-http://188.40.76.108:25461/mytv01/uSIRzmks51/28
-#EXTINF:-1,Astro AEC
-http://188.40.76.108:25461/mytv01/uSIRzmks51/272
-#EXTINF:-1,ASTRO 双星
-http://188.40.76.108:25461/mytv01/uSIRzmks51/273
-#EXTINF:-1,ASTRO 天映经典
-http://188.40.76.108:25461/mytv01/uSIRzmks51/274
-#EXTINF:-1,ASTRO 欢喜
-http://188.40.76.108:25461/mytv01/uSIRzmks51/275
-#EXTINF:-1,ASTRO AOD
-http://188.40.76.108:25461/mytv01/uSIRzmks51/276
-#EXTINF:-1,ASTRO 全佳
-http://188.40.76.108:25461/mytv01/uSIRzmks51/277
-#EXTINF:-1,ASTRO AWANI
-http://188.40.76.108:25461/mytv01/uSIRzmks51/118
-#EXTINF:-1,STAR MOVIES
-http://188.40.76.108:25461/mytv01/uSIRzmks51/70
-#EXTINF:-1,CCTV6 电影
-http://188.40.76.108:25461/mytv01/uSIRzmks51/71
-#EXTINF:-1,CHC 高清电影
-http://188.40.76.108:25461/mytv01/uSIRzmks51/72
-#EXTINF:-1,FOX ACTION MOVIES
-http://188.40.76.108:25461/mytv01/uSIRzmks51/73
-#EXTINF:-1,CELESTIAL MOVIES 天映频道
-http://188.40.76.108:25461/mytv01/uSIRzmks51/74
-#EXTINF:-1,WARNER TV 華納電影
-http://188.40.76.108:25461/mytv01/uSIRzmks51/75
-#EXTINF:-1,EBC 東森洋片
-http://188.40.76.108:25461/mytv01/uSIRzmks51/76
-#EXTINF:-1,EBC 東森電影
-http://188.40.76.108:25461/mytv01/uSIRzmks51/77
-#EXTINF:-1,PHOENIX MOVIES 凤凰卫视电影
-http://188.40.76.108:25461/mytv01/uSIRzmks51/78
-#EXTINF:-1,STAR CHINESE MOVIES 衛視電影
-http://188.40.76.108:25461/mytv01/uSIRzmks51/79
 #EXTINF:-1,Astro AEC HD
 http://tvku.live:8888/donal/donal/4257
 #EXTINF:-1,MY AFC HD
@@ -1578,9 +1502,3 @@ http://tvku.live:8888/donal/donal/29594
 http://tvku.live:8888/donal/donal/29595
 #EXTINF:-1,Shenzhen International
 http://tvku.live:8888/donal/donal/29596
-#EXTINF:-1,ETTV Asia
-http://tvku.live:8888/donal/donal/29597
-#EXTINF:-1,Kungfu TV
-http://tvku.live:8888/donal/donal/29598
-#EXTINF:-1,Chinese Drama
-http://tvku.live:8888/donal/donal/29599
