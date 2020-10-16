@@ -98,6 +98,10 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1,ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1,凤凰卫视資訊台
+http://112.50.243.8/PLTV/88888888/224/3221225901/3.m3u8
+#EXTINF:-1,凤凰卫视中文台
+http://112.50.243.8/PLTV/88888888/224/3221225900/3.m3u8
 #EXTINF:-1,CCTV-15音乐
 http://112.50.243.4/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1,湖南卫视
