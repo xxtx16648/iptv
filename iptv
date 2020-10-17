@@ -53,26 +53,7 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&r
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,LUXE TV
 http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
-#EXTINF:-1,港台电视31
-https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1,港台电视32
-https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1,港台电视33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1,香港国际财经台
-https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1,香港开电视
-https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1,Jade
-https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1,J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1,Pearl
-https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1,ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1,ViuTV Six
-https://cdn.hkdtmb.com/hls/96/index.m3u8#EXTINF:-1,CCTV 5
+#EXTINF:-1,CCTV 5
 http://livetv.dnsfor.me:80/channel.17.m3u8
 #EXTINF:-1,UNIVERSE TV
 http://livetv.dnsfor.me:80/channel.23.m3u8
