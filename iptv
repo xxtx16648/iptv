@@ -1361,6 +1361,114 @@ http://1.255.204.45:9981/stream/channelid/497362755
 http://1.255.204.45:9981/stream/channelid/394037256
 #EXTINF:-1,SPOTV2
 http://1.255.204.45:9981/stream/channelid/945187718
+#EXTINF:-1,EBS플러스1
+http://211.247.10.11:9981/stream/channelid/1098501703
+#EXTINF:-1,EBS
+http://211.247.10.11:9981/stream/channelid/1593496997
+#EXTINF:-1,EBS2
+http://211.247.10.11:9981/stream/channelid/38401999
+#EXTINF:-1,TJB DTV
+http://211.247.10.11:9981/stream/channelid/284934154
+#EXTINF:-1,KBS2 대전
+http://211.247.10.11:9981/stream/channelid/1515316092
+#EXTINF:-1,KBS1 대전
+http://211.247.10.11:9981/stream/channelid/1335686426
+#EXTINF:-1,MBC DTV
+http://211.247.10.11:9981/stream/channelid/1784170124
+#EXTINF:-1,애니맥스
+http://211.247.10.11:9981/stream/channelid/1357361736
+#EXTINF:-1,tvN
+http://211.247.10.11:9981/stream/channelid/989509670
+#EXTINF:-1,채널A
+http://211.247.10.11:9981/stream/channelid/900936966
+#EXTINF:-1,MBN
+http://211.247.10.11:9981/stream/channelid/204572303
+#EXTINF:-1,TV조선
+http://211.247.10.11:9981/stream/channelid/240457584
+#EXTINF:-1,JTBC
+http://211.247.10.11:9981/stream/channelid/1271240546
+#EXTINF:-1,코미디TV
+http://211.247.10.11:9981/stream/channelid/1402788240
+#EXTINF:-1,연합뉴스TV
+http://211.247.10.11:9981/stream/channelid/862444413
+#EXTINF:-1,YTN
+http://211.247.10.11:9981/stream/channelid/1546382309
+#EXTINF:-1,FOX
+http://211.247.10.11:9981/stream/channelid/1104352684
+#EXTINF:-1,OCN Thrills
+http://211.247.10.11:9981/stream/channelid/334270892
+#EXTINF:-1,스크린 https://iptv.live
+http://211.247.10.11:9981/stream/channelid/1089168133
+#EXTINF:-1,채널 Ching
+http://211.247.10.11:9981/stream/channelid/902860687
+#EXTINF:-1,AXN
+http://211.247.10.11:9981/stream/channelid/774618592
+#EXTINF:-1,Mnet
+http://211.247.10.11:9981/stream/channelid/257611737
+#EXTINF:-1,드라맥스
+http://211.247.10.11:9981/stream/channelid/1014672339
+#EXTINF:-1,SBS funE
+http://211.247.10.11:9981/stream/channelid/1525449881
+#EXTINF:-1,NQQ
+http://211.247.10.11:9981/stream/channelid/627199236
+#EXTINF:-1,FUN TV
+http://211.247.10.11:9981/stream/channelid/1265412502
+#EXTINF:-1,아이넷TV
+http://211.247.10.11:9981/stream/channelid/1538574856
+#EXTINF:-1,채널 EM
+http://211.247.10.11:9981/stream/channelid/1653814792
+#EXTINF:-1,TV조선2
+http://211.247.10.11:9981/stream/channelid/1060069103
+#EXTINF:-1,Fashion N
+http://211.247.10.11:9981/stream/channelid/1056414698
+#EXTINF:-1,OCN
+http://211.247.10.11:9981/stream/channelid/870647932
+#EXTINF:-1,SkySports
+http://211.247.10.11:9981/stream/channelid/1195590811
+#EXTINF:-1,다큐원
+http://211.247.10.11:9981/stream/channelid/1076334542
+#EXTINF:-1,TRENDY
+http://211.247.10.11:9981/stream/channelid/1958058605
+#EXTINF:-1,MBC Every1
+http://211.247.10.11:9981/stream/channelid/1489163698
+#EXTINF:-1,채널차이나
+http://211.247.10.11:9981/stream/channelid/1228592075
+#EXTINF:-1,MBC ON
+http://211.247.10.11:9981/stream/channelid/569911221
+#EXTINF:-1,MBC SPORT+
+http://211.247.10.11:9981/stream/channelid/1692677157
+#EXTINF:-1,KBS N Sports
+http://211.247.10.11:9981/stream/channelid/1862124893
+#EXTINF:-1,OCN 무비
+http://211.247.10.11:9981/stream/channelid/1976809503
+#EXTINF:-1,인디필름
+http://211.247.10.11:9981/stream/channelid/1742518690
+#EXTINF:-1,올리브
+http://211.247.10.11:9981/stream/channelid/1455491982
+#EXTINF:-1,MBC Dramanet
+http://211.247.10.11:9981/stream/channelid/263985759
+#EXTINF:-1,SBS Plus
+http://211.247.10.11:9981/stream/channelid/1261711017
+#EXTINF:-1,Mplex
+http://211.247.10.11:9981/stream/channelid/1682207850
+#EXTINF:-1,CMC가족오락TV
+http://211.247.10.11:9981/stream/channelid/1707594431
+#EXTINF:-1,FX
+http://211.247.10.11:9981/stream/channelid/1541169331
+#EXTINF:-1,SKYDrama
+http://211.247.10.11:9981/stream/channelid/1557773785
+#EXTINF:-1,KBS Joy
+http://211.247.10.11:9981/stream/channelid/1416207127
+#EXTINF:-1,YTN 사이언스
+http://211.247.10.11:9981/stream/channelid/430189243
+#EXTINF:-1,SBS Sports
+http://211.247.10.11:9981/stream/channelid/142509630
+#EXTINF:-1,KBS DRAMA
+http://211.247.10.11:9981/stream/channelid/1919191359
+#EXTINF:-1,cineF
+http://211.247.10.11:9981/stream/channelid/1268573034
+#EXTINF:-1,Tooniverse
+http://211.247.10.11:9981/stream/channelid/1269776940
 #EXTINF:-1,Astro AEC HD
 http://tvku.live:8888/donal/donal/4257
 #EXTINF:-1,MY AFC HD
