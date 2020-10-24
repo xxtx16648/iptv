@@ -1995,4 +1995,234 @@ http://tvku.live:8888/donal/donal/29594
 http://tvku.live:8888/donal/donal/29595
 #EXTINF:-1,Shenzhen International
 http://tvku.live:8888/donal/donal/29596
+#EXTINF:-1,凤凰中文 国外FHD
+http://220.158.149.25:8180/TV00000000000000000067@HHZT;LIVE
+#EXTINF:-1,凤凰资讯 国外FHD
+http://220.158.149.25:8180/TV00000000000000000066@HHZT;LIVE
+#EXTINF:-1,Canal do Cliente HD
+http://187.10.153.194:9981/stream/channelid/1049379983
+#EXTINF:-1,STCHD - Santa Cecilia TV HD
+http://187.10.153.194:9981/stream/channelid/1519062153
+#EXTINF:-1,RECORDTV HD
+http://187.10.153.194:9981/stream/channelid/1967603293
+#EXTINF:-1,TVB - Band HD
+http://187.10.153.194:9981/stream/channelid/366230236
+#EXTINF:-1,TV Tribuna - Globo HD
+http://187.10.153.194:9981/stream/channelid/277584490
+#EXTINF:-1,VTV - SBT HD
+http://187.10.153.194:9981/stream/channelid/1639525850
+#EXTINF:-1,RedeTV! HD
+http://187.10.153.194:9981/stream/channelid/727263485
+#EXTINF:-1,Cultura HD
+http://187.10.153.194:9981/stream/channelid/1298730890
+#EXTINF:-1,TV Brasil HD
+http://187.10.153.194:9981/stream/channelid/715282251
+#EXTINF:-1,Futura HD
+http://187.10.153.194:9981/stream/channelid/1550428229
+#EXTINF:-1,OFF HD
+http://187.10.153.194:9981/stream/channelid/598967764
+#EXTINF:-1,SporTV3 HD
+http://187.10.153.194:9981/stream/channelid/1487081878
+#EXTINF:-1,SporTV2 HD
+http://187.10.153.194:9981/stream/channelid/1275758774
+#EXTINF:-1,SporTV HD
+http://187.10.153.194:9981/stream/channelid/640861755
+#EXTINF:-1,GloboNews HD
+http://187.10.153.194:9981/stream/channelid/970115494
+#EXTINF:-1,GNT HD
+http://187.10.153.194:9981/stream/channelid/720992254
+#EXTINF:-1,Multishow HD
+http://187.10.153.194:9981/stream/channelid/1536683458
+#EXTINF:-1,Viva HD
+http://187.10.153.194:9981/stream/channelid/1686038738
+#EXTINF:-1,Mais na Tela HD https://iptv.live
+http://187.10.153.194:9981/stream/channelid/1754997080
+#EXTINF:-1,E! HD
+http://187.10.153.194:9981/stream/channelid/1956548907
+#EXTINF:-1,Fashion TV HD
+http://187.10.153.194:9981/stream/channelid/609991915
+#EXTINF:-1,TLC HD
+http://187.10.153.194:9981/stream/channelid/1565289781
+#EXTINF:-1,Arte 1 HD
+http://187.10.153.194:9981/stream/channelid/1857934280
+#EXTINF:-1,Food Network HD
+http://187.10.153.194:9981/stream/channelid/673595612
+#EXTINF:-1,Disc. Home & Health HD
+http://187.10.153.194:9981/stream/channelid/332360366
+#EXTINF:-1,Curta! HD
+http://187.10.153.194:9981/stream/channelid/1226236337
+#EXTINF:-1,Travel Box Brazil HD
+http://187.10.153.194:9981/stream/channelid/114378994
+#EXTINF:-1,HGTV HD
+http://187.10.153.194:9981/stream/channelid/1877002161
+#EXTINF:-1,Woohoo HD
+http://187.10.153.194:9981/stream/channelid/352865113
+#EXTINF:-1,ESPN Extra HD
+http://187.10.153.194:9981/stream/channelid/176499825
+#EXTINF:-1,ESPN Brasil HD
+http://187.10.153.194:9981/stream/channelid/1023021676
+#EXTINF:-1,ESPN HD
+http://187.10.153.194:9981/stream/channelid/2138809203
+#EXTINF:-1,ESPN2 HD
+http://187.10.153.194:9981/stream/channelid/992550878
+#EXTINF:-1,FOX Sports HD
+http://187.10.153.194:9981/stream/channelid/65770901
+#EXTINF:-1,FOX Sports 2 HD
+http://187.10.153.194:9981/stream/channelid/275328584
+#EXTINF:-1,Band Sports HD
+http://187.10.153.194:9981/stream/channelid/204880376
+#EXTINF:-1,CNN Brasil HD
+http://187.10.153.194:9981/stream/channelid/1164484629
+#EXTINF:-1,Band News HD
+http://187.10.153.194:9981/stream/channelid/1474980647
+#EXTINF:-1,National Geographic HD
+http://187.10.153.194:9981/stream/channelid/1404331452
+#EXTINF:-1,Discovery Channel HD
+http://187.10.153.194:9981/stream/channelid/571904318
+#EXTINF:-1,Animal Planet HD
+http://187.10.153.194:9981/stream/channelid/2095142894
+#EXTINF:-1,History HD
+http://187.10.153.194:9981/stream/channelid/53799849
+#EXTINF:-1,Discovery Turbo HD
+http://187.10.153.194:9981/stream/channelid/669438139
+#EXTINF:-1,Discovery Science HD
+http://187.10.153.194:9981/stream/channelid/407848077
+#EXTINF:-1,Love Nature HD
+http://187.10.153.194:9981/stream/channelid/1149981241
+#EXTINF:-1,Smithsonian HD
+http://187.10.153.194:9981/stream/channelid/1628574484
+#EXTINF:-1,NatGeo Wild HD
+http://187.10.153.194:9981/stream/channelid/722916565
+#EXTINF:-1,Discovery Theater HD
+http://187.10.153.194:9981/stream/channelid/363670749
+#EXTINF:-1,Discovery World HD
+http://187.10.153.194:9981/stream/channelid/1872153360
+#EXTINF:-1,History 2 HD
+http://187.10.153.194:9981/stream/channelid/2014832709
+#EXTINF:-1,Disney Channel HD
+http://187.10.153.194:9981/stream/channelid/832703734
+#EXTINF:-1,Nickelodeon HD
+http://187.10.153.194:9981/stream/channelid/71040484
+#EXTINF:-1,Cartoon Network HD
+http://187.10.153.194:9981/stream/channelid/475135624
+#EXTINF:-1,Boomerang HD
+http://187.10.153.194:9981/stream/channelid/807306498
+#EXTINF:-1,BIS HD https://iptv.live
+http://187.10.153.194:9981/stream/channelid/1980514814
+#EXTINF:-1,MTV HD
+http://187.10.153.194:9981/stream/channelid/645156362
+#EXTINF:-1,Music Box Brazil HD
+http://187.10.153.194:9981/stream/channelid/88688514
+#EXTINF:-1,Trace Brazuca HD
+http://187.10.153.194:9981/stream/channelid/1841881428
+#EXTINF:-1,VH1
+http://187.10.153.194:9981/stream/channelid/1479841523
+#EXTINF:-1,MTV LIVE HD
+http://187.10.153.194:9981/stream/channelid/662365865
+#EXTINF:-1,Universal TV HD
+http://187.10.153.194:9981/stream/channelid/328384340
+#EXTINF:-1,FOX HD
+http://187.10.153.194:9981/stream/channelid/1694684193
+#EXTINF:-1,Warner Channel HD
+http://187.10.153.194:9981/stream/channelid/2137540725
+#EXTINF:-1,Canal Sony HD
+http://187.10.153.194:9981/stream/channelid/1316698886
+#EXTINF:-1,FX HD
+http://187.10.153.194:9981/stream/channelid/169433574
+#EXTINF:-1,AXN HD
+http://187.10.153.194:9981/stream/channelid/752941251
+#EXTINF:-1,TBS HD
+http://187.10.153.194:9981/stream/channelid/705206223
+#EXTINF:-1,Comedy Central HD
+http://187.10.153.194:9981/stream/channelid/353813469
+#EXTINF:-1,A&E HD
+http://187.10.153.194:9981/stream/channelid/595669303
+#EXTINF:-1,ID HD
+http://187.10.153.194:9981/stream/channelid/1283094111
+#EXTINF:-1,SYFY HD
+http://187.10.153.194:9981/stream/channelid/315360812
+#EXTINF:-1,Lifetime HD
+http://187.10.153.194:9981/stream/channelid/415800158
+#EXTINF:-1,TNT Séries HD
+http://187.10.153.194:9981/stream/channelid/1411458289
+#EXTINF:-1,FOX Life HD
+http://187.10.153.194:9981/stream/channelid/295606435
+#EXTINF:-1,AMC HD
+http://187.10.153.194:9981/stream/channelid/1453630968
+#EXTINF:-1,Eurochannel HD
+http://187.10.153.194:9981/stream/channelid/1070193308
+#EXTINF:-1,Film&Arts HD
+http://187.10.153.194:9981/stream/channelid/816798497
+#EXTINF:-1,Canal Brasil HD
+http://187.10.153.194:9981/stream/channelid/299963287
+#EXTINF:-1,TNT HD
+http://187.10.153.194:9981/stream/channelid/308803551
+#EXTINF:-1,Megapix HD
+http://187.10.153.194:9981/stream/channelid/362691303
+#EXTINF:-1,Space HD
+http://187.10.153.194:9981/stream/channelid/1538122891
+#EXTINF:-1,Cinemax HD
+http://187.10.153.194:9981/stream/channelid/208281973
+#EXTINF:-1,Prime Box Brazil HD
+http://187.10.153.194:9981/stream/channelid/653211622
+#EXTINF:-1,Studio Universal HD
+http://187.10.153.194:9981/stream/channelid/386925775
+#EXTINF:-1,Paramount Network HD
+http://187.10.153.194:9981/stream/channelid/1451044861
+#EXTINF:-1,Telecine Premium HD
+http://187.10.153.194:9981/stream/channelid/426758759
+#EXTINF:-1,Telecine Action HD
+http://187.10.153.194:9981/stream/channelid/1961613868
+#EXTINF:-1,Telecine Touch HD
+http://187.10.153.194:9981/stream/channelid/261249470
+#EXTINF:-1,Telecine Fun HD
+http://187.10.153.194:9981/stream/channelid/740347696
+#EXTINF:-1,Telecine Pipoca HD
+http://187.10.153.194:9981/stream/channelid/1258304086
+#EXTINF:-1,Telecine Cult HD
+http://187.10.153.194:9981/stream/channelid/1262155106
+#EXTINF:-1,HBO HD
+http://187.10.153.194:9981/stream/channelid/49249833
+#EXTINF:-1,HBO2 HD
+http://187.10.153.194:9981/stream/channelid/873806231
+#EXTINF:-1,HBO+ HD
+http://187.10.153.194:9981/stream/channelid/407815125
+#EXTINF:-1,HBO Family HD
+http://187.10.153.194:9981/stream/channelid/180820691
+#EXTINF:-1,HBO Signature HD
+http://187.10.153.194:9981/stream/channelid/279690799
+#EXTINF:-1,HBO POP HD
+http://187.10.153.194:9981/stream/channelid/1684992329
+#EXTINF:-1,HBO MUNDI HD
+http://187.10.153.194:9981/stream/channelid/629563228
+#EXTINF:-1,HBO XTREME HD
+http://187.10.153.194:9981/stream/channelid/1437046716
+#EXTINF:-1,Fox Premium 1 HD
+http://187.10.153.194:9981/stream/channelid/863605938
+#EXTINF:-1,Fox Premium 2 HD
+http://187.10.153.194:9981/stream/channelid/1572927352
+#EXTINF:-1,CONMEBOL TV 1
+http://187.10.153.194:9981/stream/channelid/170944424
+#EXTINF:-1,CONMEBOL TV 2
+http://187.10.153.194:9981/stream/channelid/1941701333
+#EXTINF:-1,CONMEBOL TV 3
+http://187.10.153.194:9981/stream/channelid/1686048287
+#EXTINF:-1,CONMEBOL TV 4
+http://187.10.153.194:9981/stream/channelid/457517939
+#EXTINF:-1,Premiere Clubes HD
+http://187.10.153.194:9981/stream/channelid/1439214883
+#EXTINF:-1,Premiere 2HD
+http://187.10.153.194:9981/stream/channelid/415368651
+#EXTINF:-1,Premiere HD 3
+http://187.10.153.194:9981/stream/channelid/624041083
+#EXTINF:-1,Premiere 4 HD
+http://187.10.153.194:9981/stream/channelid/213653031
+#EXTINF:-1,Premiere 5 HD
+http://187.10.153.194:9981/stream/channelid/935660362
+#EXTINF:-1,Premiere 6 HD
+http://187.10.153.194:9981/stream/channelid/1206331366
+#EXTINF:-1,Premiere 7 HD
+http://187.10.153.194:9981/stream/channelid/2129645404
+#EXTINF:-1,Combate HD
+http://187.10.153.194:9981/stream/channelid/273920064
 
