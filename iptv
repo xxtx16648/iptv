@@ -79,6 +79,22 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1,ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1,4K时尚
+http://112.234.118.75:1022/stream/channelid/1902132982
+#EXTINF:-1,4K演唱会
+http://112.234.118.75:1022/stream/channelid/461116757
+#EXTINF:-1,4K电影
+http://112.234.118.75:1022/stream/channelid/813456516
+#EXTINF:-1,4K纪实
+http://112.234.118.75:1022/stream/channelid/723767143
+#EXTINF:-1,4K美食
+http://112.234.118.75:1022/stream/channelid/502229596
+#EXTINF:-1,4K频道
+http://112.234.118.75:1022/stream/channelid/523814987
+#EXTINF:-1,CCTV-4K
+http://112.234.118.75:1022/stream/channelid/935678511
+#EXTINF:-1,CHC高清电影
+http://112.234.118.75:1022/stream/channelid/2009366327
 #EXTINF:-1,凤凰卫视資訊台
 http://112.50.243.8/PLTV/88888888/224/3221225901/3.m3u8
 #EXTINF:-1,凤凰卫视中文台
