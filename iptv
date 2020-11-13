@@ -79,22 +79,6 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1,ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1,4K时尚
-http://112.234.118.75:1022/stream/channelid/1902132982
-#EXTINF:-1,4K演唱会
-http://112.234.118.75:1022/stream/channelid/461116757
-#EXTINF:-1,4K电影
-http://112.234.118.75:1022/stream/channelid/813456516
-#EXTINF:-1,4K纪实
-http://112.234.118.75:1022/stream/channelid/723767143
-#EXTINF:-1,4K美食
-http://112.234.118.75:1022/stream/channelid/502229596
-#EXTINF:-1,4K频道
-http://112.234.118.75:1022/stream/channelid/523814987
-#EXTINF:-1,CCTV-4K
-http://112.234.118.75:1022/stream/channelid/935678511
-#EXTINF:-1,CHC高清电影
-http://112.234.118.75:1022/stream/channelid/2009366327
 #EXTINF:-1,凤凰卫视資訊台
 http://112.50.243.8/PLTV/88888888/224/3221225901/3.m3u8
 #EXTINF:-1,凤凰卫视中文台
@@ -433,6 +417,8 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1,Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 ,亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,NHK WORLD
@@ -451,24 +437,6 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
 #EXTINF:-1,NEWS NET
 https://bozztv.com/36bay2/giniko_newsnet/index.m3u8
-#EXTINF:-1,SBS
-http://183.100.234.45:9981/stream/channelid/1124346476
-#EXTINF:-1,SBS [SD]
-http://183.100.234.45:9981/stream/channelid/209730538
-#EXTINF:-1,KBS2
-http://183.100.234.45:9981/stream/channelid/1564137658
-#EXTINF:-1,KBS2 [SD]
-http://183.100.234.45:9981/stream/channelid/806525648
-#EXTINF:-1,KBS1
-http://183.100.234.45:9981/stream/channelid/983691437
-#EXTINF:-1,MBC
-http://183.100.234.45:9981/stream/channelid/326095401
-#EXTINF:-1,MBC [SD]
-http://183.100.234.45:9981/stream/channelid/975745349
-#EXTINF:-1,EBS
-http://183.100.234.45:9981/stream/channelid/984134941
-#EXTINF:-1,EBS [SD]
-http://183.100.234.45:9981/stream/channelid/1358704792
 #EXTINF:-1,SBS 플러스
 http://39.117.250.106:9981/stream/channelid/1361002233
 #EXTINF:-1,홈&쇼핑
