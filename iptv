@@ -155,6 +155,100 @@ http://39.118.129.233:9981/stream/channelid/1829683892
 http://39.118.129.233:9981/stream/channelid/1193979038
 #EXTINF:-1,EBS2
 http://39.118.129.233:9981/stream/channelid/1920704415
+#EXTINF:-1,Lovely Btv
+http://180.69.251.80:9981/stream/channelid/1883429389
+#EXTINF:-1,SBS Plus
+http://180.69.251.80:9981/stream/channelid/1010158920
+#EXTINF:-1,공용shopping
+http://180.69.251.80:9981/stream/channelid/1786274270
+#EXTINF:-1,tvN
+http://180.69.251.80:9981/stream/channelid/944211288
+#EXTINF:-1,홈엔쇼핑
+http://180.69.251.80:9981/stream/channelid/1542658589
+#EXTINF:-1,SBS
+http://180.69.251.80:9981/stream/channelid/867121087
+#EXTINF:-1,CJ오쇼핑
+http://180.69.251.80:9981/stream/channelid/116429951
+#EXTINF:-1,KBS2
+http://180.69.251.80:9981/stream/channelid/1826710929
+#EXTINF:-1,현대홈표핑
+http://180.69.251.80:9981/stream/channelid/1242722345
+#EXTINF:-1,KBS1
+http://180.69.251.80:9981/stream/channelid/498770158
+#EXTINF:-1,롯데홈쇼핑
+http://180.69.251.80:9981/stream/channelid/2057509051
+#EXTINF:-1,MBC
+http://180.69.251.80:9981/stream/channelid/1577103458
+#EXTINF:-1,GS Shop
+http://180.69.251.80:9981/stream/channelid/1418719039
+#EXTINF:-1,EBS1
+http://180.69.251.80:9981/stream/channelid/1095561658
+#EXTINF:-1,NS홈쇼핑
+http://180.69.251.80:9981/stream/channelid/1050298961
+#EXTINF:-1,MBN
+http://180.69.251.80:9981/stream/channelid/1346773127
+#EXTINF:-1,SK스토아
+http://180.69.251.80:9981/stream/channelid/1518592630
+#EXTINF:-1,채널A
+http://180.69.251.80:9981/stream/channelid/1747585007
+#EXTINF:-1,TV조선 https://iptv.live
+http://180.69.251.80:9981/stream/channelid/1290972457
+#EXTINF:-1,K shopping
+http://180.69.251.80:9981/stream/channelid/674289138
+#EXTINF:-1,신세계쇼핑
+http://180.69.251.80:9981/stream/channelid/250443523
+#EXTINF:-1,YTN
+http://180.69.251.80:9981/stream/channelid/1856493091
+#EXTINF:-1,쇼핑엔티
+http://180.69.251.80:9981/stream/channelid/898049958
+#EXTINF:-1,Mnet
+http://180.69.251.80:9981/stream/channelid/596702258
+#EXTINF:-1,GS My Shop
+http://180.69.251.80:9981/stream/channelid/299193412
+#EXTINF:-1,KBS DRAMA
+http://180.69.251.80:9981/stream/channelid/1315124579
+#EXTINF:-1,CJ오쇼핑 Plus
+http://180.69.251.80:9981/stream/channelid/2140991729
+#EXTINF:-1,W쇼핑
+http://180.69.251.80:9981/stream/channelid/711474428
+#EXTINF:-1,NS SHOP+
+http://180.69.251.80:9981/stream/channelid/228836241
+#EXTINF:-1,현대홈표핑+Plus
+http://180.69.251.80:9981/stream/channelid/1256834102
+#EXTINF:-1,Lovely Btv
+http://180.69.251.80:9981/stream/channelid/1710358794
+#EXTINF:-1,OCN MOVIES
+http://180.69.251.80:9981/stream/channelid/547250061
+#EXTINF:-1,OCN Thrills
+http://180.69.251.80:9981/stream/channelid/219026016
+#EXTINF:-1,The Movie
+http://180.69.251.80:9981/stream/channelid/644283716
+#EXTINF:-1,KBSJOY
+http://180.69.251.80:9981/stream/channelid/278509689
+#EXTINF:-1,SBS FunE
+http://180.69.251.80:9981/stream/channelid/1051420662
+#EXTINF:-1,SBS FunE
+http://180.69.251.80:9981/stream/channelid/1138088751
+#EXTINF:-1,EBS2
+http://180.69.251.80:9981/stream/channelid/1209009200
+#EXTINF:-1,SPOTV
+http://180.69.251.80:9981/stream/channelid/1714703052
+#EXTINF:-1,KBSNSPORTS
+http://180.69.251.80:9981/stream/channelid/639779503
+#EXTINF:-1,SBS Sports
+http://180.69.251.80:9981/stream/channelid/416305768
+#EXTINF:-1,MBC SPORTS+
+http://180.69.251.80:9981/stream/channelid/1220772818
+#EXTINF:-1,SBS Golf
+http://180.69.251.80:9981/stream/channelid/533661048
+#EXTINF:-1,OGN
+http://180.69.251.80:9981/stream/channelid/1942811812
+#EXTINF:-1,뽀요TV
+http://180.69.251.80:9981/stream/channelid/414606797
+#EXTINF:-1,EBS Kids
+http://180.69.251.80:9981/stream/channelid/1172969708
+#EXTINF:-1,ONSYTYLE
+http://180.69.251.80:9981/stream/channelid/2133864804
 #EXTINF:-1,TVB jade
 http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m02000000000012940501&ct=17993&tsum=9e0296de800da2a23acf6b63b8f89833
 #EXTINF:-1,TVB J2
@@ -423,6 +517,192 @@ http://123.182.177.152:9981/stream/channelid/1068615797
 http://123.182.177.152:9981/stream/channelid/1221139732
 #EXTINF:-1,黑龙江高清
 http://123.182.177.152:9981/stream/channelid/830819042
+#EXTINF:-1,AXN
+http://106.241.240.135:9981/stream/channelid/32
+#EXTINF:-1,BTN불교TV
+http://106.241.240.135:9981/stream/channelid/53
+#EXTINF:-1,CBS
+http://106.241.240.135:9981/stream/channelid/52
+#EXTINF:-1,CJ오쇼핑
+http://106.241.240.135:9981/stream/channelid/13
+#EXTINF:-1,CMC가족오락
+http://106.241.240.135:9981/stream/channelid/64
+#EXTINF:-1,CNTV
+http://106.241.240.135:9981/stream/channelid/42
+#EXTINF:-1,CTS
+http://106.241.240.135:9981/stream/channelid/50
+#EXTINF:-1,EBS Digital
+http://106.241.240.135:9981/stream/channelid/100
+#EXTINF:-1,EBS플러스1
+http://106.241.240.135:9981/stream/channelid/73
+#EXTINF:-1,EBS플러스2
+http://106.241.240.135:9981/stream/channelid/69
+#EXTINF:-1,ETN연예
+http://106.241.240.135:9981/stream/channelid/81
+#EXTINF:-1,Edge TV
+http://106.241.240.135:9981/stream/channelid/63
+#EXTINF:-1,E채널
+http://106.241.240.135:9981/stream/channelid/71
+#EXTINF:-1,FOX채널
+http://106.241.240.135:9981/stream/channelid/74
+#EXTINF:-1,FTV
+http://106.241.240.135:9981/stream/channelid/58
+#EXTINF:-1,FUN TV
+http://106.241.240.135:9981/stream/channelid/87
+#EXTINF:-1,GS Shop
+http://106.241.240.135:9981/stream/channelid/14
+#EXTINF:-1,GS마이샵
+http://106.241.240.135:9981/stream/channelid/44
+#EXTINF:-1,JTBC2 https://iptv.live
+http://106.241.240.135:9981/stream/channelid/95
+#EXTINF:-1,JTBC3
+http://106.241.240.135:9981/stream/channelid/65
+#EXTINF:-1,JTBC4
+http://106.241.240.135:9981/stream/channelid/86
+#EXTINF:-1,K Star
+http://106.241.240.135:9981/stream/channelid/30
+#EXTINF:-1,KBC JOY
+http://106.241.240.135:9981/stream/channelid/93
+#EXTINF:-1,KBS W
+http://106.241.240.135:9981/stream/channelid/61
+#EXTINF:-1,KBSN스포츠
+http://106.241.240.135:9981/stream/channelid/91
+#EXTINF:-1,KOREA NEW NETWORK
+http://106.241.240.135:9981/stream/channelid/4
+#EXTINF:-1,KTV
+http://106.241.240.135:9981/stream/channelid/23
+#EXTINF:-1,K쇼핑
+http://106.241.240.135:9981/stream/channelid/15
+#EXTINF:-1,N/A
+http://106.241.240.135:9981/stream/channelid/72
+#EXTINF:-1,MBC DTV
+http://106.241.240.135:9981/stream/channelid/7
+#EXTINF:-1,MBC드라마넷
+http://106.241.240.135:9981/stream/channelid/8
+#EXTINF:-1,MBC스포츠
+http://106.241.240.135:9981/stream/channelid/92
+#EXTINF:-1,MBC에브리1
+http://106.241.240.135:9981/stream/channelid/68
+#EXTINF:-1,MBN
+http://106.241.240.135:9981/stream/channelid/19
+#EXTINF:-1,Mplex
+http://106.241.240.135:9981/stream/channelid/85
+#EXTINF:-1,NHK프리미엄
+http://106.241.240.135:9981/stream/channelid/80
+#EXTINF:-1,NS샵플러스
+http://106.241.240.135:9981/stream/channelid/51
+#EXTINF:-1,NS홈쇼핑
+http://106.241.240.135:9981/stream/channelid/10
+#EXTINF:-1,OCN
+http://106.241.240.135:9981/stream/channelid/31
+#EXTINF:-1,OCN무비즈
+http://106.241.240.135:9981/stream/channelid/46
+#EXTINF:-1,OUN
+http://106.241.240.135:9981/stream/channelid/24
+#EXTINF:-1,SBSCNBC
+http://106.241.240.135:9981/stream/channelid/41
+#EXTINF:-1,SBSfunE
+http://106.241.240.135:9981/stream/channelid/48
+#EXTINF:-1,SBS스포츠
+http://106.241.240.135:9981/stream/channelid/45
+#EXTINF:-1,SBS플러스
+http://106.241.240.135:9981/stream/channelid/33
+#EXTINF:-1,SK스토아
+http://106.241.240.135:9981/stream/channelid/26
+#EXTINF:-1,SPOTV
+http://106.241.240.135:9981/stream/channelid/47
+#EXTINF:-1,SPOTV2
+http://106.241.240.135:9981/stream/channelid/78
+#EXTINF:-1,TVA+
+http://106.241.240.135:9981/stream/channelid/37
+#EXTINF:-1,TV조선
+http://106.241.240.135:9981/stream/channelid/22
+#EXTINF:-1,W쇼핑
+http://106.241.240.135:9981/stream/channelid/39
+#EXTINF:-1,XtvN
+http://106.241.240.135:9981/stream/channelid/40
+#EXTINF:-1,YTN
+http://106.241.240.135:9981/stream/channelid/28
+#EXTINF:-1,jTBC
+http://106.241.240.135:9981/stream/channelid/17
+#EXTINF:-1,tvN https://iptv.live
+http://106.241.240.135:9981/stream/channelid/20
+#EXTINF:-1,가야방송
+http://106.241.240.135:9981/stream/channelid/9
+#EXTINF:-1,국회TV
+http://106.241.240.135:9981/stream/channelid/25
+#EXTINF:-1,다큐원
+http://106.241.240.135:9981/stream/channelid/89
+#EXTINF:-1,드라마큐브
+http://106.241.240.135:9981/stream/channelid/76
+#EXTINF:-1,드라맥스
+http://106.241.240.135:9981/stream/channelid/35
+#EXTINF:-1,롯데ONETV
+http://106.241.240.135:9981/stream/channelid/60
+#EXTINF:-1,롯데홈쇼핑
+http://106.241.240.135:9981/stream/channelid/11
+#EXTINF:-1,바둑TV
+http://106.241.240.135:9981/stream/channelid/82
+#EXTINF:-1,복지TV
+http://106.241.240.135:9981/stream/channelid/90
+#EXTINF:-1,뷰
+http://106.241.240.135:9981/stream/channelid/59
+#EXTINF:-1,쇼핑엔T
+http://106.241.240.135:9981/stream/channelid/12
+#EXTINF:-1,스카이드라마
+http://106.241.240.135:9981/stream/channelid/67
+#EXTINF:-1,스카이엔터
+http://106.241.240.135:9981/stream/channelid/94
+#EXTINF:-1,스크린
+http://106.241.240.135:9981/stream/channelid/36
+#EXTINF:-1,신세계쇼핑
+http://106.241.240.135:9981/stream/channelid/54
+#EXTINF:-1,아리랑TV
+http://106.241.240.135:9981/stream/channelid/75
+#EXTINF:-1,아이넷
+http://106.241.240.135:9981/stream/channelid/49
+#EXTINF:-1,아임쇼핑
+http://106.241.240.135:9981/stream/channelid/29
+#EXTINF:-1,연합뉴스TV
+http://106.241.240.135:9981/stream/channelid/27
+#EXTINF:-1,온스타일
+http://106.241.240.135:9981/stream/channelid/55
+#EXTINF:-1,올리브
+http://106.241.240.135:9981/stream/channelid/77
+#EXTINF:-1,익스트림펀
+http://106.241.240.135:9981/stream/channelid/83
+#EXTINF:-1,재능방송
+http://106.241.240.135:9981/stream/channelid/38
+#EXTINF:-1,직업방송
+http://106.241.240.135:9981/stream/channelid/62
+#EXTINF:-1,창원 KBS1
+http://106.241.240.135:9981/stream/channelid/6
+#EXTINF:-1,창원 KBS2
+http://106.241.240.135:9981/stream/channelid/5
+#EXTINF:-1,채널 A
+http://106.241.240.135:9981/stream/channelid/21
+#EXTINF:-1,채널차이나
+http://106.241.240.135:9981/stream/channelid/88
+#EXTINF:-1,채널칭
+http://106.241.240.135:9981/stream/channelid/79
+#EXTINF:-1,챔프
+http://106.241.240.135:9981/stream/channelid/70
+#EXTINF:-1,코미디TV
+http://106.241.240.135:9981/stream/channelid/34
+#EXTINF:-1,투니버스
+http://106.241.240.135:9981/stream/channelid/43
+#EXTINF:-1,평화방송
+http://106.241.240.135:9981/stream/channelid/56
+#EXTINF:-1,하이라이트TV
+http://106.241.240.135:9981/stream/channelid/84
+#EXTINF:-1,한국경제TV
+http://106.241.240.135:9981/stream/channelid/66
+#EXTINF:-1,현대홈쇼핑
+http://106.241.240.135:9981/stream/channelid/16
+#EXTINF:-1,현대홈쇼핑+샵
+http://106.241.240.135:9981/stream/channelid/57
+#EXTINF:-1,홈앤쇼핑
+http://106.241.240.135:9981/stream/channelid/18
 #EXTINF:-1,MBC Every1
 http://140.238.13.211:9876/stream/channelid/1220841284
 #EXTINF:-1,tvN
