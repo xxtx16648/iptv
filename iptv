@@ -118,6 +118,16 @@ https://rt-news-gd.secure2.footprint.net/1103.m3u8
 #EXTINF:-1,NEWS NET
 https://bozztv.com/36bay2/giniko_newsnet/index.m3u8
 #EXTINF:-1,SBS
+http://14.6.200.22:9981/stream/channelid/1417735164
+#EXTINF:-1,KBS2
+http://14.6.200.22:9981/stream/channelid/1595938251
+#EXTINF:-1,KBS1
+http://14.6.200.22:9981/stream/channelid/1290256022
+#EXTINF:-1,MBC
+http://14.6.200.22:9981/stream/channelid/1394516745
+#EXTINF:-1,EBS1
+http://14.6.200.22:9981/stream/channelid/1869191131
+#EXTINF:-1,SBS
 http://121.130.210.101:9981/stream/channelid/452261212
 #EXTINF:-1,KBS2
 http://121.130.210.101:9981/stream/channelid/715700199
@@ -155,100 +165,586 @@ http://39.118.129.233:9981/stream/channelid/1829683892
 http://39.118.129.233:9981/stream/channelid/1193979038
 #EXTINF:-1,EBS2
 http://39.118.129.233:9981/stream/channelid/1920704415
-#EXTINF:-1,Lovely Btv
-http://180.69.251.80:9981/stream/channelid/1883429389
-#EXTINF:-1,SBS Plus
-http://180.69.251.80:9981/stream/channelid/1010158920
-#EXTINF:-1,공용shopping
-http://180.69.251.80:9981/stream/channelid/1786274270
-#EXTINF:-1,tvN
-http://180.69.251.80:9981/stream/channelid/944211288
-#EXTINF:-1,홈엔쇼핑
-http://180.69.251.80:9981/stream/channelid/1542658589
-#EXTINF:-1,SBS
-http://180.69.251.80:9981/stream/channelid/867121087
+#EXTINF:-1,AXN
+http://218.148.9.66:9981/stream/channelid/54
+#EXTINF:-1,BTN불교TV
+http://218.148.9.66:9981/stream/channelid/76
 #EXTINF:-1,CJ오쇼핑
-http://180.69.251.80:9981/stream/channelid/116429951
+http://218.148.9.66:9981/stream/channelid/12
+#EXTINF:-1,CMC TV
+http://218.148.9.66:9981/stream/channelid/7
+#EXTINF:-1,CNTV
+http://218.148.9.66:9981/stream/channelid/4
+#EXTINF:-1,CPBC
+http://218.148.9.66:9981/stream/channelid/77
+#EXTINF:-1,CTS
+http://218.148.9.66:9981/stream/channelid/78
+#EXTINF:-1,EBS Digital
+http://218.148.9.66:9981/stream/channelid/93
+#EXTINF:-1,EBS Digital
+http://218.148.9.66:9981/stream/channelid/94
+#EXTINF:-1,EBS플러스1
+http://218.148.9.66:9981/stream/channelid/33
+#EXTINF:-1,EBS플러스2
+http://218.148.9.66:9981/stream/channelid/52
+#EXTINF:-1,E채널
+http://218.148.9.66:9981/stream/channelid/10
+#EXTINF:-1,FOX
+http://218.148.9.66:9981/stream/channelid/31
+#EXTINF:-1,Fox FX
+http://218.148.9.66:9981/stream/channelid/72
+#EXTINF:-1,Fun TV
+http://218.148.9.66:9981/stream/channelid/5
+#EXTINF:-1,GS SHOP
+http://218.148.9.66:9981/stream/channelid/13
+#EXTINF:-1,GTV
+http://218.148.9.66:9981/stream/channelid/61
+#EXTINF:-1,I-net
+http://218.148.9.66:9981/stream/channelid/88
+#EXTINF:-1,JTBC https://iptv.live
+http://218.148.9.66:9981/stream/channelid/18
+#EXTINF:-1,JTBC2
+http://218.148.9.66:9981/stream/channelid/57
+#EXTINF:-1,K star
+http://218.148.9.66:9981/stream/channelid/38
+#EXTINF:-1,KBS JOY
+http://218.148.9.66:9981/stream/channelid/8
+#EXTINF:-1,KBS 드라마
+http://218.148.9.66:9981/stream/channelid/73
+#EXTINF:-1,KBS 스포츠
+http://218.148.9.66:9981/stream/channelid/80
 #EXTINF:-1,KBS2
-http://180.69.251.80:9981/stream/channelid/1826710929
-#EXTINF:-1,현대홈표핑
-http://180.69.251.80:9981/stream/channelid/1242722345
-#EXTINF:-1,KBS1
-http://180.69.251.80:9981/stream/channelid/498770158
-#EXTINF:-1,롯데홈쇼핑
-http://180.69.251.80:9981/stream/channelid/2057509051
+http://218.148.9.66:9981/stream/channelid/92
+#EXTINF:-1,KTV
+http://218.148.9.66:9981/stream/channelid/27
+#EXTINF:-1,K쇼핑
+http://218.148.9.66:9981/stream/channelid/43
 #EXTINF:-1,MBC
-http://180.69.251.80:9981/stream/channelid/1577103458
-#EXTINF:-1,GS Shop
-http://180.69.251.80:9981/stream/channelid/1418719039
-#EXTINF:-1,EBS1
-http://180.69.251.80:9981/stream/channelid/1095561658
-#EXTINF:-1,NS홈쇼핑
-http://180.69.251.80:9981/stream/channelid/1050298961
+http://218.148.9.66:9981/stream/channelid/89
+#EXTINF:-1,MBC ON
+http://218.148.9.66:9981/stream/channelid/47
+#EXTINF:-1,MBC 드라마
+http://218.148.9.66:9981/stream/channelid/6
+#EXTINF:-1,MBC 뮤직
+http://218.148.9.66:9981/stream/channelid/46
+#EXTINF:-1,MBC 스포츠
+http://218.148.9.66:9981/stream/channelid/84
+#EXTINF:-1,MBC에브리원
+http://218.148.9.66:9981/stream/channelid/85
 #EXTINF:-1,MBN
-http://180.69.251.80:9981/stream/channelid/1346773127
-#EXTINF:-1,SK스토아
-http://180.69.251.80:9981/stream/channelid/1518592630
-#EXTINF:-1,채널A
-http://180.69.251.80:9981/stream/channelid/1747585007
-#EXTINF:-1,TV조선 https://iptv.live
-http://180.69.251.80:9981/stream/channelid/1290972457
-#EXTINF:-1,K shopping
-http://180.69.251.80:9981/stream/channelid/674289138
-#EXTINF:-1,신세계쇼핑
-http://180.69.251.80:9981/stream/channelid/250443523
-#EXTINF:-1,YTN
-http://180.69.251.80:9981/stream/channelid/1856493091
-#EXTINF:-1,쇼핑엔티
-http://180.69.251.80:9981/stream/channelid/898049958
+http://218.148.9.66:9981/stream/channelid/20
+#EXTINF:-1,MTN
+http://218.148.9.66:9981/stream/channelid/67
 #EXTINF:-1,Mnet
-http://180.69.251.80:9981/stream/channelid/596702258
-#EXTINF:-1,GS My Shop
-http://180.69.251.80:9981/stream/channelid/299193412
-#EXTINF:-1,KBS DRAMA
-http://180.69.251.80:9981/stream/channelid/1315124579
-#EXTINF:-1,CJ오쇼핑 Plus
-http://180.69.251.80:9981/stream/channelid/2140991729
-#EXTINF:-1,W쇼핑
-http://180.69.251.80:9981/stream/channelid/711474428
-#EXTINF:-1,NS SHOP+
-http://180.69.251.80:9981/stream/channelid/228836241
-#EXTINF:-1,현대홈표핑+Plus
-http://180.69.251.80:9981/stream/channelid/1256834102
-#EXTINF:-1,Lovely Btv
-http://180.69.251.80:9981/stream/channelid/1710358794
-#EXTINF:-1,OCN MOVIES
-http://180.69.251.80:9981/stream/channelid/547250061
-#EXTINF:-1,OCN Thrills
-http://180.69.251.80:9981/stream/channelid/219026016
-#EXTINF:-1,The Movie
-http://180.69.251.80:9981/stream/channelid/644283716
-#EXTINF:-1,KBSJOY
-http://180.69.251.80:9981/stream/channelid/278509689
-#EXTINF:-1,SBS FunE
-http://180.69.251.80:9981/stream/channelid/1051420662
-#EXTINF:-1,SBS FunE
-http://180.69.251.80:9981/stream/channelid/1138088751
-#EXTINF:-1,EBS2
-http://180.69.251.80:9981/stream/channelid/1209009200
-#EXTINF:-1,SPOTV
-http://180.69.251.80:9981/stream/channelid/1714703052
-#EXTINF:-1,KBSNSPORTS
-http://180.69.251.80:9981/stream/channelid/639779503
-#EXTINF:-1,SBS Sports
-http://180.69.251.80:9981/stream/channelid/416305768
-#EXTINF:-1,MBC SPORTS+
-http://180.69.251.80:9981/stream/channelid/1220772818
-#EXTINF:-1,SBS Golf
-http://180.69.251.80:9981/stream/channelid/533661048
+http://218.148.9.66:9981/stream/channelid/48
+#EXTINF:-1,Mplex
+http://218.148.9.66:9981/stream/channelid/1
+#EXTINF:-1,NSShop+
+http://218.148.9.66:9981/stream/channelid/75
+#EXTINF:-1,NS홈쇼핑
+http://218.148.9.66:9981/stream/channelid/16
+#EXTINF:-1,Nick
+http://218.148.9.66:9981/stream/channelid/83
+#EXTINF:-1,O tvN
+http://218.148.9.66:9981/stream/channelid/44
+#EXTINF:-1,OBS
+http://218.148.9.66:9981/stream/channelid/95
+#EXTINF:-1,OCN
+http://218.148.9.66:9981/stream/channelid/41
+#EXTINF:-1,ONT
+http://218.148.9.66:9981/stream/channelid/58
+#EXTINF:-1,OUN
+http://218.148.9.66:9981/stream/channelid/28
+#EXTINF:-1,SBS
+http://218.148.9.66:9981/stream/channelid/91
+#EXTINF:-1,SBS 골프
+http://218.148.9.66:9981/stream/channelid/49
+#EXTINF:-1,SBS 드라마
+http://218.148.9.66:9981/stream/channelid/74
+#EXTINF:-1,SBS 스포츠
+http://218.148.9.66:9981/stream/channelid/79
+#EXTINF:-1,SBSCNBC
+http://218.148.9.66:9981/stream/channelid/68
+#EXTINF:-1,SBSFunE
+http://218.148.9.66:9981/stream/channelid/56
+#EXTINF:-1,SK스토아
+http://218.148.9.66:9981/stream/channelid/19
+#EXTINF:-1,TV아시아+
+http://218.148.9.66:9981/stream/channelid/34
+#EXTINF:-1,TV조선
+http://218.148.9.66:9981/stream/channelid/21
+#EXTINF:-1,W쇼핑 https://iptv.live
+http://218.148.9.66:9981/stream/channelid/50
+#EXTINF:-1,XtvN
+http://218.148.9.66:9981/stream/channelid/63
+#EXTINF:-1,YTN
+http://218.148.9.66:9981/stream/channelid/30
+#EXTINF:-1,tvN
+http://218.148.9.66:9981/stream/channelid/11
+#EXTINF:-1,경인 KBS1
+http://218.148.9.66:9981/stream/channelid/90
+#EXTINF:-1,공영쇼핑
+http://218.148.9.66:9981/stream/channelid/23
+#EXTINF:-1,국회TV
+http://218.148.9.66:9981/stream/channelid/26
+#EXTINF:-1,다큐원
+http://218.148.9.66:9981/stream/channelid/2
+#EXTINF:-1,드라마H
+http://218.148.9.66:9981/stream/channelid/55
+#EXTINF:-1,드라마큐브
+http://218.148.9.66:9981/stream/channelid/24
+#EXTINF:-1,드라맥스
+http://218.148.9.66:9981/stream/channelid/51
+#EXTINF:-1,롯데홈쇼핑
+http://218.148.9.66:9981/stream/channelid/15
+#EXTINF:-1,복지TV
+http://218.148.9.66:9981/stream/channelid/82
+#EXTINF:-1,사이언스TV
+http://218.148.9.66:9981/stream/channelid/81
+#EXTINF:-1,서울경제TV
+http://218.148.9.66:9981/stream/channelid/65
+#EXTINF:-1,세이프TV
+http://218.148.9.66:9981/stream/channelid/87
+#EXTINF:-1,쇼핑엔티
+http://218.148.9.66:9981/stream/channelid/25
+#EXTINF:-1,스마일TV+
+http://218.148.9.66:9981/stream/channelid/53
+#EXTINF:-1,스카이드라마
+http://218.148.9.66:9981/stream/channelid/45
+#EXTINF:-1,스크린
+http://218.148.9.66:9981/stream/channelid/36
+#EXTINF:-1,씨네프
+http://218.148.9.66:9981/stream/channelid/39
+#EXTINF:-1,어린이TV
+http://218.148.9.66:9981/stream/channelid/59
+#EXTINF:-1,엣지TV
+http://218.148.9.66:9981/stream/channelid/35
+#EXTINF:-1,연합뉴스TV
+http://218.148.9.66:9981/stream/channelid/29
+#EXTINF:-1,육아방송
+http://218.148.9.66:9981/stream/channelid/71
+#EXTINF:-1,이벤트TV
+http://218.148.9.66:9981/stream/channelid/62
+#EXTINF:-1,인디필름
+http://218.148.9.66:9981/stream/channelid/3
+#EXTINF:-1,지역방송
+http://218.148.9.66:9981/stream/channelid/9
+#EXTINF:-1,채널 칭
+http://218.148.9.66:9981/stream/channelid/42
+#EXTINF:-1,채널A
+http://218.148.9.66:9981/stream/channelid/22
+#EXTINF:-1,채널CGV
+http://218.148.9.66:9981/stream/channelid/37
+#EXTINF:-1,채널차이나
+http://218.148.9.66:9981/stream/channelid/40
+#EXTINF:-1,챔프
+http://218.148.9.66:9981/stream/channelid/64
+#EXTINF:-1,코미디TV
+http://218.148.9.66:9981/stream/channelid/32
+#EXTINF:-1,투니버스
+http://218.148.9.66:9981/stream/channelid/86
+#EXTINF:-1,티브이조선2
+http://218.148.9.66:9981/stream/channelid/69
+#EXTINF:-1,패션앤
+http://218.148.9.66:9981/stream/channelid/60
+#EXTINF:-1,한국경제TV
+http://218.148.9.66:9981/stream/channelid/66
+#EXTINF:-1,현대홈쇼핑
+http://218.148.9.66:9981/stream/channelid/14
+#EXTINF:-1,현대홈쇼핑+샵
+http://218.148.9.66:9981/stream/channelid/70
+#EXTINF:-1,홈앤쇼핑
+http://218.148.9.66:9981/stream/channelid/17
+#EXTINF:-1,SBS
+http://221.151.22.139:9981/stream/channelid/538250976
+#EXTINF:-1,KBS 2TV
+http://221.151.22.139:9981/stream/channelid/614330018
+#EXTINF:-1,KBS 1TV
+http://221.151.22.139:9981/stream/channelid/982040395
+#EXTINF:-1,EBS 1
+http://221.151.22.139:9981/stream/channelid/1287903469
+#EXTINF:-1,EBS 2
+http://221.151.22.139:9981/stream/channelid/1235834529
+#EXTINF:-1,MBC
+http://221.151.22.139:9981/stream/channelid/521540015
+#EXTINF:-1,OBS
+http://221.151.22.139:9981/stream/channelid/1543671343
+#EXTINF:-1,JTBC
+http://221.151.22.139:9981/stream/channelid/1380173868
+#EXTINF:-1,MBN
+http://221.151.22.139:9981/stream/channelid/629093127
+#EXTINF:-1,TV CHOSUN
+http://221.151.22.139:9981/stream/channelid/2108266713
+#EXTINF:-1,N/A
+http://221.151.22.139:9981/stream/channelid/541486974
+#EXTINF:-1,JTBC2
+http://221.151.22.139:9981/stream/channelid/1166029762
+#EXTINF:-1,KBS JOY
+http://221.151.22.139:9981/stream/channelid/2139324483
+#EXTINF:-1,O tvN
+http://221.151.22.139:9981/stream/channelid/1926496621
+#EXTINF:-1,SBS F!L
+http://221.151.22.139:9981/stream/channelid/478854307
+#EXTINF:-1,SBS funE
+http://221.151.22.139:9981/stream/channelid/303897208
+#EXTINF:-1,TV CHOSUN 2
+http://221.151.22.139:9981/stream/channelid/1276144127
+#EXTINF:-1,XtvN
+http://221.151.22.139:9981/stream/channelid/68341042
+#EXTINF:-1,tvN https://iptv.live
+http://221.151.22.139:9981/stream/channelid/1728084907
+#EXTINF:-1,채널A 플러스
+http://221.151.22.139:9981/stream/channelid/2061392891
+#EXTINF:-1,중화TV
+http://221.151.22.139:9981/stream/channelid/1446099211
+#EXTINF:-1,채널차이나
+http://221.151.22.139:9981/stream/channelid/1417308981
+#EXTINF:-1,AsiaM
+http://221.151.22.139:9981/stream/channelid/815696204
+#EXTINF:-1,THE MOVIE
+http://221.151.22.139:9981/stream/channelid/1171692559
+#EXTINF:-1,JTBC Golf
+http://221.151.22.139:9981/stream/channelid/461756206
+#EXTINF:-1,JTBC GOLF&SPORTS
+http://221.151.22.139:9981/stream/channelid/2123548391
+#EXTINF:-1,MBC스포츠플러스
+http://221.151.22.139:9981/stream/channelid/1380177800
 #EXTINF:-1,OGN
-http://180.69.251.80:9981/stream/channelid/1942811812
-#EXTINF:-1,뽀요TV
-http://180.69.251.80:9981/stream/channelid/414606797
-#EXTINF:-1,EBS Kids
-http://180.69.251.80:9981/stream/channelid/1172969708
-#EXTINF:-1,ONSYTYLE
-http://180.69.251.80:9981/stream/channelid/2133864804
+http://221.151.22.139:9981/stream/channelid/2077419335
+#EXTINF:-1,스포티비
+http://221.151.22.139:9981/stream/channelid/1755761436
+#EXTINF:-1,스포티비 골프 앤 헬스
+http://221.151.22.139:9981/stream/channelid/957824909
+#EXTINF:-1,SPOTV2
+http://221.151.22.139:9981/stream/channelid/1821791316
+#EXTINF:-1,Mnet
+http://221.151.22.139:9981/stream/channelid/549140538
+#EXTINF:-1,가요TV
+http://221.151.22.139:9981/stream/channelid/1770793807
+#EXTINF:-1,OBS W
+http://221.151.22.139:9981/stream/channelid/1017581153
+#EXTINF:-1,토마토TV
+http://221.151.22.139:9981/stream/channelid/1346658092
+#EXTINF:-1,한국경제TV
+http://221.151.22.139:9981/stream/channelid/280377653
+#EXTINF:-1,FUNTV
+http://221.151.22.139:9981/stream/channelid/1437190145
+#EXTINF:-1,KBSN Life
+http://221.151.22.139:9981/stream/channelid/191980201
+#EXTINF:-1,YTN사이언스
+http://221.151.22.139:9981/stream/channelid/398671954
+#EXTINF:-1,FTV
+http://221.151.22.139:9981/stream/channelid/517691374
+#EXTINF:-1,바둑TV
+http://221.151.22.139:9981/stream/channelid/102615913
+#EXTINF:-1,브레인TV
+http://221.151.22.139:9981/stream/channelid/1620518900
+#EXTINF:-1,투니버스
+http://221.151.22.139:9981/stream/channelid/1527263740
+#EXTINF:-1,Nickelodeon
+http://221.151.22.139:9981/stream/channelid/881700727
+#EXTINF:-1,대교어린이TV
+http://221.151.22.139:9981/stream/channelid/743293924
+#EXTINF:-1,EBSEnglish
+http://221.151.22.139:9981/stream/channelid/18834399
+#EXTINF:-1,JTBC4
+http://221.151.22.139:9981/stream/channelid/1194312863
+#EXTINF:-1,KBS W
+http://221.151.22.139:9981/stream/channelid/630596882
+#EXTINF:-1,Olive
+http://221.151.22.139:9981/stream/channelid/981581414
+#EXTINF:-1,ONSTYLE
+http://221.151.22.139:9981/stream/channelid/2042572117
+#EXTINF:-1,동아TV
+http://221.151.22.139:9981/stream/channelid/1579356955
+#EXTINF:-1,가톨릭평화방송
+http://221.151.22.139:9981/stream/channelid/1425699028
+#EXTINF:-1,CJ오쇼핑
+http://221.151.22.139:9981/stream/channelid/1395073469
+#EXTINF:-1,GS SHOP
+http://221.151.22.139:9981/stream/channelid/1748436720
+#EXTINF:-1,롯데홈쇼핑 https://iptv.live
+http://221.151.22.139:9981/stream/channelid/1885802763
+#EXTINF:-1,현대홈쇼핑
+http://221.151.22.139:9981/stream/channelid/1336778375
+#EXTINF:-1,CCTV4
+http://221.151.22.139:9981/stream/channelid/730909796
+#EXTINF:-1,CGTN
+http://221.151.22.139:9981/stream/channelid/337981020
+#EXTINF:-1,CNBC
+http://221.151.22.139:9981/stream/channelid/1689721487
+#EXTINF:-1,CNN International
+http://221.151.22.139:9981/stream/channelid/2134225676
+#EXTINF:-1,SBS Biz
+http://221.151.22.139:9981/stream/channelid/147467368
+#EXTINF:-1,K SHOPPING
+http://221.151.22.139:9981/stream/channelid/1882391466
+#EXTINF:-1,MBC 나 혼자 산다
+http://221.151.22.139:9981/stream/channelid/1311077259
+#EXTINF:-1,MBC 서프라이즈
+http://221.151.22.139:9981/stream/channelid/516533065
+#EXTINF:-1,ALL THE K-POP
+http://221.151.22.139:9981/stream/channelid/80067001
+#EXTINF:-1,MBC 하이킥24 LIVE
+http://221.151.22.139:9981/stream/channelid/748588789
+#EXTINF:-1,MBC 드라마정주행24 LIVE
+http://221.151.22.139:9981/stream/channelid/644361507
+#EXTINF:-1,MBC 예능정주행24 LIVE
+http://221.151.22.139:9981/stream/channelid/685289066
+#EXTINF:-1,TV동물농장
+http://221.151.22.139:9981/stream/channelid/1219658045
+#EXTINF:-1,런닝맨
+http://221.151.22.139:9981/stream/channelid/1352961931
+#EXTINF:-1,순옥 명작관
+http://221.151.22.139:9981/stream/channelid/1287888856
+#EXTINF:-1,K팝스타
+http://221.151.22.139:9981/stream/channelid/1610132364
+#EXTINF:-1,SBS Nick
+http://221.151.22.139:9981/stream/channelid/941976411
+#EXTINF:-1,SBS Biz
+http://221.151.22.139:9981/stream/channelid/1267022593
+#EXTINF:-1,THE K-POP
+http://221.151.22.139:9981/stream/channelid/1503263159
+#EXTINF:-1,더라이프
+http://221.151.22.139:9981/stream/channelid/916467489
+#EXTINF:-1,프로야구4
+http://221.151.22.139:9981/stream/channelid/172657569
+#EXTINF:-1,프로야구5
+http://221.151.22.139:9981/stream/channelid/217807347
+#EXTINF:-1,PLAYY프리미엄
+http://221.151.22.139:9981/stream/channelid/1468061759
+#EXTINF:-1,EBS러닝 초등3
+http://221.151.22.139:9981/stream/channelid/2116420326
+#EXTINF:-1,EBS러닝 초등4
+http://221.151.22.139:9981/stream/channelid/703719806
+#EXTINF:-1,EBS러닝 초등5
+http://221.151.22.139:9981/stream/channelid/1304370253
+#EXTINF:-1,EBS러닝 초등6
+http://221.151.22.139:9981/stream/channelid/1874566611
+#EXTINF:-1,EBS러닝 중학1
+http://221.151.22.139:9981/stream/channelid/1625314892
+#EXTINF:-1,Discovery
+http://221.151.22.139:9981/stream/channelid/1642793894
+#EXTINF:-1,YTN2
+http://221.151.22.139:9981/stream/channelid/71266359
+#EXTINF:-1,프로야구6
+http://221.151.22.139:9981/stream/channelid/1945366703
+#EXTINF:-1,1TV
+http://221.151.22.139:9981/stream/channelid/1878617079
+#EXTINF:-1,2TV
+http://221.151.22.139:9981/stream/channelid/847540273
+#EXTINF:-1,KBS WORLD
+http://221.151.22.139:9981/stream/channelid/585533635
+#EXTINF:-1,KBS24
+http://221.151.22.139:9981/stream/channelid/1415031561
+#EXTINF:-1,KBS DRAMA
+http://221.151.22.139:9981/stream/channelid/1994258694
+#EXTINF:-1,KBS JOY
+http://221.151.22.139:9981/stream/channelid/1888956901
+#EXTINF:-1,KBS W
+http://221.151.22.139:9981/stream/channelid/1450632535
+#EXTINF:-1,KBS LIFE
+http://221.151.22.139:9981/stream/channelid/681544923
+#EXTINF:-1,KBS KIDS
+http://221.151.22.139:9981/stream/channelid/552168812
+#EXTINF:-1,1라디오
+http://221.151.22.139:9981/stream/channelid/1451336047
+#EXTINF:-1,2라디오
+http://221.151.22.139:9981/stream/channelid/1636327781
+#EXTINF:-1,3라디오
+http://221.151.22.139:9981/stream/channelid/1040703569
+#EXTINF:-1,1FM
+http://221.151.22.139:9981/stream/channelid/1579371768
+#EXTINF:-1,2FM
+http://221.151.22.139:9981/stream/channelid/780170971
+#EXTINF:-1,한민족방송
+http://221.151.22.139:9981/stream/channelid/27281715
+#EXTINF:-1,KBS World Radio
+http://221.151.22.139:9981/stream/channelid/102483252
+#EXTINF:-1,광주1TV
+http://221.151.22.139:9981/stream/channelid/1517947463
+#EXTINF:-1,광주1라디오
+http://221.151.22.139:9981/stream/channelid/1073797425
+#EXTINF:-1,광주2라디오
+http://221.151.22.139:9981/stream/channelid/1963219409
+#EXTINF:-1,광주1FM
+http://221.151.22.139:9981/stream/channelid/933776112
+#EXTINF:-1,대구1TV
+http://221.151.22.139:9981/stream/channelid/9636890
+#EXTINF:-1,대구1라디오
+http://221.151.22.139:9981/stream/channelid/1827065412
+#EXTINF:-1,대구2라디오
+http://221.151.22.139:9981/stream/channelid/907167418
+#EXTINF:-1,대구1FM
+http://221.151.22.139:9981/stream/channelid/43278148
+#EXTINF:-1,대전1TV
+http://221.151.22.139:9981/stream/channelid/1537166730
+#EXTINF:-1,대전1라디오
+http://221.151.22.139:9981/stream/channelid/98413427
+#EXTINF:-1,대전2라디오
+http://221.151.22.139:9981/stream/channelid/1640230848
+#EXTINF:-1,대전1FM
+http://221.151.22.139:9981/stream/channelid/726043259
+#EXTINF:-1,부산1TV
+http://221.151.22.139:9981/stream/channelid/1642024933
+#EXTINF:-1,부산1라디오
+http://221.151.22.139:9981/stream/channelid/1811798587
+#EXTINF:-1,부산2라디오
+http://221.151.22.139:9981/stream/channelid/875673319
+#EXTINF:-1,부산1FM
+http://221.151.22.139:9981/stream/channelid/870698309
+#EXTINF:-1,전주1TV
+http://221.151.22.139:9981/stream/channelid/1484186516
+#EXTINF:-1,전주1라디오
+http://221.151.22.139:9981/stream/channelid/650682245
+#EXTINF:-1,전주2라디오
+http://221.151.22.139:9981/stream/channelid/887785085
+#EXTINF:-1,전주1FM
+http://221.151.22.139:9981/stream/channelid/1718337160
+#EXTINF:-1,제주1TV
+http://221.151.22.139:9981/stream/channelid/51941987
+#EXTINF:-1,제주1라디오
+http://221.151.22.139:9981/stream/channelid/987278427
+#EXTINF:-1,제주2라디오
+http://221.151.22.139:9981/stream/channelid/1613761954
+#EXTINF:-1,제주1FM
+http://221.151.22.139:9981/stream/channelid/527003075
+#EXTINF:-1,창원1TV
+http://221.151.22.139:9981/stream/channelid/1085342817
+#EXTINF:-1,창원1라디오
+http://221.151.22.139:9981/stream/channelid/1519885788
+#EXTINF:-1,창원2라디오
+http://221.151.22.139:9981/stream/channelid/577123677
+#EXTINF:-1,창원1FM
+http://221.151.22.139:9981/stream/channelid/406516951
+#EXTINF:-1,청주1TV
+http://221.151.22.139:9981/stream/channelid/1468633389
+#EXTINF:-1,청주1라디오
+http://221.151.22.139:9981/stream/channelid/1889468388
+#EXTINF:-1,청주2라디오
+http://221.151.22.139:9981/stream/channelid/2029783675
+#EXTINF:-1,청주1FM
+http://221.151.22.139:9981/stream/channelid/1649675053
+#EXTINF:-1,춘천1TV
+http://221.151.22.139:9981/stream/channelid/1115461887
+#EXTINF:-1,춘천1라디오
+http://221.151.22.139:9981/stream/channelid/1888143519
+#EXTINF:-1,춘천2라디오
+http://221.151.22.139:9981/stream/channelid/833136659
+#EXTINF:-1,춘천1FM
+http://221.151.22.139:9981/stream/channelid/440262061
+#EXTINF:-1,울산1TV
+http://221.151.22.139:9981/stream/channelid/1368547456
+#EXTINF:-1,강릉1라디오
+http://221.151.22.139:9981/stream/channelid/1963979156
+#EXTINF:-1,강릉1FM
+http://221.151.22.139:9981/stream/channelid/1665965649
+#EXTINF:-1,목포1라디오
+http://221.151.22.139:9981/stream/channelid/1836029514
+#EXTINF:-1,목포1FM
+http://221.151.22.139:9981/stream/channelid/1515130689
+#EXTINF:-1,순천1라디오
+http://221.151.22.139:9981/stream/channelid/1006249869
+#EXTINF:-1,안동1라디오
+http://221.151.22.139:9981/stream/channelid/1312992127
+#EXTINF:-1,원주1라디오
+http://221.151.22.139:9981/stream/channelid/1691231274
+#EXTINF:-1,원주1FM
+http://221.151.22.139:9981/stream/channelid/1666394683
+#EXTINF:-1,진주1라디오
+http://221.151.22.139:9981/stream/channelid/656671171
+#EXTINF:-1,충주1라디오
+http://221.151.22.139:9981/stream/channelid/61087387
+#EXTINF:-1,충주1FM
+http://221.151.22.139:9981/stream/channelid/611568424
+#EXTINF:-1,포항1라디오
+http://221.151.22.139:9981/stream/channelid/1242714299
+#EXTINF:-1,SBS
+http://221.151.22.139:9981/stream/channelid/1242491525
+#EXTINF:-1,POWER FM
+http://221.151.22.139:9981/stream/channelid/475912461
+#EXTINF:-1,LOVE FM
+http://221.151.22.139:9981/stream/channelid/1458688042
+#EXTINF:-1,SBS Plus
+http://221.151.22.139:9981/stream/channelid/902306667
+#EXTINF:-1,SBS Golf
+http://221.151.22.139:9981/stream/channelid/27536097
+#EXTINF:-1,SBS Biz
+http://221.151.22.139:9981/stream/channelid/1482026442
+#EXTINF:-1,SBS funE
+http://221.151.22.139:9981/stream/channelid/421465616
+#EXTINF:-1,SBS MTV
+http://221.151.22.139:9981/stream/channelid/1150961451
+#EXTINF:-1,GorealraM
+http://221.151.22.139:9981/stream/channelid/807127596
+#EXTINF:-1,이찬원 TV
+http://221.151.22.139:9981/stream/channelid/1519683467
+#EXTINF:-1,런닝맨 TV
+http://221.151.22.139:9981/stream/channelid/831599119
+#EXTINF:-1,찬란한 유산 TV
+http://221.151.22.139:9981/stream/channelid/1377806821
+#EXTINF:-1,연애시대 TV
+http://221.151.22.139:9981/stream/channelid/1353703623
+#EXTINF:-1,시크릿 마더 TV
+http://221.151.22.139:9981/stream/channelid/383740969
+#EXTINF:-1,세 번 결혼하는 여자 TV
+http://221.151.22.139:9981/stream/channelid/537007388
+#EXTINF:-1,산부인과 TV
+http://221.151.22.139:9981/stream/channelid/207650159
+#EXTINF:-1,마지막 춤은 나와 함께 TV
+http://221.151.22.139:9981/stream/channelid/957298701
+#EXTINF:-1,하늘이시여 TV
+http://221.151.22.139:9981/stream/channelid/504185708
+#EXTINF:-1,친애하는 판사님께 TV
+http://221.151.22.139:9981/stream/channelid/2088740708
+#EXTINF:-1,리턴 TV
+http://221.151.22.139:9981/stream/channelid/277407950
+#EXTINF:-1,수상한 파트너 TV
+http://221.151.22.139:9981/stream/channelid/67367360
+#EXTINF:-1,MBC 표준FM
+http://221.151.22.139:9981/stream/channelid/1520670294
+#EXTINF:-1,MBC FM4U
+http://221.151.22.139:9981/stream/channelid/1420911934
+#EXTINF:-1,MBC 올댓뮤직
+http://221.151.22.139:9981/stream/channelid/1401733029
+#EXTINF:-1,장군의 아들
+http://221.151.22.139:9981/stream/channelid/666786585
+#EXTINF:-1,스포츠 야구2
+http://221.151.22.139:9981/stream/channelid/2106502685
+#EXTINF:-1,스포츠 야구3
+http://221.151.22.139:9981/stream/channelid/1876319497
+#EXTINF:-1,TBS FM
+http://221.151.22.139:9981/stream/channelid/859517893
+#EXTINF:-1,TBS eFM
+http://221.151.22.139:9981/stream/channelid/1451954148
+#EXTINF:-1,CBS 음악FM
+http://221.151.22.139:9981/stream/channelid/678351330
+#EXTINF:-1,CBS 표준FM
+http://221.151.22.139:9981/stream/channelid/2085540988
+#EXTINF:-1,국방TV
+http://221.151.22.139:9981/stream/channelid/1233596311
+#EXTINF:-1,Fox Sports
+http://221.151.22.139:9981/stream/channelid/1038832213
+#EXTINF:-1,Fuji TV
+http://221.151.22.139:9981/stream/channelid/1581710023
+#EXTINF:-1,NHK E [Not 24/7]
+http://221.151.22.139:9981/stream/channelid/417284541
+#EXTINF:-1,NHK G
+http://221.151.22.139:9981/stream/channelid/1213257938
+#EXTINF:-1,Nippon TV
+http://221.151.22.139:9981/stream/channelid/1120413726
+#EXTINF:-1,TBS
+http://221.151.22.139:9981/stream/channelid/1632276514
+#EXTINF:-1,Tokyo MX 1
+http://221.151.22.139:9981/stream/channelid/252705847
+#EXTINF:-1,Tokyo MX1 (360p)
+http://221.151.22.139:9981/stream/channelid/66545378
+#EXTINF:-1,Tokyo MX2 (360p)
+http://221.151.22.139:9981/stream/channelid/2072849388
+#EXTINF:-1,TV Asahi
+http://221.151.22.139:9981/stream/channelid/2096247685
+#EXTINF:-1,TV Tokyo
+http://221.151.22.139:9981/stream/channelid/891431974
 #EXTINF:-1,TVB jade
 http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m02000000000012940501&ct=17993&tsum=9e0296de800da2a23acf6b63b8f89833
 #EXTINF:-1,TVB J2
@@ -265,6 +761,980 @@ http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=m02000000000010509679&ct=1799
 http://198.16.106.58:8278/ctizhonghe/playlist.m3u8?tid=m02000000000012497296&ct=18032&tsum=aefc5e143197130c81bd5857a5f89307
 #EXTINF:-1,TVB
 http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m0800270e38b31200553&ct=17898&tsum=b39db993e81b9ff6ebac20dcbf4a1cdd
+#EXTINF:-1,辽宁卫视高清
+http://39.134.66.5/PLTV/88888888/224/3221225537/index.m3u8
+#EXTINF:-1,都市剧场HD
+http://39.134.66.5/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1,重庆卫视
+http://39.134.66.5/PLTV/88888888/224/3221225539/index.m3u8
+#EXTINF:-1,重庆卫视高清
+http://39.134.66.5/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1,金鹰卡通
+http://39.134.66.5/PLTV/88888888/224/3221225543/index.m3u8
+#EXTINF:-1,陕西卫视
+http://39.134.66.5/PLTV/88888888/224/3221225549/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.66.5/PLTV/88888888/224/3221225541/index.m3u8
+#EXTINF:-1,靓妆频道
+http://39.134.66.5/PLTV/88888888/224/3221225577/index.m3u8
+#EXTINF:-1,音像世界
+http://39.134.66.5/PLTV/88888888/224/3221225575/index.m3u8
+#EXTINF:-1,风云剧场
+http://39.134.66.5/PLTV/88888888/224/3221225590/index.m3u8
+#EXTINF:-1,风云足球
+http://39.134.66.5/PLTV/88888888/224/3221225592/index.m3u8
+#EXTINF:-1,风云音乐
+http://39.134.66.5/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1,高尔夫网球
+http://39.134.66.5/PLTV/88888888/224/3221225591/index.m3u8
+#EXTINF:-1,高尔夫频道
+http://39.134.66.5/PLTV/88888888/224/3221225594/index.m3u8
+#EXTINF:-1,CCTV14
+http://39.134.66.5/PLTV/88888888/224/3221225596/index.m3u8
+#EXTINF:-1,测试频道七
+http://39.134.66.5/PLTV/88888888/224/3221225595/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:-1,道五
+http://39.134.66.5/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1,试频道八 https://iptv.live
+http://39.134.66.5/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1,魅力音乐
+http://39.134.66.5/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.134.66.5/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1,黑龙江
+http://39.134.66.5/PLTV/88888888/224/3221225602/index.m3u8
+#EXTINF:-1,视高清
+http://39.134.66.5/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:-1,CCTV6
+http://39.134.66.5/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1,CCTV13
+http://39.134.66.5/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1,剧场
+http://39.134.66.5/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1,视高清
+http://39.134.66.5/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1,西卫视
+http://39.134.66.5/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:-1,CCTV
+http://39.134.66.5/PLTV/88888888/224/3221225617/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.66.5/PLTV/88888888/224/3221225616/index.m3u8
+#EXTINF:-1,三沙卫视
+http://39.134.66.5/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1,世界地理
+http://39.134.66.5/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1,东南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225614/index.m3u8
+#EXTINF:-1,中国交
+http://39.134.66.5/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1,CCTV3
+http://39.134.66.5/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1,CCTV9
+http://39.134.66.5/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1,NNTV
+http://39.134.66.5/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1,通频道
+http://39.134.66.5/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1,CCTV15
+http://39.134.66.5/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1,中山台
+http://39.134.66.5/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1,书画频道
+http://39.134.66.5/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1,CCTV13
+http://39.134.66.5/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1,BTV
+http://39.134.66.5/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1,交通文艺
+http://39.134.66.5/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1,人物频道
+http://39.134.66.5/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1,广东体育
+http://39.134.66.5/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1,CCTV1
+http://39.134.66.5/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.66.5/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1,CCTV14
+http://39.134.66.5/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1,CCTV5
+http://39.134.66.5/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1,CCTV8
+http://39.134.66.5/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1,靓妆频道
+http://39.134.66.5/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1,CCTV4
+http://39.134.66.5/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1,音像世界 https://iptv.live
+http://39.134.66.5/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1,风云剧场
+http://39.134.66.5/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1,CCTV9
+http://39.134.66.5/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1,风云足球
+http://39.134.66.5/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1,风云音乐
+http://39.134.66.5/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1,高尔夫网球
+http://39.134.66.5/PLTV/88888888/224/3221225682/index.m3u8
+#EXTINF:-1,CCTV1
+http://39.134.66.5/PLTV/88888888/224/3221225684/index.m3u8
+#EXTINF:-1,CCTV2
+http://39.134.66.5/PLTV/88888888/224/3221225686/index.m3u8
+#EXTINF:-1,魅力音乐
+http://39.134.66.5/PLTV/88888888/224/3221225692/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.134.66.5/PLTV/88888888/224/3221225698/index.m3u8
+#EXTINF:-1,JO TV
+http://39.134.66.5/PLTV/88888888/224/3221225690/index.m3u8
+#EXTINF:-1,视高清
+http://39.134.66.5/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1,CCTV12
+http://39.134.66.5/PLTV/88888888/224/3221225702/index.m3u8
+#EXTINF:-1,龙江卫
+http://39.134.66.5/PLTV/88888888/224/3221225694/index.m3u8
+#EXTINF:-1,CETV1
+http://39.134.66.5/PLTV/88888888/224/3221225706/index.m3u8
+#EXTINF:-1,CCTV6
+http://39.134.66.5/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1,CETV2
+http://39.134.66.5/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1,东南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225704/index.m3u8
+#EXTINF:-1,卫视高清
+http://39.134.66.5/PLTV/88888888/224/3221225712/index.m3u8
+#EXTINF:-1,中华美食
+http://39.134.66.5/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1,交通频道
+http://39.134.66.5/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1,书画频道
+http://39.134.66.5/PLTV/88888888/224/3221225722/index.m3u8
+#EXTINF:-1,CETV5
+http://39.134.66.5/PLTV/88888888/224/3221225718/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225724/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225726/index.m3u8
+#EXTINF:-1,交通文艺
+http://39.134.66.5/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1,人物频道
+http://39.134.66.5/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1,CGTN
+http://39.134.66.5/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1,优优宝贝
+http://39.134.66.5/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1,NNTV
+http://39.134.66.5/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1,佛山台
+http://39.134.66.5/PLTV/88888888/224/3221225748/index.m3u8
+#EXTINF:-1,先锋乒羽
+http://39.134.66.5/PLTV/88888888/224/3221225750/index.m3u8
+#EXTINF:-1,全纪实HD
+http://39.134.66.5/PLTV/88888888/224/3221225744/index.m3u8
+#EXTINF:-1,CCTV5
+http://39.134.66.5/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225752/index.m3u8
+#EXTINF:-1,兵团卫视
+http://39.134.66.5/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1,CCTV1
+http://39.134.66.5/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1,SCTV
+http://39.134.66.5/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1,内蒙古卫视
+http://39.134.66.5/PLTV/88888888/224/3221225763/index.m3u8
+#EXTINF:-1,凤凰卫视
+http://39.134.66.5/PLTV/88888888/224/3221225764/index.m3u8
+#EXTINF:-1,广东体育
+http://39.134.66.5/PLTV/88888888/224/3221225772/index.m3u8
+#EXTINF:-1,体育高
+http://39.134.66.5/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1,广东公共
+http://39.134.66.5/PLTV/88888888/224/3221225771/index.m3u8
+#EXTINF:-1,CCTV11
+http://39.134.66.5/PLTV/88888888/224/3221225774/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225766/index.m3u8
+#EXTINF:-1,CCTV7
+http://39.134.66.5/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1,OHTV1
+http://39.134.66.5/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1,OHTV1
+http://39.134.66.5/PLTV/88888888/224/3221225773/index.m3u8
+#EXTINF:-1,广东卫视
+http://39.134.66.5/PLTV/88888888/224/3221225778/index.m3u8
+#EXTINF:-1,CCTV10
+http://39.134.66.5/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:-1,HNV1
+http://39.134.66.5/PLTV/88888888/224/3221225779/index.m3u8
+#EXTINF:-1,CBN
+http://39.134.66.5/PLTV/88888888/224/3221225785/index.m3u8
+#EXTINF:-1,广东珠江
+http://39.134.66.5/PLTV/88888888/224/3221225781/index.m3u8
+#EXTINF:-1,CCTV13
+http://39.134.66.5/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1,广西卫视
+http://39.134.66.5/PLTV/88888888/224/3221225777/index.m3u8
+#EXTINF:-1,延边卫视
+http://39.134.66.5/PLTV/88888888/224/3221225787/index.m3u8
+#EXTINF:-1,江西卫视
+http://39.134.66.5/PLTV/88888888/224/3221225788/index.m3u8
+#EXTINF:-1,CCTV2
+http://39.134.66.5/PLTV/88888888/224/3221225776/index.m3u8
+#EXTINF:-1,河北卫视
+http://39.134.66.5/PLTV/88888888/224/3221225775/index.m3u8
+#EXTINF:-1,浙江卫视
+http://39.134.66.5/PLTV/88888888/224/3221225790/index.m3u8
+#EXTINF:-1,湖南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225796/index.m3u8
+#EXTINF:-1,CCTV14
+http://39.134.66.5/PLTV/88888888/224/3221225794/index.m3u8
+#EXTINF:-1,CCTV1
+http://39.134.66.5/PLTV/88888888/224/3221225792/index.m3u8
+#EXTINF:-1,甘肃卫视
+http://39.134.66.5/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1,生活时尚
+http://39.134.66.5/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1,电视指南
+http://39.134.66.5/PLTV/88888888/224/3221225808/index.m3u8
+#EXTINF:-1,N/A
+http://39.134.66.5/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1,第一剧场
+http://39.134.66.5/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1,精彩影视
+http://39.134.66.5/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1,网络棋牌
+http://39.134.66.5/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1,CCTV15
+http://39.134.66.5/PLTV/88888888/224/3221225810/index.m3u8
+#EXTINF:-1,CCTV4
+http://39.134.66.5/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1,CCTV9
+http://39.134.66.5/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1,CCTV14
+http://39.134.66.5/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1,翡翠台
+http://39.134.66.5/PLTV/88888888/224/3221225824/index.m3u8
+#EXTINF:-1,老故事
+http://39.134.66.5/PLTV/88888888/224/3221225811/index.m3u8
+#EXTINF:-1,老故事
+http://39.134.66.5/PLTV/88888888/224/3221225807/index.m3u8
+#EXTINF:-1,CCTV8
+http://39.134.66.5/PLTV/88888888/224/3221225817/index.m3u8
+#EXTINF:-1,CCTV11
+http://39.134.66.5/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:-1,西藏卫视
+http://39.134.66.5/PLTV/88888888/224/3221225809/index.m3u8
+#EXTINF:-1,CCTV10
+http://39.134.66.5/PLTV/88888888/224/3221225823/index.m3u8
+#EXTINF:-1,CCTV13
+http://39.134.66.5/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:-1,CGTN
+http://39.134.66.5/PLTV/88888888/224/3221225836/index.m3u8
+#EXTINF:-1,财富天下
+http://39.134.66.5/PLTV/88888888/224/3221225828/index.m3u8
+#EXTINF:-1,贵州卫视
+http://39.134.66.5/PLTV/88888888/224/3221225832/index.m3u8
+#EXTINF:-1,州卫视
+http://39.134.66.5/PLTV/88888888/224/3221225834/index.m3u8
+#EXTINF:-1,足球频道
+http://39.134.66.5/PLTV/88888888/224/3221225838/index.m3u8
+#EXTINF:-1,CCTV2
+http://39.134.66.5/PLTV/88888888/224/3221225831/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://39.134.66.5/PLTV/88888888/224/3221225842/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://39.134.66.5/PLTV/88888888/224/3221225835/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225833/index.m3u8
+#EXTINF:-1,高清辽
+http://39.134.66.5/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1,都市剧
+http://39.134.66.5/PLTV/88888888/224/3221225837/index.m3u8
+#EXTINF:-1,重庆卫
+http://39.134.66.5/PLTV/88888888/224/3221225849/index.m3u8
+#EXTINF:-1,金鹰卡通
+http://39.134.66.5/PLTV/88888888/224/3221225851/index.m3u8
+#EXTINF:-1,陕西卫视
+http://39.134.66.5/PLTV/88888888/224/3221225845/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225848/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.66.5/PLTV/88888888/224/3221225856/index.m3u8
+#EXTINF:-1,靓妆频道
+http://39.134.66.5/PLTV/88888888/224/3221225852/index.m3u8
+#EXTINF:-1,XZTV
+http://39.134.66.5/PLTV/88888888/224/3221225858/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225854/index.m3u8
+#EXTINF:-1,CCTV9
+http://39.134.66.5/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225860/index.m3u8
+#EXTINF:-1,音像世界
+http://39.134.66.5/PLTV/88888888/224/3221225861/index.m3u8
+#EXTINF:-1,CCTV14
+http://39.134.66.5/PLTV/88888888/224/3221225857/index.m3u8
+#EXTINF:-1,CCTV17
+http://39.134.66.5/PLTV/88888888/224/3221225859/index.m3u8
+#EXTINF:-1,风云剧场
+http://39.134.66.5/PLTV/88888888/224/3221225863/index.m3u8
+#EXTINF:-1,风云足球
+http://39.134.66.5/PLTV/88888888/224/3221225865/index.m3u8
+#EXTINF:-1,CETV1
+http://39.134.66.5/PLTV/88888888/224/3221225866/index.m3u8
+#EXTINF:-1,高尔夫网球
+http://39.134.66.5/PLTV/88888888/224/3221225864/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.134.66.5/PLTV/88888888/224/3221225867/index.m3u8
+#EXTINF:-1,视高清
+http://39.134.66.5/PLTV/88888888/224/3221225868/index.m3u8
+#EXTINF:-1,世界地理
+http://39.134.66.5/PLTV/88888888/224/3221225870/index.m3u8
+#EXTINF:-1,TVS2
+http://39.134.66.5/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1,东南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225869/index.m3u8
+#EXTINF:-1,CETV4
+http://39.134.66.5/PLTV/88888888/224/3221225873/index.m3u8
+#EXTINF:-1,东方卫视
+http://39.134.66.5/PLTV/88888888/224/3221225872/index.m3u8
+#EXTINF:-1,卫视高清
+http://39.134.66.5/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1,中华美食
+http://39.134.66.5/PLTV/88888888/224/3221225880/index.m3u8
+#EXTINF:-1,交通
+http://39.134.66.5/PLTV/88888888/224/3221225877/index.m3u8
+#EXTINF:-1,CCTV
+http://39.134.66.5/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1,CCTV
+http://39.134.66.5/PLTV/88888888/224/3221225881/index.m3u8
+#EXTINF:-1,频道
+http://39.134.66.5/PLTV/88888888/224/3221225883/index.m3u8
+#EXTINF:-1,中山台
+http://39.134.66.5/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:-1,书画频道
+http://39.134.66.5/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225887/index.m3u8
+#EXTINF:-1,交通文艺
+http://39.134.66.5/PLTV/88888888/224/3221225886/index.m3u8
+#EXTINF:-1,SDETV
+http://39.134.66.5/PLTV/88888888/224/3221225885/index.m3u8
+#EXTINF:-1,ICS
+http://39.134.66.5/PLTV/88888888/224/3221225888/index.m3u8
+#EXTINF:-1,人物频道
+http://39.134.66.5/PLTV/88888888/224/3221225884/index.m3u8
+#EXTINF:-1,车迷频道
+http://39.134.66.5/PLTV/88888888/224/3221225876/index.m3u8
+#EXTINF:-1,CGTN
+http://39.134.66.5/PLTV/88888888/224/3221225889/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225894/index.m3u8
+#EXTINF:-1,金鹰卡通
+http://39.134.66.5/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1,邮轮旅游
+http://39.134.66.5/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225902/index.m3u8
+#EXTINF:-1,音像世界
+http://39.134.66.5/PLTV/88888888/224/3221225891/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225892/index.m3u8
+#EXTINF:-1,马赛克
+http://39.134.66.5/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1,HNV1
+http://39.134.66.5/PLTV/88888888/224/3221225906/index.m3u8
+#EXTINF:-1,高尔夫网球
+http://39.134.66.5/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1,广东音乐
+http://39.134.66.5/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1,快乐宠物
+http://39.134.66.5/PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1,揭阳综合
+http://39.134.66.5/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1,BTV
+http://39.134.66.5/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1,电子体育
+http://39.134.66.5/PLTV/88888888/224/3221225913/index.m3u8
+#EXTINF:-1,百姓健康
+http://39.134.66.5/PLTV/88888888/224/3221225911/index.m3u8
+#EXTINF:-1,经济之声
+http://39.134.66.5/PLTV/88888888/224/3221225916/index.m3u8
+#EXTINF:-1,网络棋牌
+http://39.134.66.5/PLTV/88888888/224/3221225915/index.m3u8
+#EXTINF:-1,美食天
+http://39.134.66.5/PLTV/88888888/224/3221225909/index.m3u8
+#EXTINF:-1,CCTV11
+http://39.134.66.5/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1,CCTV2
+http://39.134.66.5/PLTV/88888888/224/3221225920/index.m3u8
+#EXTINF:-1,考试在线
+http://39.134.66.5/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1,CETV1
+http://39.134.66.5/PLTV/88888888/224/3221225924/index.m3u8
+#EXTINF:-1,西藏卫视
+http://39.134.66.5/PLTV/88888888/224/3221225926/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225923/index.m3u8
+#EXTINF:-1,足球
+http://39.134.66.5/PLTV/88888888/224/3221225930/index.m3u8
+#EXTINF:-1,CCTV14
+http://39.134.66.5/PLTV/88888888/224/3221225917/index.m3u8
+#EXTINF:-1,CCTV10
+http://39.134.66.5/PLTV/88888888/224/3221225919/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225925/index.m3u8
+#EXTINF:-1,CNTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1,车迷频道
+http://39.134.66.5/PLTV/88888888/224/3221225936/index.m3u8
+#EXTINF:-1,HNV1
+http://39.134.66.5/PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:-1,CCTV9
+http://39.134.66.5/PLTV/88888888/224/3221225921/index.m3u8
+#EXTINF:-1,邮轮旅游
+http://39.134.66.5/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:-1,高尔夫
+http://39.134.66.5/PLTV/88888888/224/3221225940/index.m3u8
+#EXTINF:-1,清演示
+http://39.134.66.5/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:-1,黑龙江
+http://39.134.66.5/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1,卡酷少儿
+http://39.134.66.5/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1,动作电影
+http://39.134.66.5/PLTV/88888888/224/3221225941/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225937/index.m3u8
+#EXTINF:-1,家庭影院
+http://39.134.66.5/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1,XZTV
+http://39.134.66.5/PLTV/88888888/224/3221225945/index.m3u8
+#EXTINF:-1,世界地理
+http://39.134.66.5/PLTV/88888888/224/3221225946/index.m3u8
+#EXTINF:-1,CCTV15
+http://39.134.66.5/PLTV/88888888/224/3221225948/index.m3u8
+#EXTINF:-1,东南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1,XZTV
+http://39.134.66.5/PLTV/88888888/224/3221225952/index.m3u8
+#EXTINF:-1,Baby Talent HD
+http://39.134.66.5/PLTV/88888888/224/3221225950/index.m3u8
+#EXTINF:-1,CCTV17
+http://39.134.66.5/PLTV/88888888/224/3221225939/index.m3u8
+#EXTINF:-1,东方卫视
+http://39.134.66.5/PLTV/88888888/224/3221225949/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225951/index.m3u8
+#EXTINF:-1,方卫视高清
+http://39.134.66.5/PLTV/88888888/224/3221225958/index.m3u8
+#EXTINF:-1,CiTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225960/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225954/index.m3u8
+#EXTINF:-1,中华美食
+http://39.134.66.5/PLTV/88888888/224/3221225964/index.m3u8
+#EXTINF:-1,中国交通频道
+http://39.134.66.5/PLTV/88888888/224/3221225956/index.m3u8
+#EXTINF:-1,MYLT TV HD
+http://39.134.66.5/PLTV/88888888/224/3221225966/index.m3u8
+#EXTINF:-1,CCTV12
+http://39.134.66.5/PLTV/88888888/224/3221225962/index.m3u8
+#EXTINF:-1,书画频道
+http://39.134.66.5/PLTV/88888888/224/3221225968/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225970/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225947/index.m3u8
+#EXTINF:-1,Baby Talent HD
+http://39.134.66.5/PLTV/88888888/224/3221225972/index.m3u8
+#EXTINF:-1,OHTV1
+http://39.134.66.5/PLTV/88888888/224/3221225978/index.m3u8
+#EXTINF:-1,交通文艺
+http://39.134.66.5/PLTV/88888888/224/3221225980/index.m3u8
+#EXTINF:-1,物频道
+http://39.134.66.5/PLTV/88888888/224/3221225974/index.m3u8
+#EXTINF:-1,优优宝贝
+http://39.134.66.5/PLTV/88888888/224/3221225982/index.m3u8
+#EXTINF:-1,佛山台
+http://39.134.66.5/PLTV/88888888/224/3221225990/index.m3u8
+#EXTINF:-1,先锋乒羽
+http://39.134.66.5/PLTV/88888888/224/3221225986/index.m3u8
+#EXTINF:-1,全纪实
+http://39.134.66.5/PLTV/88888888/224/3221225992/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225984/index.m3u8
+#EXTINF:-1,NNTV
+http://39.134.66.5/PLTV/88888888/224/3221225996/index.m3u8
+#EXTINF:-1,兵团卫视
+http://39.134.66.5/PLTV/88888888/224/3221225998/index.m3u8
+#EXTINF:-1,内蒙古卫视
+http://39.134.66.5/PLTV/88888888/224/3221226002/index.m3u8
+#EXTINF:-1,凤凰卫视
+http://39.134.66.5/PLTV/88888888/224/3221226006/index.m3u8
+#EXTINF:-1,CCTV7
+http://39.134.66.5/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1,CCTV10
+http://39.134.66.5/PLTV/88888888/224/3221226014/index.m3u8
+#EXTINF:-1,动漫秀场
+http://39.134.66.5/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1,CCTV
+http://39.134.66.5/PLTV/88888888/224/3221226020/index.m3u8
+#EXTINF:-1,CCTV4
+http://39.134.66.5/PLTV/88888888/224/3221226012/index.m3u8
+#EXTINF:-1,北京卫视
+http://39.134.66.5/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1,南方卫视
+http://39.134.66.5/PLTV/88888888/224/3221226028/index.m3u8
+#EXTINF:-1,卡酷少儿
+http://39.134.66.5/PLTV/88888888/224/3221226022/index.m3u8
+#EXTINF:-1,发现之旅
+http://39.134.66.5/PLTV/88888888/224/3221226034/index.m3u8
+#EXTINF:-1,CCTV1
+http://39.134.66.5/PLTV/88888888/224/3221226024/index.m3u8
+#EXTINF:-1,CCTV7
+http://39.134.66.5/PLTV/88888888/224/3221226036/index.m3u8
+#EXTINF:-1,广东公共
+http://39.134.66.5/PLTV/88888888/224/3221226030/index.m3u8
+#EXTINF:-1,幸福彩
+http://39.134.66.5/PLTV/88888888/224/3221226046/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226038/index.m3u8
+#EXTINF:-1,广西卫视
+http://39.134.66.5/PLTV/88888888/224/3221226040/index.m3u8
+#EXTINF:-1,CCTV10
+http://39.134.66.5/PLTV/88888888/224/3221226042/index.m3u8
+#EXTINF:-1,JO TV
+http://39.134.66.5/PLTV/88888888/224/3221226052/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226050/index.m3u8
+#EXTINF:-1,延边卫视
+http://39.134.66.5/PLTV/88888888/224/3221226026/index.m3u8
+#EXTINF:-1,快乐宠物
+http://39.134.66.5/PLTV/88888888/224/3221226056/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226054/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226060/index.m3u8
+#EXTINF:-1,CCTV11
+http://39.134.66.5/PLTV/88888888/224/3221226074/index.m3u8
+#EXTINF:-1,CCTV5
+http://39.134.66.5/PLTV/88888888/224/3221226066/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226070/index.m3u8
+#EXTINF:-1,幸福彩HD
+http://39.134.66.5/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226068/index.m3u8
+#EXTINF:-1,CCTV12
+http://39.134.66.5/PLTV/88888888/224/3221226072/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226082/index.m3u8
+#EXTINF:-1,延边卫视
+http://39.134.66.5/PLTV/88888888/224/3221226080/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226086/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226084/index.m3u8
+#EXTINF:-1,岭南戏曲
+http://39.134.66.5/PLTV/88888888/224/3221226090/index.m3u8
+#EXTINF:-1,导视珠海
+http://39.134.66.5/PLTV/88888888/224/3221226088/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226092/index.m3u8
+#EXTINF:-1,CCTV13
+http://39.134.66.5/PLTV/88888888/224/3221226096/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221226094/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221228847/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221228849/index.m3u8
+#EXTINF:-1,CCTV5
+http://39.134.66.5/PLTV/88888888/224/3221228861/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221228855/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221228851/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221228853/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221228857/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221228863/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221228865/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221228867/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221228859/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.66.5/PLTV/88888888/224/3221229106/index.m3u8
+#EXTINF:-1,家购物
+http://39.134.66.5/PLTV/88888888/224/3221229110/index.m3u8
+#EXTINF:-1,女性时尚
+http://39.134.66.5/PLTV/88888888/224/3221229112/index.m3u8
+#EXTINF:-1,CCTV4
+http://39.134.66.5/PLTV/88888888/224/3221225487/index.m3u8
+#EXTINF:-1,CCTV6 HD
+http://39.134.66.5/PLTV/88888888/224/3221225488/index.m3u8
+#EXTINF:-1,视高清
+http://39.134.66.5/PLTV/88888888/224/3221225497/index.m3u8
+#EXTINF:-1,CCTV8 HD
+http://39.134.66.5/PLTV/88888888/224/3221225485/index.m3u8
+#EXTINF:-1,CCTV3 HD
+http://39.134.66.5/PLTV/88888888/224/3221225490/index.m3u8
+#EXTINF:-1,视高清
+http://39.134.66.5/PLTV/88888888/224/3221225496/index.m3u8
+#EXTINF:-1,剧场
+http://39.134.66.5/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1,CCTV1 HD
+http://39.134.66.5/PLTV/88888888/224/3221225493/index.m3u8
+#EXTINF:-1,剧场 HD
+http://39.134.66.5/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1,CCTV5 HD
+http://39.134.66.5/PLTV/88888888/224/3221225491/index.m3u8
+#EXTINF:-1,CCTV5 HD
+http://39.134.66.5/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1,音像世界
+http://39.134.66.5/PLTV/88888888/224/3221225495/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.66.5/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1,青海卫视 HD
+http://39.134.66.5/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1,CGTN
+http://39.134.66.5/PLTV/88888888/224/3221225510/index.m3u8
+#EXTINF:-1,CCTV15
+http://39.134.66.5/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1,CCTV7
+http://39.134.66.5/PLTV/88888888/224/3221225489/index.m3u8
+#EXTINF:-1,CCTV13
+http://39.134.66.5/PLTV/88888888/224/3221225515/index.m3u8
+#EXTINF:-1,CCTV11
+http://39.134.66.5/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1,CGTN
+http://39.134.66.5/PLTV/88888888/224/3221225509/index.m3u8
+#EXTINF:-1,测试频道七
+http://39.134.66.5/PLTV/88888888/224/3221225499/index.m3u8
+#EXTINF:-1,风云音乐
+http://39.134.66.5/PLTV/88888888/224/3221225500/index.m3u8
+#EXTINF:-1,风云音乐 HD
+http://39.134.66.5/PLTV/88888888/224/3221225512/index.m3u8
+#EXTINF:-1,高尔夫网球 HD
+http://39.134.66.5/PLTV/88888888/224/3221225523/index.m3u8
+#EXTINF:-1,NEWTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1,CCTV14
+http://39.134.66.5/PLTV/88888888/224/3221225516/index.m3u8
+#EXTINF:-1,CCTV9 HD
+http://39.134.66.5/PLTV/88888888/224/3221225519/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1,CCTV3 HD
+http://39.134.66.5/PLTV/88888888/224/3221225688/index.m3u8
+#EXTINF:-1,青海卫视 HD
+http://39.134.66.5/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.66.5/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1,西藏卫视 HD
+http://39.134.66.5/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1,HRB 幸福彩
+http://39.134.66.5/PLTV/88888888/224/3221225700/index.m3u8
+#EXTINF:-1,CCTV7
+http://39.134.66.5/PLTV/88888888/224/3221225492/index.m3u8
+#EXTINF:-1,CCTV10
+http://39.134.66.5/PLTV/88888888/224/3221225494/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.66.5/PLTV/88888888/224/3221225501/index.m3u8
+#EXTINF:-1,CCTV14
+http://39.134.66.5/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1,TVS
+http://39.134.66.5/PLTV/88888888/224/3221225505/index.m3u8
+#EXTINF:-1,天津卫视
+http://39.134.66.5/PLTV/88888888/224/3221225508/index.m3u8
+#EXTINF:-1,CCTV1
+http://39.134.66.5/PLTV/88888888/224/3221225511/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1,广东综艺
+http://39.134.66.5/PLTV/88888888/224/3221225518/index.m3u8
+#EXTINF:-1,英语辅导
+http://39.134.66.5/PLTV/88888888/224/3221225520/index.m3u8
+#EXTINF:-1,夏仕卡通
+http://39.134.66.5/PLTV/88888888/224/3221225521/index.m3u8
+#EXTINF:-1,西藏卫视
+http://39.134.66.5/PLTV/88888888/224/3221225522/index.m3u8
+#EXTINF:-1,深圳卫视
+http://39.134.66.5/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.66.5/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1,BTV
+http://39.134.66.5/PLTV/88888888/224/3221225527/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.66.5/PLTV/88888888/224/3221225528/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225529/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.134.66.5/PLTV/88888888/224/3221225530/index.m3u8
+#EXTINF:-1,广东珠江
+http://39.134.66.5/PLTV/88888888/224/3221225531/index.m3u8
+#EXTINF:-1,甘肃卫视
+http://39.134.66.5/PLTV/88888888/224/3221225532/index.m3u8
+#EXTINF:-1,广东体育
+http://39.134.66.5/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1,财富天下
+http://39.134.66.5/PLTV/88888888/224/3221225534/index.m3u8
+#EXTINF:-1,兵团卫视
+http://39.134.66.5/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1,CGTN
+http://39.134.66.5/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:-1,BTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225540/index.m3u8
+#EXTINF:-1,英语辅导
+http://39.134.66.5/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1,JO TV
+http://39.134.66.5/PLTV/88888888/224/3221225544/index.m3u8
+#EXTINF:-1,天津卫视
+http://39.134.66.5/PLTV/88888888/224/3221225546/index.m3u8
+#EXTINF:-1,CCTV1 HD
+http://39.134.66.5/PLTV/88888888/224/3221225548/index.m3u8
+#EXTINF:-1,CCTV5 HD
+http://39.134.66.5/PLTV/88888888/224/3221225550/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.66.5/PLTV/88888888/224/3221225551/index.m3u8
+#EXTINF:-1,BTV
+http://39.134.66.5/PLTV/88888888/224/3221225552/index.m3u8
+#EXTINF:-1,CCTV2
+http://39.134.66.5/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1,CBN
+http://39.134.66.5/PLTV/88888888/224/3221225554/index.m3u8
+#EXTINF:-1,CCTV3
+http://39.134.66.5/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1,JO TV
+http://39.134.66.5/PLTV/88888888/224/3221225556/index.m3u8
+#EXTINF:-1,CCTV4
+http://39.134.66.5/PLTV/88888888/224/3221225557/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.66.5/PLTV/88888888/224/3221225558/index.m3u8
+#EXTINF:-1,CCTV5 HD
+http://39.134.66.5/PLTV/88888888/224/3221225559/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.134.66.5/PLTV/88888888/224/3221225560/index.m3u8
+#EXTINF:-1,CCTV6 HD
+http://39.134.66.5/PLTV/88888888/224/3221225561/index.m3u8
+#EXTINF:-1,吉林卫视
+http://39.134.66.5/PLTV/88888888/224/3221225562/index.m3u8
+#EXTINF:-1,CCTV7
+http://39.134.66.5/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.134.66.5/PLTV/88888888/224/3221225564/index.m3u8
+#EXTINF:-1,CCTV8 HD
+http://39.134.66.5/PLTV/88888888/224/3221225565/index.m3u8
+#EXTINF:-1,河南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225566/index.m3u8
+#EXTINF:-1,CCTV10 HD
+http://39.134.66.5/PLTV/88888888/224/3221225567/index.m3u8
+#EXTINF:-1,兵团卫视
+http://39.134.66.5/PLTV/88888888/224/3221225568/index.m3u8
+#EXTINF:-1,CCTV11
+http://39.134.66.5/PLTV/88888888/224/3221225569/index.m3u8
+#EXTINF:-1,财富天下
+http://39.134.66.5/PLTV/88888888/224/3221225570/index.m3u8
+#EXTINF:-1,CCTV12
+http://39.134.66.5/PLTV/88888888/224/3221225571/index.m3u8
+#EXTINF:-1,贵州卫视
+http://39.134.66.5/PLTV/88888888/224/3221225572/index.m3u8
+#EXTINF:-1,CCTV14 HD
+http://39.134.66.5/PLTV/88888888/224/3221225573/index.m3u8
+#EXTINF:-1,NNTV
+http://39.134.66.5/PLTV/88888888/224/3221225574/index.m3u8
+#EXTINF:-1,CETV1
+http://39.134.66.5/PLTV/88888888/224/3221225576/index.m3u8
+#EXTINF:-1,吉林卫视
+http://39.134.66.5/PLTV/88888888/224/3221225578/index.m3u8
+#EXTINF:-1,湖明珠
+http://39.134.66.5/PLTV/88888888/224/3221225579/index.m3u8
+#EXTINF:-1,BTV
+http://39.134.66.5/PLTV/88888888/224/3221225580/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.134.66.5/PLTV/88888888/224/3221225581/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.66.5/PLTV/88888888/224/3221225582/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.66.5/PLTV/88888888/224/3221225583/index.m3u8
+#EXTINF:-1,云南卫视
+http://39.134.66.5/PLTV/88888888/224/3221225584/index.m3u8
+#EXTINF:-1,英语辅导
+http://39.134.66.5/PLTV/88888888/224/3221225585/index.m3u8
+#EXTINF:-1,夏仕卡通
+http://39.134.66.5/PLTV/88888888/224/3221225586/index.m3u8
+#EXTINF:-1,西藏卫视
+http://39.134.66.5/PLTV/88888888/224/3221225587/index.m3u8
+#EXTINF:-1,CCTV3
+http://39.134.66.5/PLTV/88888888/224/3221225589/index.m3u8
+#EXTINF:-1,天津卫视
+http://39.134.66.5/PLTV/88888888/224/3221225593/index.m3u8
+#EXTINF:-1,广东综艺
+http://39.134.66.5/PLTV/88888888/224/3221225600/index.m3u8
+#EXTINF:-1,МАХ卫视
+http://39.134.66.5/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.134.66.5/PLTV/88888888/224/3221225605/index.m3u8
+#EXTINF:-1,杭州文化
+http://39.134.66.5/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://39.134.66.5/PLTV/88888888/224/3221225609/index.m3u8
+#EXTINF:-1,杭州文化
+http://39.134.66.5/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1,天津卫视
+http://39.134.66.5/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1,陕西卫视
+http://39.134.66.5/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1,财富天下
+http://39.134.66.5/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1,北京科教
+http://39.134.66.5/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1,NNTV
+http://39.134.66.5/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1,山东卫视
+http://39.134.66.5/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.66.5/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1,NewTV HD CNTV
+http://39.134.66.5/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.134.66.5/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1,河北卫视
+http://39.134.66.5/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1,贵州卫视
+http://39.134.66.5/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1,兵团卫视
+http://39.134.66.5/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1,BTV
+http://39.134.66.5/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1,安徽科教
+http://39.134.66.5/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1,云南公共
+http://39.134.66.5/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1,XZTV
+http://39.134.66.5/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.66.5/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://39.134.66.5/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1,甘肃卫视
+http://39.134.66.5/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1,财富天下
+http://39.134.66.5/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1,北京少儿
+http://39.134.66.5/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1,青海卫视
+http://39.134.66.5/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1,广东体育
+http://39.134.66.5/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1,CCTV5 HD
+http://39.134.66.5/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1,CGTN
+http://39.134.66.5/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1,CETV1
+http://39.134.66.5/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1,NewTV HD
+http://39.134.66.5/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225687/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225691/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225693/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225695/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225697/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225699/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225703/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225707/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225709/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225727/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1,CCTV5 HD
+http://39.134.66.5/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1,UFC
+http://39.134.66.5/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1,CCTV5
+http://39.134.66.5/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1,CCTV5 HD
+http://39.134.66.5/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225749/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225751/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225755/index.m3u8
+#EXTINF:-1,UFC HD
+http://39.134.66.5/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1,CCTV 1 HD
+http://39.134.66.5:80/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1,CCTV 2
+http://39.134.66.5:80/PLTV/88888888/224/3221225725/index.m3u8
+#EXTINF:-1,北京卫视
+http://39.134.66.5:80/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1,CCTV 5 HD
+http://39.134.66.5:80/PLTV/88888888/224/3221225818/index.m3u8
 #EXTINF:-1,CCTV14
 http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
 #EXTINF:-1,CCTV17
