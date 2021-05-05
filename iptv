@@ -45,6 +45,30 @@ http://61.238.6.49:8001/bysid/85
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1, ViuTV6
 http://61.238.6.49:8000/bysid/96
+#EXTINF:-1,jade hd
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1,jade 2 hd
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+#EXTINF:-1,pearl hd
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+#EXTINF:-1,e news hd
+http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+#EXTINF:-1,f news hd
+http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+#EXTINF:-1,rhk31 hd
+http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+#EXTINF:-1,rhk32 hd
+http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+#EXTINF:-1,rhk33 hd
+http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+#EXTINF:-1,viu tv hd
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+#EXTINF:-1,viu 6 hd
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+#EXTINF:-1,open hd
+http://185.207.176.189:8080/channels/tv-77/playlist.m3u8
+#EXTINF:-1,HKIB hd
+http://185.207.176.189:8080/channels/tv-76/playlist.m3u8
 #EXTINF:-1,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:0,RTHK31
