@@ -31,6 +31,26 @@ http://livetv.dnsfor.me:80/channel.18.m3u8
 http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:-1,VIU TV
 http://livetv.dnsfor.me:80/channel.20.m3u8
+#EXTINF:-1,港台電視 31
+http://58.153.75.131:9981/stream/channelid/459562846
+#EXTINF:-1,港台電視 32
+http://58.153.75.131:9981/stream/channelid/2046039390
+#EXTINF:-1,中央電視台綜合頻道（CCTV-1綜合)
+http://58.153.75.131:9981/stream/channelid/535938781
+#EXTINF:-1,翡翠台
+http://58.153.75.131:9981/stream/channelid/1920663880
+#EXTINF:-1,J2台
+http://58.153.75.131:9981/stream/channelid/1795929990
+#EXTINF:-1,無綫新聞台
+http://58.153.75.131:9981/stream/channelid/1994471880
+#EXTINF:-1,明珠台
+http://58.153.75.131:9981/stream/channelid/209617525
+#EXTINF:-1,無綫財經 · 資訊台
+http://58.153.75.131:9981/stream/channelid/170526459
+#EXTINF:-1,ViuTVsix
+http://58.153.75.131:9981/stream/channelid/498074153
+#EXTINF:-1,ViuTV
+http://58.153.75.131:9981/stream/channelid/975397172
 #EXTINF:-1, 翡翠台
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1, 明珠台
