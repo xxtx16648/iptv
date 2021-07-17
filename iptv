@@ -31,26 +31,6 @@ http://livetv.dnsfor.me:80/channel.18.m3u8
 http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:-1,VIU TV
 http://livetv.dnsfor.me:80/channel.20.m3u8
-#EXTINF:-1,rhk33 hd
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-#EXTINF:-1,viu tv hd
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1,rhk31 HD
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1,rhk32 HD
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1,Viutv 6
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-#EXTINF:-1,翡翠台 1080P
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1,J2 1080P
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1,无线新闻 1080P
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1,明珠台HD
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1,无线财经资讯台 1080P
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 #EXTINF:-1,港台電視 31
 http://58.153.75.131:9981/stream/channelid/459562846
 #EXTINF:-1,港台電視 32
