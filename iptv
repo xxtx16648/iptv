@@ -31,26 +31,6 @@ http://livetv.dnsfor.me:80/channel.18.m3u8
 http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:-1,VIU TV
 http://livetv.dnsfor.me:80/channel.20.m3u8
-#EXTINF:-1,港台電視 31
-http://58.153.75.131:9981/stream/channelid/459562846
-#EXTINF:-1,港台電視 32
-http://58.153.75.131:9981/stream/channelid/2046039390
-#EXTINF:-1,中央電視台綜合頻道（CCTV-1綜合)
-http://58.153.75.131:9981/stream/channelid/535938781
-#EXTINF:-1,翡翠台
-http://58.153.75.131:9981/stream/channelid/1920663880
-#EXTINF:-1,J2台
-http://58.153.75.131:9981/stream/channelid/1795929990
-#EXTINF:-1,無綫新聞台
-http://58.153.75.131:9981/stream/channelid/1994471880
-#EXTINF:-1,明珠台
-http://58.153.75.131:9981/stream/channelid/209617525
-#EXTINF:-1,無綫財經 · 資訊台
-http://58.153.75.131:9981/stream/channelid/170526459
-#EXTINF:-1,ViuTVsix
-http://58.153.75.131:9981/stream/channelid/498074153
-#EXTINF:-1,ViuTV
-http://58.153.75.131:9981/stream/channelid/975397172
 #EXTINF:-1, 翡翠台
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1, 明珠台
@@ -161,6 +141,45 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
 #EXTINF:-1,NEWS NET
 https://bozztv.com/36bay2/giniko_newsnet/index.m3u8
+#EXTINF:-1,鳳凰衛視中文台
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1,鳳凰衛視資訊台
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1,鳳凰衛視香港台
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1,有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1,有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1,有线直播台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1,now直播台
+https://api.leonardpark.dev/live/now/331#EXTINF:-1,HKC奧運601台
+https://api.leonardpark.dev/live/icable/601
+#EXTINF:-1,HKC奧運602台
+https://api.leonardpark.dev/live/icable/602
+#EXTINF:-1,HKC奧運603台
+https://api.leonardpark.dev/live/icable/603
+#EXTINF:-1,HKC奧運604台
+https://api.leonardpark.dev/live/icable/604
+#EXTINF:-1,HKC奧運605台
+https://api.leonardpark.dev/live/icable/605
+#EXTINF:-1,AstroArena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1
+無綫新聞台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+#EXTINF:-1
+無綫財經資訊台,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+#EXTINF:-1
+無綫新聞,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
+#EXTINF:-1
+無綫直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
+#EXTINF:-1
+凤凰资讯(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
+#EXTINF:-1
+凤凰中文(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
+#EXTINF:-1
+凤凰香港(代),http://www.chahaoquan.com/wz/epg/fhdl.php?id=3
 #EXTINF:-1,SBS
 http://121.130.210.101:9981/stream/channelid/452261212
 #EXTINF:-1,KBS2
