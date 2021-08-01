@@ -69,6 +69,56 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 http://185.207.176.189:8080/channels/tv-77/playlist.m3u8
 #EXTINF:-1,HKIB hd
 http://185.207.176.189:8080/channels/tv-76/playlist.m3u8
+#EXTINF:-1,天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1,天映经典
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1,天映频道(粵)
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1,channel 5
+http://50.7.222.130:8278/streams/d/Channel5HD/playlist.m3u8
+#EXTINF:-1,Channel 8
+http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8
+#EXTINF:-1,AOD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1,华丽台
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1,欢喜台
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1,boo恐怖片
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1,八度空间
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1,天映频道
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1,AEC
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+#EXTINF:-1,华丽台
+http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1,欢喜台
+http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1,爱奇艺
+http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+#EXTINF:-1,全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1,双星
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1,TVB 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1,小太阳
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1,AOD HD
+http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1,Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1,supersports 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,Supersports 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,Supersports 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,Supersports 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:0,RTHK31
@@ -77,12 +127,26 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&r
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,LUXE TV
 http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
-#EXTINF:-1,CCTV 5
-http://livetv.dnsfor.me:80/channel.17.m3u8
-#EXTINF:-1,UNIVERSE TV
-http://livetv.dnsfor.me:80/channel.23.m3u8
-#EXTINF:-1,亚旅卫视
-http://livetv.dnsfor.me:80/channel.24.m3u8
+Hello
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+KiX HD
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+Sony HD
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+tvN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+KBS Wolrd
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+Oh!k
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Cinemax HD
+http://50.7.161.82:8278/streams/d/Cinemax/playlist.m3u8
+HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+NatGeo Wild HD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1,澳视澳门
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1,RTP
