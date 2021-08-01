@@ -127,25 +127,25 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&r
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,LUXE TV
 http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
-Hello
+#EXTINF:-1,Hello
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
-KiX HD
+#EXTINF:-1,KiX HD
 http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
-Sony HD
+#EXTINF:-1,Sony HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-tvN
+#EXTINF:-1,tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-KBS Wolrd
+#EXTINF:-1,KBS Wolrd
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-Oh!k
+#EXTINF:-1,Oh!k
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-Cinemax HD
+#EXTINF:-1,Cinemax HD
 http://50.7.161.82:8278/streams/d/Cinemax/playlist.m3u8
-HBO HD
+#EXTINF:-1,HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-HGTV
+#EXTINF:-1,HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-NatGeo Wild HD
+#EXTINF:-1,NatGeo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1,澳视澳门
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
@@ -169,6 +169,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 #EXTINF:-1,Fashion TV International
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,HD Fashion
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,WFTV
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 #EXTINF:-1,WFTV
@@ -215,6 +217,26 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1,凤凰资讯
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1,CHC高清电影
+http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1,CHC家庭影院
+http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1,CHC动作电影
+http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1,4K花园娱乐
+http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+#EXTINF:-1,欢笑剧场4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#EXTINF:-1,芒果TV
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+#EXTINF:-1,百视通4K
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls$浙江
+#EXTINF:-1,SiTV欢笑剧场
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
+#EXTINF:-1,咪咕体育
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230373/index.m3u8
+#EXTINF:-1,爱上4K
+http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:-1,有线新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1,有线财经资讯台
@@ -249,6 +271,88 @@ http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
 http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 #EXTINF:-1,凤凰香港(代)
 http://www.chahaoquan.com/wz/epg/fhdl.php?id=3
+#EXTINF:-1,Channel [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Channel [V]
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:-1,HBO
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1,NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1,ELEVEN1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1,ELEVEN2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1,[V] HD
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FOX MOVIES
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FOX家庭影院
+https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
+#EXTINF:-1,FOX SPORTS 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1,FOX SPORTS 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1,FOX SPORTS 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,KIX MALAY
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Discovery Channel
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Discovery TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,動物星球頻道
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Paramount Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+#EXTINF:-1,Baby First
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+#EXTINF:-1,Cartoon Network HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:-1,Fox Family Movies
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1,Fox Life
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+#EXTINF:-1,Fox Movies HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1,CinemaWorld
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+#EXTINF:-1,WarnerTV
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#EXTINF:-1,AXN HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:-1,Asian Food Network
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1,Channel V HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:-1,Davinci HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+#EXTINF:-1,Fox HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1,SBS
 http://121.130.210.101:9981/stream/channelid/452261212
 #EXTINF:-1,KBS2
