@@ -181,6 +181,24 @@ http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212307
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230373/index.m3u8
 #EXTINF:-1,爱上4K
 http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 ,南国都市 4K
+https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
+#EXTINF:-1 ,欢笑剧场 4K
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
+#EXTINF:-1 ,芒果TV 4K
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+#EXTINF:-1 ,爱上4K
+http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 ,BesTV 4K
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,4K超清-北京IPTV
+http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 ,4K花园生活
+http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
+#EXTINF:-1 ,4K花园娱乐
+http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+#EXTINF:-1 ,4K花园影视
+http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8 
 #EXTINF:-1,TVB翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1,TVB J2
@@ -727,200 +745,18 @@ http://39.130.202.114:6610/gitv_live/G_KMTV-4/G_KMTV-4.m3u8
 http://39.130.202.114:6610/gitv_live/G_KMTV-5/G_KMTV-5.m3u8
 #EXTINF:-1,昆 明-6公共
 http://39.130.202.114:6610/gitv_live/G_KMTV-6/G_KMTV-6.m3u8
-#EXTINF:-1,曲靖1频道
-http://39.130.202.114:6610/gitv_live/G_QUJING-1/G_QUJING-1.m3u8
-#EXTINF:-1,曲靖2频道
-http://39.130.202.114:6610/gitv_live/G_QUJING-2/G_QUJING-2.m3u8
-#EXTINF:-1,曲靖3频道
-http://39.130.202.114:6610/gitv_live/G_QUJING-3/G_QUJING-3.m3u8
-#EXTINF:-1,会泽电视台
-http://39.130.202.114:6610/gitv_live/G_HUIZE-1/G_HUIZE-1.m3u8
-#EXTINF:-1,昭通-1
-http://39.130.202.114:6610/gitv_live/G_ZHAOTONG-1/G_ZHAOTONG-1.m3u8
-#EXTINF:-1,昭通-2
-http://39.130.202.114:6610/gitv_live/G_ZHAOTONG-2/G_ZHAOTONG-2.m3u8
-#EXTINF:-1,昭通-3
-http://39.130.202.114:6610/gitv_live/G_ZHAOTONG-3/G_ZHAOTONG-3.m3u8
-#EXTINF:-1,楚雄州一套
-http://39.130.202.114:6610/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8
-#EXTINF:-1,楚雄州二套
-http://39.130.202.114:6610/gitv_live/G_CHUXIONGGG/G_CHUXIONGGG.m3u8
-#EXTINF:-1,楚雄市台
-http://39.130.202.114:6610/gitv_live/G_CHUXIONGSHI/G_CHUXIONGSHI.m3u8
-#EXTINF:-1,牟定县台
-http://39.130.202.114:6610/gitv_live/G_MOUDING/G_MOUDING.m3u8
-#EXTINF:-1,元谋县台
-http://39.130.202.114:6610/gitv_live/G_YUANMOU/G_YUANMOU.m3u8
-#EXTINF:-1,永仁县台
-http://39.130.202.114:6610/gitv_live/G_YONGREN/G_YONGREN.m3u8
-#EXTINF:-1,南华县台
-http://39.130.202.114:6610/gitv_live/G_NANHUA/G_NANHUA.m3u8
-#EXTINF:-1,双柏县台
-http://39.130.202.114:6610/gitv_live/G_SHUANGBAI/G_SHUANGBAI.m3u8
-#EXTINF:-1,大姚县台
-http://39.130.202.114:6610/gitv_live/G_CHUXIONGDAYAO/G_CHUXIONGDAYAO.m3u8
-#EXTINF:-1,姚安县台
-http://39.130.202.114:6610/gitv_live/G_YAOAN/G_YAOAN.m3u8
-#EXTINF:-1,禄丰县台
-http://39.130.202.114:6610/gitv_live/G_LUFENG/G_LUFENG.m3u8
-#EXTINF:-1,武定县台
-http://39.130.202.114:6610/gitv_live/G_WUDING/G_WUDING.m3u8
-#EXTINF:-1,临沧一套
-http://39.130.202.114:6610/gitv_live/G_LINCANGTV-1/G_LINCANGTV-1.m3u8
-#EXTINF:-1,临沧二套
-http://39.130.202.114:6610/gitv_live/G_LINCANGTV-2/G_LINCANGTV-2.m3u8
-#EXTINF:-1,临翔区台
-http://39.130.202.114:6610/gitv_live/G_LCLINXIANG/G_LCLINXIANG.m3u8
-#EXTINF:-1,双江县台
-http://39.130.202.114:6610/gitv_live/G_LCSHUANGJIANG/G_LCSHUANGJIANG.m3u8
-#EXTINF:-1,镇康县台
-http://39.130.202.114:6610/gitv_live/G_LCZHENKANG/G_LCZHENKANG.m3u8
-#EXTINF:-1,云县台
-http://39.130.202.114:6610/gitv_live/G_LCYUNXIAN/G_LCYUNXIAN.m3u8
-#EXTINF:-1,凤庆县台
-http://39.130.202.114:6610/gitv_live/G_LCFENGQING/G_LCFENGQING.m3u8
-#EXTINF:-1,耿马县台
-http://39.130.202.114:6610/gitv_live/G_LCGENGMA/G_LCGENGMA.m3u8
-#EXTINF:-1,永德县台
-http://39.130.202.114:6610/gitv_live/G_LCYONGDE/G_LCYONGDE.m3u8
-#EXTINF:-1,沧源县台
-http://39.130.202.114:6610/gitv_live/G_LCCANGYUAN/G_LCCANGYUAN.m3u8
-#EXTINF:-1,孟连电视台
-http://39.130.202.114:6610/gitv_live/G_MENGLIAN/G_MENGLIAN.m3u8
-#EXTINF:-1,普洱1套
-http://39.130.202.114:6610/gitv_live/G_PUERTV-1/G_PUERTV-1.m3u8
-#EXTINF:-1,普洱2套
-http://39.130.202.114:6610/gitv_live/G_PUERTV-2/G_PUERTV-2.m3u8
-#EXTINF:-1,普洱3套
-http://39.130.202.114:6610/gitv_live/G_PUERTV-3/G_PUERTV-3.m3u8
-#EXTINF:-1,澜沧电视台
-http://39.130.202.114:6610/gitv_live/G_LANCANG/G_LANCANG.m3u8
-#EXTINF:-1,景东电视台
-http://39.130.202.114:6610/gitv_live/G_JINGDONG/G_JINGDONG.m3u8
-#EXTINF:-1,江城电视台
-http://39.130.202.114:6610/gitv_live/G_JIANGCHENG/G_JIANGCHENG.m3u8
-#EXTINF:-1,大理1套-新闻综合频道
-http://39.130.202.114:6610/gitv_live/G_DALITV-1/G_DALITV-1.m3u8
-#EXTINF:-1,大理2套-公共频道
-http://39.130.202.114:6610/gitv_live/G_DALITV-2/G_DALITV-2.m3u8
-#EXTINF:-1,大理3套-旅游文化频道
-http://39.130.202.114:6610/gitv_live/G_DALITV-3/G_DALITV-3.m3u8
-#EXTINF:-1,大理市台
-http://39.130.202.114:6610/gitv_live/G_DALISHITV-1/G_DALISHITV-1.m3u8
-#EXTINF:-1,宾川1套
-http://39.130.202.114:6610/gitv_live/G_BINCHUANTV-1/G_BINCHUANTV-1.m3u8
-#EXTINF:-1,宾川2套
-http://39.130.202.114:6610/gitv_live/G_BINCHUANTV-2/G_BINCHUANTV-2.m3u8
-#EXTINF:-1,弥渡电视台
-http://39.130.202.114:6610/gitv_live/G_MIDUTV-1/G_MIDUTV-1.m3u8
-#EXTINF:-1,洱源电视台
-http://39.130.202.114:6610/gitv_live/G_ERYUAN/G_ERYUAN.m3u8
-#EXTINF:-1,巍山电视台
-http://39.130.202.114:6610/gitv_live/G_WEISHAN/G_WEISHAN.m3u8
-#EXTINF:-1,漾濞县电视台
-http://39.130.202.114:6610/gitv_live/G_YANGBI/G_YANGBI.m3u8
-#EXTINF:-1,云龙县电视台
-http://39.130.202.114:6610/gitv_live/G_YUNLONGTV-1/G_YUNLONGTV-1.m3u8
-#EXTINF:-1,永胜县台
-http://39.130.202.114:6610/gitv_live/G_YONGSHENG/G_YONGSHENG.m3u8
-#EXTINF:-1,鹤庆县台
-http://39.130.202.114:6610/gitv_live/G_HEQING/G_HEQING.m3u8
-#EXTINF:-1,德宏州一套
-http://39.130.202.114:6610/gitv_live/G_DEHONG-1/G_DEHONG-1.m3u8
-#EXTINF:-1,德宏州二套
-http://39.130.202.114:6610/gitv_live/G_DEHONG-2/G_DEHONG-2.m3u8
-#EXTINF:-1,芒市电视台
-http://39.130.202.114:6610/gitv_live/G_DEHONGMS/G_DEHONGMS.m3u8
-#EXTINF:-1,德宏盈江台
-http://39.130.202.114:6610/gitv_live/G_DEHONGYJ/G_DEHONGYJ.m3u8
-#EXTINF:-1,德宏陇川台
-http://39.130.202.114:6610/gitv_live/G_DEHONGLC/G_DEHONGLC.m3u8
-#EXTINF:-1,保山1套
-http://39.130.202.114:6610/gitv_live/G_BAOSHANTV-1/G_BAOSHANTV-1.m3u8
-#EXTINF:-1,保山2套
-http://39.130.202.114:6610/gitv_live/G_BAOSHANTV-2/G_BAOSHANTV-2.m3u8
-#EXTINF:-1,保山3套
-http://39.130.202.114:6610/gitv_live/G_BAOSHANTV-3/G_BAOSHANTV-3.m3u8
-#EXTINF:-1,保山隆阳区台
-http://39.130.202.114:6610/gitv_live/G_LONGYANG/G_LONGYANG.m3u8
-#EXTINF:-1,施甸县台
-http://39.130.202.114:6610/gitv_live/G_SHIDIAN/G_SHIDIAN.m3u8
-#EXTINF:-1,龙陵县台
-http://39.130.202.114:6610/gitv_live/G_LONGLING/G_LONGLING.m3u8
-#EXTINF:-1,昌宁县台
-http://39.130.202.114:6610/gitv_live/G_CHANGNING/G_CHANGNING.m3u8
-#EXTINF:-1,腾冲电视台
-http://39.130.202.114:6610/gitv_live/G_TENGCHONG/G_TENGCHONG.m3u8
-#EXTINF:-1,标清西双版纳-1
-http://39.130.202.114:6610/gitv_live/G_XSBNTV-1/G_XSBNTV-1.m3u8
-#EXTINF:-1,标清西双版纳-2
-http://39.130.202.114:6610/gitv_live/G_XSBNTV-2/G_XSBNTV-2.m3u8
-#EXTINF:-1,勐海电视台
-http://39.130.202.114:6610/gitv_live/G_MENGHAI/G_MENGHAI.m3u8
-#EXTINF:-1,超清红河-1
-http://39.130.202.114:6610/gitv_live/G_HONGHETV-1/G_HONGHETV-1.m3u8
-#EXTINF:-1,超清红河-2
-http://39.130.202.114:6610/gitv_live/G_HONGHETV-2/G_HONGHETV-2.m3u8
-#EXTINF:-1,标清红河-3
-http://39.130.202.114:6610/gitv_live/G_HONGHETV-3/G_HONGHETV-3.m3u8
-#EXTINF:-1,标清红河-4
-http://39.130.202.114:6610/gitv_live/G_HONGHETV-4/G_HONGHETV-4.m3u8
-#EXTINF:-1,红河县电视台
-http://39.130.202.114:6610/gitv_live/G_HONGHEXIAN/G_HONGHEXIAN.m3u8
-#EXTINF:-1,弥勒电视台
-http://39.130.202.114:6610/gitv_live/G_MILE/G_MILE.m3u8
-#EXTINF:-1,建水县电视台
-http://39.130.202.114:6610/gitv_live/G_JIANSHUI/G_JIANSHUI.m3u8
-#EXTINF:-1,石屏县电视台
-http://39.130.202.114:6610/gitv_live/G_SHIPING/G_SHIPING.m3u8
-#EXTINF:-1,开远县电视台
-http://39.130.202.114:6610/gitv_live/G_KAIYUAN/G_KAIYUAN.m3u8
-#EXTINF:-1,个旧市电视台
-http://39.130.202.114:6610/gitv_live/G_GEJIU/G_GEJIU.m3u8
-#EXTINF:-1,河口县电视台
-http://39.130.202.114:6610/gitv_live/G_HEKOU/G_HEKOU.m3u8
-#EXTINF:-1,绿春县电视台
-http://39.130.202.114:6610/gitv_live/G_LVCHUN/G_LVCHUN.m3u8
-#EXTINF:-1,沪西县电视台
-http://39.130.202.114:6610/gitv_live/G_LUXI/G_LUXI.m3u8
-#EXTINF:-1,蒙自电视台-蓝光
-http://39.130.202.114:6610/gitv_live/G_MENGZI/G_MENGZI.m3u8
-#EXTINF:-1,元阳县电视台
-http://39.130.202.114:6610/gitv_live/G_YUANYANG/G_YUANYANG.m3u8
-#EXTINF:-1,屏边县电视台
-http://39.130.202.114:6610/gitv_live/G_PINGBIAN/G_PINGBIAN.m3u8
-#EXTINF:-1,金平电视台
-http://39.130.202.114:6610/gitv_live/G_JINPING/G_JINPING.m3u8
-#EXTINF:-1,富宁电视台
-http://39.130.202.114:6610/gitv_live/G_FUNING/G_FUNING.m3u8
-#EXTINF:-1,迪庆新闻
-http://39.130.202.114:6610/gitv_live/G_DIQING-1/G_DIQING-1.m3u8
-#EXTINF:-1,迪庆藏语
-http://39.130.202.114:6610/gitv_live/G_DIQINGZY/G_DIQINGZY.m3u8
-#EXTINF:-1,香格里拉
-http://39.130.202.114:6610/gitv_live/G_DIQINGXGLL/G_DIQINGXGLL.m3u8
-#EXTINF:-1,德钦电视台
-http://39.130.202.114:6610/gitv_live/G_DIQINGDQ/G_DIQINGDQ.m3u8
-#EXTINF:-1,维西电视台
-http://39.130.202.114:6610/gitv_live/G_DIQINGWX/G_DIQINGWX.m3u8
-#EXTINF:-1,云南都市
-http://39.130.202.114:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
-#EXTINF:-1,云南少儿
-http://39.130.202.114:6610/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
-#EXTINF:-1,保山一套
-http://39.130.202.114:6610/gitv_live/G_BAOSHANXW/G_BAOSHANXW.m3u8
-#EXTINF:-1,保山二套
-http://39.130.202.114:6610/gitv_live/G_BAOSHANGG/G_BAOSHANGG.m3u8
-#EXTINF:-1,保山三套
-http://39.130.202.114:6610/gitv_live/G_BAOSHANKJ/G_BAOSHANKJ.m3u8
-#EXTINF:-1,UMAX
-http://1.228.225.113:9981/stream/channelid/80180037
-#EXTINF:-1,UHD DreamTV
-http://1.228.225.113:9981/stream/channelid/1441277972
-#EXTINF:-1,UXN
-http://1.228.225.113:9981/stream/channelid/648879703
-#EXTINF:-1,Asia
-http://1.228.225.113:9981/stream/channelid/1844497848
+#EXTINF:-1,TBC 대구방송
+http://221.164.220.149:9981/stream/channelid/299694566
+#EXTINF:-1,KBS2
+http://221.164.220.149:9981/stream/channelid/894987743
+#EXTINF:-1,KBS1
+http://221.164.220.149:9981/stream/channelid/636335743
+#EXTINF:-1,포항 MBC
+http://221.164.220.149:9981/stream/channelid/1041818234
+#EXTINF:-1,EBS
+http://221.164.220.149:9981/stream/channelid/1083546416
+#EXTINF:-1,Sky UHD
+http://221.164.220.149:9981/stream/channelid/1635103151
 #EXTINF:-1,AOD HD
 http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1,Arena
@@ -1875,21 +1711,305 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8  
 #EXTINF:-1 ,MTV Biggest Pop  
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 ,南国都市 4K
-https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
-#EXTINF:-1 ,欢笑剧场 4K
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
-#EXTINF:-1 ,芒果TV 4K
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-#EXTINF:-1 ,爱上4K
-http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 ,BesTV 4K
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,4K超清-北京IPTV
-http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 ,4K花园生活
-http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
-#EXTINF:-1 ,4K花园娱乐
-http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
-#EXTINF:-1 ,4K花园影视
-http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8 
+#EXTINF:-1,EBS 1
+http://132.145.83.248:9981/stream/channelid/751919519
+#EXTINF:-1,EBS 2
+http://132.145.83.248:9981/stream/channelid/214863106
+#EXTINF:-1,KBS 1TV
+http://132.145.83.248:9981/stream/channelid/1394676468
+#EXTINF:-1,KBS 2TV
+http://132.145.83.248:9981/stream/channelid/1363838963
+#EXTINF:-1,MBC
+http://132.145.83.248:9981/stream/channelid/1785183039
+#EXTINF:-1,OBS
+http://132.145.83.248:9981/stream/channelid/758168728
+#EXTINF:-1,SBS
+http://132.145.83.248:9981/stream/channelid/1529671146
+#EXTINF:-1,MBN
+http://132.145.83.248:9981/stream/channelid/856105405
+#EXTINF:-1,TV CHOSUN
+http://132.145.83.248:9981/stream/channelid/463350680
+#EXTINF:-1,채널A
+http://132.145.83.248:9981/stream/channelid/508055962
+#EXTINF:-1,채널W
+http://132.145.83.248:9981/stream/channelid/322428695
+#EXTINF:-1,K스타
+http://132.145.83.248:9981/stream/channelid/1942160135
+#EXTINF:-1,KBS JOY
+http://132.145.83.248:9981/stream/channelid/430890675
+#EXTINF:-1,MBC Every1
+http://132.145.83.248:9981/stream/channelid/1650632038
+#EXTINF:-1,MBN 플러스
+http://132.145.83.248:9981/stream/channelid/155124299
+#EXTINF:-1,SBS funE
+http://132.145.83.248:9981/stream/channelid/1899679528
+#EXTINF:-1,STATV
+http://132.145.83.248:9981/stream/channelid/761651574
+#EXTINF:-1,채널A 플러스
+http://132.145.83.248:9981/stream/channelid/1542252422
+#EXTINF:-1,AsiaN https://iptv.live
+http://132.145.83.248:9981/stream/channelid/1238439483
+#EXTINF:-1,EDGETV
+http://132.145.83.248:9981/stream/channelid/1853094181
+#EXTINF:-1,KBS DRAMA
+http://132.145.83.248:9981/stream/channelid/1789615403
+#EXTINF:-1,MBC ON
+http://132.145.83.248:9981/stream/channelid/934829013
+#EXTINF:-1,MBC Drama
+http://132.145.83.248:9981/stream/channelid/1302459707
+#EXTINF:-1,SBS Plus
+http://132.145.83.248:9981/stream/channelid/175192182
+#EXTINF:-1,채널차이나
+http://132.145.83.248:9981/stream/channelid/130895748
+#EXTINF:-1,텔레노벨라
+http://132.145.83.248:9981/stream/channelid/696927928
+#EXTINF:-1,AsiaM
+http://132.145.83.248:9981/stream/channelid/1273377260
+#EXTINF:-1,THE MOVIE
+http://132.145.83.248:9981/stream/channelid/1748697789
+#EXTINF:-1,인디필름
+http://132.145.83.248:9981/stream/channelid/2007935811
+#EXTINF:-1,MBC스포츠플러스
+http://132.145.83.248:9981/stream/channelid/1679792829
+#EXTINF:-1,SBS Golf
+http://132.145.83.248:9981/stream/channelid/606734012
+#EXTINF:-1,스포티비
+http://132.145.83.248:9981/stream/channelid/1070915760
+#EXTINF:-1,스포티비 골프 앤 헬스
+http://132.145.83.248:9981/stream/channelid/365299443
+#EXTINF:-1,SPOTV2
+http://132.145.83.248:9981/stream/channelid/852151344
+#EXTINF:-1,GMTV
+http://132.145.83.248:9981/stream/channelid/376384910
+#EXTINF:-1,MBC M
+http://132.145.83.248:9981/stream/channelid/1089240341
+#EXTINF:-1,SBS MTV
+http://132.145.83.248:9981/stream/channelid/1851433358
+#EXTINF:-1,가요TV
+http://132.145.83.248:9981/stream/channelid/1097510337
+#EXTINF:-1,OBS W
+http://132.145.83.248:9981/stream/channelid/151615554
+#EXTINF:-1,WeLike
+http://132.145.83.248:9981/stream/channelid/68824599
+#EXTINF:-1,YTN
+http://132.145.83.248:9981/stream/channelid/1164432760
+#EXTINF:-1,매일경제TV
+http://132.145.83.248:9981/stream/channelid/360803496
+#EXTINF:-1,연합뉴스TV
+http://132.145.83.248:9981/stream/channelid/1448312991
+#EXTINF:-1,토마토TV
+http://132.145.83.248:9981/stream/channelid/337849991
+#EXTINF:-1,한국경제TV
+http://132.145.83.248:9981/stream/channelid/835561320
+#EXTINF:-1,FUNTV
+http://132.145.83.248:9981/stream/channelid/1557389767
+#EXTINF:-1,KBSN Life
+http://132.145.83.248:9981/stream/channelid/1115123413
+#EXTINF:-1,채널J
+http://132.145.83.248:9981/stream/channelid/1401999952
+#EXTINF:-1,HISTORY
+http://132.145.83.248:9981/stream/channelid/163145683
+#EXTINF:-1,빌리어즈TV
+http://132.145.83.248:9981/stream/channelid/1589667138
+#EXTINF:-1,피싱TV
+http://132.145.83.248:9981/stream/channelid/1441346190
+#EXTINF:-1,FTV
+http://132.145.83.248:9981/stream/channelid/1695774219
+#EXTINF:-1,바둑TV
+http://132.145.83.248:9981/stream/channelid/2102215770
+#EXTINF:-1,브레인TV
+http://132.145.83.248:9981/stream/channelid/482309679
+#EXTINF:-1,폴라리스TV https://iptv.live
+http://132.145.83.248:9981/stream/channelid/1694254802
+#EXTINF:-1,ANIBOX
+http://132.145.83.248:9981/stream/channelid/381409764
+#EXTINF:-1,ANIONE
+http://132.145.83.248:9981/stream/channelid/1918343714
+#EXTINF:-1,Disney
+http://132.145.83.248:9981/stream/channelid/562037397
+#EXTINF:-1,ANIMAX
+http://132.145.83.248:9981/stream/channelid/343601055
+#EXTINF:-1,애니플러스
+http://132.145.83.248:9981/stream/channelid/134343148
+#EXTINF:-1,EBS 키즈
+http://132.145.83.248:9981/stream/channelid/2036337171
+#EXTINF:-1,대교어린이TV
+http://132.145.83.248:9981/stream/channelid/1194412474
+#EXTINF:-1,Disney Junior
+http://132.145.83.248:9981/stream/channelid/1855493920
+#EXTINF:-1,브라보키즈
+http://132.145.83.248:9981/stream/channelid/1837355294
+#EXTINF:-1,EBSEnglish
+http://132.145.83.248:9981/stream/channelid/1566486271
+#EXTINF:-1,EBS+1
+http://132.145.83.248:9981/stream/channelid/1738985439
+#EXTINF:-1,EBS+2
+http://132.145.83.248:9981/stream/channelid/723826219
+#EXTINF:-1,JEI EnglishTV
+http://132.145.83.248:9981/stream/channelid/979090176
+#EXTINF:-1,플레이런TV
+http://132.145.83.248:9981/stream/channelid/1837222419
+#EXTINF:-1,KBS W
+http://132.145.83.248:9981/stream/channelid/1875551
+#EXTINF:-1,동아TV
+http://132.145.83.248:9981/stream/channelid/1752893239
+#EXTINF:-1,LIFETIME
+http://132.145.83.248:9981/stream/channelid/292461337
+#EXTINF:-1,BTN불교TV
+http://132.145.83.248:9981/stream/channelid/2006173421
+#EXTINF:-1,CTS기독교TV
+http://132.145.83.248:9981/stream/channelid/488527834
+#EXTINF:-1,가톨릭평화방송
+http://132.145.83.248:9981/stream/channelid/1245878936
+#EXTINF:-1,CJ오쇼핑
+http://132.145.83.248:9981/stream/channelid/91830480
+#EXTINF:-1,GS SHOP
+http://132.145.83.248:9981/stream/channelid/1897789996
+#EXTINF:-1,GS MY SHOP
+http://132.145.83.248:9981/stream/channelid/682082477
+#EXTINF:-1,NS SHOP+
+http://132.145.83.248:9981/stream/channelid/1390082086
+#EXTINF:-1,NS홈쇼핑
+http://132.145.83.248:9981/stream/channelid/13119767
+#EXTINF:-1,W 쇼핑
+http://132.145.83.248:9981/stream/channelid/1931536009
+#EXTINF:-1,롯데홈쇼핑
+http://132.145.83.248:9981/stream/channelid/1175992773
+#EXTINF:-1,쇼핑엔티
+http://132.145.83.248:9981/stream/channelid/1776345590
+#EXTINF:-1,신세계TV쇼핑
+http://132.145.83.248:9981/stream/channelid/2112068189
+#EXTINF:-1,현대홈쇼핑
+http://132.145.83.248:9981/stream/channelid/1051629702
+#EXTINF:-1,현대홈쇼핑+샵
+http://132.145.83.248:9981/stream/channelid/1306678867
+#EXTINF:-1,홈앤쇼핑
+http://132.145.83.248:9981/stream/channelid/297248539
+#EXTINF:-1,CCTV4
+http://132.145.83.248:9981/stream/channelid/1582706466
+#EXTINF:-1,CGTN
+http://132.145.83.248:9981/stream/channelid/1520602695
+#EXTINF:-1,CNBC
+http://132.145.83.248:9981/stream/channelid/211568827
+#EXTINF:-1,CNN International
+http://132.145.83.248:9981/stream/channelid/208875033
+#EXTINF:-1,EBS FM
+http://132.145.83.248:9981/stream/channelid/1438935687
+#EXTINF:-1,KBS1RADIO
+http://132.145.83.248:9981/stream/channelid/160561725
+#EXTINF:-1,KBSCOOLFM
+http://132.145.83.248:9981/stream/channelid/1240416767
+#EXTINF:-1,MBC FM4U
+http://132.145.83.248:9981/stream/channelid/1103687269
+#EXTINF:-1,MBC 표준 FM
+http://132.145.83.248:9981/stream/channelid/374134904
+#EXTINF:-1,SBS 러브FM
+http://132.145.83.248:9981/stream/channelid/536870461
+#EXTINF:-1,SBS Biz
+http://132.145.83.248:9981/stream/channelid/973489636
+#EXTINF:-1,롯데홈쇼핑 ONETV
+http://132.145.83.248:9981/stream/channelid/380578688
+#EXTINF:-1,K SHOPPING
+http://132.145.83.248:9981/stream/channelid/496576557
+#EXTINF:-1,KBS 1박 2일
+http://132.145.83.248:9981/stream/channelid/1898639351
+#EXTINF:-1,연애의 참견
+http://132.145.83.248:9981/stream/channelid/1403465710
+#EXTINF:-1,MBC 무한도전
+http://132.145.83.248:9981/stream/channelid/285743343
+#EXTINF:-1,MBC 나 혼자 산다
+http://132.145.83.248:9981/stream/channelid/1963607789
+#EXTINF:-1,MBC 라디오스타
+http://132.145.83.248:9981/stream/channelid/716706021
+#EXTINF:-1,MBC 서프라이즈
+http://132.145.83.248:9981/stream/channelid/1733790437
+#EXTINF:-1,ALL THE K-POP
+http://132.145.83.248:9981/stream/channelid/259036339
+#EXTINF:-1,MBC 하이킥24 LIVE
+http://132.145.83.248:9981/stream/channelid/410405877
+#EXTINF:-1,MBC 드라마정주행24 LIVE
+http://132.145.83.248:9981/stream/channelid/207901400
+#EXTINF:-1,MBC 예능정주행24 LIVE
+http://132.145.83.248:9981/stream/channelid/1532345245
+#EXTINF:-1,SBS Fil
+http://132.145.83.248:9981/stream/channelid/451976121
+#EXTINF:-1,TV동물농장
+http://132.145.83.248:9981/stream/channelid/1809395180
+#EXTINF:-1,런닝맨
+http://132.145.83.248:9981/stream/channelid/339826366
+#EXTINF:-1,레전드 시트콤
+http://132.145.83.248:9981/stream/channelid/652963369
+#EXTINF:-1,미우새
+http://132.145.83.248:9981/stream/channelid/2114112625
+#EXTINF:-1,순옥 명작관
+http://132.145.83.248:9981/stream/channelid/1980766747
+#EXTINF:-1,스브스 갓드
+http://132.145.83.248:9981/stream/channelid/2101546138
+#EXTINF:-1,일요일이 좋다
+http://132.145.83.248:9981/stream/channelid/1280273765
+#EXTINF:-1,K팝스타
+http://132.145.83.248:9981/stream/channelid/1867510104
+#EXTINF:-1,PLAYY 프리미엄 영화
+http://132.145.83.248:9981/stream/channelid/1518045919
+#EXTINF:-1,PLAYY 웰메이드 영화
+http://132.145.83.248:9981/stream/channelid/1125166712
+#EXTINF:-1,PLAYY 액션영화
+http://132.145.83.248:9981/stream/channelid/650478518
+#EXTINF:-1,시네마천국
+http://132.145.83.248:9981/stream/channelid/1192576340
+#EXTINF:-1,SBS Nick
+http://132.145.83.248:9981/stream/channelid/1315259521
+#EXTINF:-1,TBS FM LIVE
+http://132.145.83.248:9981/stream/channelid/1455840390
+#EXTINF:-1,YTN 라디오
+http://132.145.83.248:9981/stream/channelid/544304001
+#EXTINF:-1,KISS - 최신인기가요
+http://132.145.83.248:9981/stream/channelid/1602144688
+#EXTINF:-1,KISS - 당신을 위한 발라드
+http://132.145.83.248:9981/stream/channelid/1963417820
+#EXTINF:-1,KISS - 8090인기가요
+http://132.145.83.248:9981/stream/channelid/1506418886
+#EXTINF:-1,KISS - K-POP 아이돌
+http://132.145.83.248:9981/stream/channelid/2069437702
+#EXTINF:-1,KISS - 2000년대 인기가요
+http://132.145.83.248:9981/stream/channelid/1313894408
+#EXTINF:-1,KISS - 재즈 라운지
+http://132.145.83.248:9981/stream/channelid/808747598
+#EXTINF:-1,KISS - Dog & Mom
+http://132.145.83.248:9981/stream/channelid/1628073160
+#EXTINF:-1,KISS - 한국인이 사랑한 팝송
+http://132.145.83.248:9981/stream/channelid/927864040
+#EXTINF:-1,KISS - 키스 더 트롯
+http://132.145.83.248:9981/stream/channelid/1796197140
+#EXTINF:-1,더라이프
+http://132.145.83.248:9981/stream/channelid/1010903960
+#EXTINF:-1,프로야구1
+http://132.145.83.248:9981/stream/channelid/1577930654
+#EXTINF:-1,프로야구2
+http://132.145.83.248:9981/stream/channelid/479241147
+#EXTINF:-1,프로야구3
+http://132.145.83.248:9981/stream/channelid/108727162
+#EXTINF:-1,프로야구4
+http://132.145.83.248:9981/stream/channelid/1783577158
+#EXTINF:-1,프로야구5
+http://132.145.83.248:9981/stream/channelid/1323078720
+#EXTINF:-1,PLAYY프리미엄
+http://132.145.83.248:9981/stream/channelid/21168355
+#EXTINF:-1,PLAYY웰메이드
+http://132.145.83.248:9981/stream/channelid/1979159012
+#EXTINF:-1,EBS러닝 초등3
+http://132.145.83.248:9981/stream/channelid/287971222
+#EXTINF:-1,EBS러닝 초등4
+http://132.145.83.248:9981/stream/channelid/15885579
+#EXTINF:-1,EBS러닝 초등5
+http://132.145.83.248:9981/stream/channelid/596788504
+#EXTINF:-1,EBS러닝 초등6
+http://132.145.83.248:9981/stream/channelid/1689504477
+#EXTINF:-1,EBS러닝 중학1
+http://132.145.83.248:9981/stream/channelid/1911524998
+#EXTINF:-1,EBS러닝 중학2
+http://132.145.83.248:9981/stream/channelid/1135671778
+#EXTINF:-1,연합뉴스TV
+http://132.145.83.248:9981/stream/channelid/2079005079
+#EXTINF:-1,TBS
+http://132.145.83.248:9981/stream/channelid/582084395
