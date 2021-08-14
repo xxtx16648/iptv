@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:-1,TVB NEWS
 http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1,TVB INFO
-http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1,NOW SPORT
-http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1,ATV
-http://livetv.dnsfor.me:80/channel.14.m3u8
-#EXTINF:-1,HKS
-http://livetv.dnsfor.me:80/channel.15.m3u8
-#EXTINF:-1,TVB
-http://livetv.dnsfor.me:80/channel.18.m3u8
-#EXTINF:-1,J2
-http://livetv.dnsfor.me:80/channel.19.m3u8
-#EXTINF:-1,VIU TV
-http://livetv.dnsfor.me:80/channel.20.m3u8
 #EXTINF:-1, 翡翠台
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1, 明珠台
@@ -29,6 +15,26 @@ http://61.238.6.49:8001/bysid/85
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1, ViuTV6
 http://61.238.6.49:8000/bysid/96
+#EXTINF:-1,TVB翡翠台
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1,TVB J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+#EXTINF:-1,TVB 新闻
+http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+#EXTINF:-1,明珠台
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+#EXTINF:-1,财经资讯台
+http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+#EXTINF:-1,港台31
+http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+#EXTINF:-1,港台32
+http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+#EXTINF:-1,港台33
+http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+#EXTINF:-1,ViuTV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+#EXTINF:-1,ViuTVsix
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 #EXTINF:-1,jade hd
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1,jade 2 hd
@@ -63,8 +69,6 @@ http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1,八度空间
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1,天映频道
-http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1,AEC
 http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 #EXTINF:-1,华丽台
@@ -81,12 +85,6 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1,小太阳
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1,香港開電視
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:0,RTHK31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,RTHK32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Hello
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1,KiX HD
@@ -105,6 +103,12 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1,NatGeo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:0,RTHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ATV
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
 #EXTINF:-1,FASHION MIDNITE
@@ -181,44 +185,24 @@ http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212307
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230373/index.m3u8
 #EXTINF:-1,爱上4K
 http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 ,南国都市 4K
+#EXTINF:-1,南国都市 4K
 https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
-#EXTINF:-1 ,欢笑剧场 4K
+#EXTINF:-1,欢笑剧场 4K
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
-#EXTINF:-1 ,芒果TV 4K
+#EXTINF:-1,芒果TV 4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-#EXTINF:-1 ,爱上4K
+#EXTINF:-1,爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 ,BesTV 4K
+#EXTINF:-1,BesTV 4K
 http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 ,4K超清-北京IPTV
+#EXTINF:-1,4K超清-北京IPTV
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 ,4K花园生活
+#EXTINF:-1,4K花园生活
 http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
-#EXTINF:-1 ,4K花园娱乐
+#EXTINF:-1,4K花园娱乐
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
-#EXTINF:-1 ,4K花园影视
+#EXTINF:-1,4K花园影视
 http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8 
-#EXTINF:-1,TVB翡翠台
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1,TVB J2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1,TVB 新闻
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1,明珠台
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1,财经资讯台
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-#EXTINF:-1,港台31
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1,港台32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1,港台33
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-#EXTINF:-1,ViuTV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1,ViuTVsix
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 #EXTINF:-1,SBS
 http://121.130.210.101:9981/stream/channelid/452261212
 #EXTINF:-1,KBS2
@@ -1031,43 +1015,41 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1,Fox HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1,有線財經資訊台 HD
-http://livetv.dnsfor.me:80/channel.6.m3u8
-#EXTINF:-1,有線新聞台 HD
-http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1,有線綜合娛樂台 HD
-http://livetv.dnsfor.me:80/channel.7.m3u8
-#EXTINF:-1,now直播台
-http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1,now新聞台
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1,TVB 翡翠台
-http://livetv.dnsfor.me:80/channel.18.m3u8
-#EXTINF:-1,J2
-http://livetv.dnsfor.me:80/channel.19.m3u8
-#EXTINF:-1,無綫新聞台
-http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1,無綫財經資訊台
-http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1,HongKong开电视
-http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1,RHK31
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1,RTHK32
 http://livetv.dnsfor.me:80/channel.2.m3u8
+#EXTINF:-1,now直播台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1,now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1,有線財經資訊台 HD
+http://livetv.dnsfor.me:80/channel.6.m3u8
+#EXTINF:-1,有線綜合娛樂台 HD
+http://livetv.dnsfor.me:80/channel.7.m3u8
+#EXTINF:-1,HongKong开电视
+http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:-1,無綫新聞台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1,無綫財經資訊台
+http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1,NOW SPORT
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1,ATV
 http://livetv.dnsfor.me:80/channel.14.m3u8
 #EXTINF:-1,HKS
 http://livetv.dnsfor.me:80/channel.15.m3u8
-#EXTINF:-1,VIU TV
-http://livetv.dnsfor.me:80/channel.20.m3u8
 #EXTINF:-1,CCTV 5
 http://livetv.dnsfor.me:80/channel.17.m3u8
+#EXTINF:-1,TVB
+http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:-1,J2
+http://livetv.dnsfor.me:80/channel.19.m3u8
+#EXTINF:-1,VIU TV
+http://livetv.dnsfor.me:80/channel.20.m3u8
 #EXTINF:-1,UNIVERSE TV
 http://livetv.dnsfor.me:80/channel.23.m3u8
-#EXTINF:-1,亚旅卫视 https://iptv.live
+#EXTINF:-1,亚旅卫视
 http://livetv.dnsfor.me:80/channel.24.m3u8
 #EXTINF:-1,D100 PBS台
 http://livetv.dnsfor.me/channel.109.m3u8
