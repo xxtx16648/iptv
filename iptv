@@ -35,26 +35,6 @@ http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1,ViuTVsix
 http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-#EXTINF:-1,jade hd
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1,jade 2 hd
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1,pearl hd
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1,e news hd
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1,f news hd
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-#EXTINF:-1,rhk31 hd
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1,rhk32 hd
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1,rhk33 hd
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-#EXTINF:-1,viu tv hd
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1,viu 6 hd
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 #EXTINF:-1,open hd
 http://185.207.176.189:8080/channels/tv-77/playlist.m3u8
 #EXTINF:-1,HKIB hd
@@ -247,6 +227,112 @@ http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u
 http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
 #EXTINF:-1,CCTV-17农业农村
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
+#EXTINF:-1,CCTV-1超清
+http://39.130.202.114:6610/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
+#EXTINF:-1,CCTV-1 HD
+http://39.130.202.114:6610/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
+#EXTINF:-1,CCTV-1
+http://39.130.202.114:6610/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
+#EXTINF:-1,CCTV-2 HD
+http://39.130.202.114:6610/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
+#EXTINF:-1,CCTV-2
+http://39.130.202.114:6610/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
+#EXTINF:-1,CCTV-3
+http://39.130.202.114:6610/gitv_live/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1,CCTV-4 HD
+http://39.130.202.114:6610/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
+#EXTINF:-1,CCTV-4
+http://39.130.202.114:6610/gitv_live/CCTV-4/CCTV-4.m3u8
+#EXTINF:-1,CCTV-5
+http://39.130.202.114:6610/gitv_live/CCTV-5/CCTV-5.m3u8
+#EXTINF:-1,CCTV-5+HD
+http://39.130.202.114:6610/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+#EXTINF:-1,CCTV-6
+http://39.130.202.114:6610/gitv_live/CCTV-6/CCTV-6.m3u8
+#EXTINF:-1,CCTV-7 HD
+http://39.130.202.114:6610/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
+#EXTINF:-1,CCTV-7
+http://39.130.202.114:6610/gitv_live/CCTV-7/CCTV-7.m3u8
+#EXTINF:-1,CCTV-8
+http://39.130.202.114:6610/gitv_live/G_CCTV-8/G_CCTV-8.m3u8
+#EXTINF:-1,CCTV-9 HD
+http://39.130.202.114:6610/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
+#EXTINF:-1,CCTV-10 HD
+http://39.130.202.114:6610/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
+#EXTINF:-1,CCTV-10
+http://39.130.202.114:6610/gitv_live/CCTV-10/CCTV-10.m3u8
+#EXTINF:-1,CCTV-11
+http://39.130.202.114:6610/gitv_live/CCTV-11/CCTV-11.m3u8
+#EXTINF:-1,CCTV-12 HD https://iptv.live
+http://39.130.202.114:6610/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
+#EXTINF:-1,CCTV-12
+http://39.130.202.114:6610/gitv_live/CCTV-12/CCTV-12.m3u8
+#EXTINF:-1,CCTV-13
+http://39.130.202.114:6610/gitv_live/CCTV-13/CCTV-13.m3u8
+#EXTINF:-1,CCTV-14 HD
+http://39.130.202.114:6610/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
+#EXTINF:-1,CCTV-14
+http://39.130.202.114:6610/gitv_live/G_CCTV-14/G_CCTV-14.m3u8
+#EXTINF:-1,CCTV-15
+http://39.130.202.114:6610/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
+#EXTINF:-1,CCTV-17 HD
+http://39.130.202.114:6610/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+#EXTINF:-1,CCTV-17
+http://39.130.202.114:6610/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
+#EXTINF:-1,湖南卫视HD
+http://39.130.202.114:6610/gitv_live/HNWS-HD/HNWS-HD.m3u8
+#EXTINF:-1,浙江卫视HD
+http://39.130.202.114:6610/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
+#EXTINF:-1,江苏卫视HD
+http://39.130.202.114:6610/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
+#EXTINF:-1,东方卫视HD
+http://39.130.202.114:6610/gitv_live/DFWS-HD/DFWS-HD.m3u8
+#EXTINF:-1,北京卫视HD
+http://39.130.202.114:6610/gitv_live/BTV-1/BTV-1.m3u8
+#EXTINF:-1,天津卫视HD
+http://39.130.202.114:6610/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
+#EXTINF:-1,安徽卫视HD
+http://39.130.202.114:6610/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
+#EXTINF:-1,山东卫视HD
+http://39.130.202.114:6610/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
+#EXTINF:-1,江西卫视HD
+http://39.130.202.114:6610/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
+#EXTINF:-1,广东卫视HD
+http://39.130.202.114:6610/gitv_live/GDWS-HD/GDWS-HD.m3u8
+#EXTINF:-1,深圳卫视HD
+http://39.130.202.114:6610/gitv_live/SZWS-HD/SZWS-HD.m3u8
+#EXTINF:-1,湖北卫视HD
+http://39.130.202.114:6610/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
+#EXTINF:-1,黑龙江卫视HD
+http://39.130.202.114:6610/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8
+#EXTINF:-1,辽宁卫视HD
+http://39.130.202.114:6610/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8
+#EXTINF:-1,东南卫视HD
+http://39.130.202.114:6610/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
+#EXTINF:-1,云南卫视HD
+http://39.130.202.114:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+#EXTINF:-1,四川卫视HD
+http://39.130.202.114:6610/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
+#EXTINF:-1,贵州卫视HD
+http://39.130.202.114:6610/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
+#EXTINF:-1,重庆卫视HD
+http://39.130.202.114:6610/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
+#EXTINF:-1,云南娱乐HD
+http://39.130.202.114:6610/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
+#EXTINF:-1,云南生活资讯HD
+http://39.130.202.114:6610/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
+#EXTINF:-1,云南影视HD
+http://39.130.202.114:6610/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
+#EXTINF:-1,云南公共HD
+http://39.130.202.114:6610/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
+#EXTINF:-1,金鹰纪实HD
+http://39.130.202.114:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+#EXTINF:-1,上海纪实HD
+http://39.130.202.114:6610/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
+#EXTINF:-1,北京纪实HD
+http://39.130.202.114:6610/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
+#EXTINF:-1,CETV-1 HD
+http://39.130.202.114:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 #EXTINF:-1,CCTV 1 HD
 http://111.12.101.23:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1,CCTV 1 HD
@@ -505,230 +591,8 @@ http://111.12.101.23:6610/PLTV/77777777/224/3221225756/index.m3u8?servicetype=1&
 http://111.12.101.23:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1,金鹰纪实
 http://111.12.101.23:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,CCTV-1超清
-http://39.130.202.114:6610/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
-#EXTINF:-1,CCTV-1 HD
-http://39.130.202.114:6610/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1,CCTV-1
-http://39.130.202.114:6610/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
-#EXTINF:-1,CCTV-2 HD
-http://39.130.202.114:6610/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
-#EXTINF:-1,CCTV-2
-http://39.130.202.114:6610/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
-#EXTINF:-1,CCTV-3
-http://39.130.202.114:6610/gitv_live/CCTV-3/CCTV-3.m3u8
-#EXTINF:-1,CCTV-4 HD
-http://39.130.202.114:6610/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
-#EXTINF:-1,CCTV-4
-http://39.130.202.114:6610/gitv_live/CCTV-4/CCTV-4.m3u8
-#EXTINF:-1,CCTV-5
-http://39.130.202.114:6610/gitv_live/CCTV-5/CCTV-5.m3u8
-#EXTINF:-1,CCTV-5+HD
-http://39.130.202.114:6610/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-#EXTINF:-1,CCTV-6
-http://39.130.202.114:6610/gitv_live/CCTV-6/CCTV-6.m3u8
-#EXTINF:-1,CCTV-7 HD
-http://39.130.202.114:6610/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
-#EXTINF:-1,CCTV-7
-http://39.130.202.114:6610/gitv_live/CCTV-7/CCTV-7.m3u8
-#EXTINF:-1,CCTV-8
-http://39.130.202.114:6610/gitv_live/G_CCTV-8/G_CCTV-8.m3u8
-#EXTINF:-1,CCTV-9 HD
-http://39.130.202.114:6610/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
-#EXTINF:-1,CCTV-10 HD
-http://39.130.202.114:6610/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
-#EXTINF:-1,CCTV-10
-http://39.130.202.114:6610/gitv_live/CCTV-10/CCTV-10.m3u8
-#EXTINF:-1,CCTV-11
-http://39.130.202.114:6610/gitv_live/CCTV-11/CCTV-11.m3u8
-#EXTINF:-1,CCTV-12 HD https://iptv.live
-http://39.130.202.114:6610/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
-#EXTINF:-1,CCTV-12
-http://39.130.202.114:6610/gitv_live/CCTV-12/CCTV-12.m3u8
-#EXTINF:-1,CCTV-13
-http://39.130.202.114:6610/gitv_live/CCTV-13/CCTV-13.m3u8
-#EXTINF:-1,CCTV-14 HD
-http://39.130.202.114:6610/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
-#EXTINF:-1,CCTV-14
-http://39.130.202.114:6610/gitv_live/G_CCTV-14/G_CCTV-14.m3u8
-#EXTINF:-1,CCTV-15
-http://39.130.202.114:6610/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
-#EXTINF:-1,CCTV-17 HD
-http://39.130.202.114:6610/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
-#EXTINF:-1,CCTV-17
-http://39.130.202.114:6610/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
-#EXTINF:-1,湖南卫视HD
-http://39.130.202.114:6610/gitv_live/HNWS-HD/HNWS-HD.m3u8
-#EXTINF:-1,浙江卫视HD
-http://39.130.202.114:6610/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
-#EXTINF:-1,江苏卫视HD
-http://39.130.202.114:6610/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
-#EXTINF:-1,东方卫视HD
-http://39.130.202.114:6610/gitv_live/DFWS-HD/DFWS-HD.m3u8
-#EXTINF:-1,北京卫视HD
-http://39.130.202.114:6610/gitv_live/BTV-1/BTV-1.m3u8
-#EXTINF:-1,天津卫视HD
-http://39.130.202.114:6610/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
-#EXTINF:-1,安徽卫视HD
-http://39.130.202.114:6610/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
-#EXTINF:-1,山东卫视HD
-http://39.130.202.114:6610/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
-#EXTINF:-1,江西卫视HD
-http://39.130.202.114:6610/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
-#EXTINF:-1,广东卫视HD
-http://39.130.202.114:6610/gitv_live/GDWS-HD/GDWS-HD.m3u8
-#EXTINF:-1,深圳卫视HD
-http://39.130.202.114:6610/gitv_live/SZWS-HD/SZWS-HD.m3u8
-#EXTINF:-1,湖北卫视HD
-http://39.130.202.114:6610/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
-#EXTINF:-1,黑龙江卫视HD
-http://39.130.202.114:6610/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8
-#EXTINF:-1,辽宁卫视HD
-http://39.130.202.114:6610/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8
-#EXTINF:-1,东南卫视HD
-http://39.130.202.114:6610/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
-#EXTINF:-1,云南卫视HD
-http://39.130.202.114:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-#EXTINF:-1,四川卫视HD
-http://39.130.202.114:6610/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
-#EXTINF:-1,贵州卫视HD
-http://39.130.202.114:6610/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
-#EXTINF:-1,重庆卫视HD
-http://39.130.202.114:6610/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
-#EXTINF:-1,云南娱乐HD
-http://39.130.202.114:6610/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
-#EXTINF:-1,云南生活资讯HD
-http://39.130.202.114:6610/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
-#EXTINF:-1,云南影视HD
-http://39.130.202.114:6610/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
-#EXTINF:-1,云南公共HD
-http://39.130.202.114:6610/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
-#EXTINF:-1,金鹰纪实HD
-http://39.130.202.114:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
-#EXTINF:-1,上海纪实HD
-http://39.130.202.114:6610/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
-#EXTINF:-1,北京纪实HD
-http://39.130.202.114:6610/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
-#EXTINF:-1,CETV-1 HD
-http://39.130.202.114:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 #EXTINF:-1,CGTN
 http://39.130.202.114:6610/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
-#EXTINF:-1,湖南卫视 https://iptv.live
-http://39.130.202.114:6610/gitv_live/G_HUNAN/G_HUNAN.m3u8
-#EXTINF:-1,江苏卫视
-http://39.130.202.114:6610/gitv_live/JSWS-HD/JSWS-HD.m3u8
-#EXTINF:-1,东方卫视
-http://39.130.202.114:6610/gitv_live/G_DONGFANG/G_DONGFANG.m3u8
-#EXTINF:-1,浙江卫视
-http://39.130.202.114:6610/gitv_live/G_ZHEJIANG/G_ZHEJIANG.m3u8
-#EXTINF:-1,北京卫视
-http://39.130.202.114:6610/gitv_live/G_BEIJING/G_BEIJING.m3u8
-#EXTINF:-1,广东卫视
-http://39.130.202.114:6610/gitv_live/G_GUANGDONG/G_GUANGDONG.m3u8
-#EXTINF:-1,黑龙江卫视
-http://39.130.202.114:6610/gitv_live/G_HEILONGJIANG/G_HEILONGJIANG.m3u8
-#EXTINF:-1,深圳卫视
-http://39.130.202.114:6610/gitv_live/G_SHENZHEN/G_SHENZHEN.m3u8
-#EXTINF:-1,安徽卫视
-http://39.130.202.114:6610/gitv_live/AHWS/AHWS.m3u8
-#EXTINF:-1,辽宁卫视
-http://39.130.202.114:6610/gitv_live/LNWS/LNWS.m3u8
-#EXTINF:-1,山东卫视
-http://39.130.202.114:6610/gitv_live/SDWS/SDWS.m3u8
-#EXTINF:-1,湖北卫视
-http://39.130.202.114:6610/gitv_live/G_HUBEI/G_HUBEI.m3u8
-#EXTINF:-1,广西卫视
-http://39.130.202.114:6610/gitv_live/GXWS/GXWS.m3u8
-#EXTINF:-1,海南卫视
-http://39.130.202.114:6610/gitv_live/LYWS/LYWS.m3u8
-#EXTINF:-1,重庆卫视
-http://39.130.202.114:6610/gitv_live/G_CHONGQING/G_CHONGQING.m3u8
-#EXTINF:-1,四川卫视
-http://39.130.202.114:6610/gitv_live/SCWS/SCWS.m3u8
-#EXTINF:-1,河南卫视
-http://39.130.202.114:6610/gitv_live/HENAN/HENAN.m3u8
-#EXTINF:-1,东南卫视
-http://39.130.202.114:6610/gitv_live/DNWS/DNWS.m3u8
-#EXTINF:-1,天津卫视
-http://39.130.202.114:6610/gitv_live/TJWS/TJWS.m3u8
-#EXTINF:-1,江西卫视
-http://39.130.202.114:6610/gitv_live/JXWS/JXWS.m3u8
-#EXTINF:-1,吉林卫视
-http://39.130.202.114:6610/gitv_live/G_JILIN/G_JILIN.m3u8
-#EXTINF:-1,山西卫视
-http://39.130.202.114:6610/gitv_live/SXWS/SXWS.m3u8
-#EXTINF:-1,贵州卫视
-http://39.130.202.114:6610/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8
-#EXTINF:-1,青海卫视
-http://39.130.202.114:6610/gitv_live/G_QINGHAI/G_QINGHAI.m3u8
-#EXTINF:-1,内蒙古卫视
-http://39.130.202.114:6610/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8
-#EXTINF:-1,云南卫视
-http://39.130.202.114:6610/gitv_live/G_YUNNAN/G_YUNNAN.m3u8
-#EXTINF:-1,河北卫视
-http://39.130.202.114:6610/gitv_live/G_HEBEI/G_HEBEI.m3u8
-#EXTINF:-1,宁夏卫视
-http://39.130.202.114:6610/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
-#EXTINF:-1,新疆卫视
-http://39.130.202.114:6610/gitv_live/G_XINJIANG/G_XINJIANG.m3u8
-#EXTINF:-1,甘肃卫视
-http://39.130.202.114:6610/gitv_live/G_GANSU/G_GANSU.m3u8
-#EXTINF:-1,西藏卫视
-http://39.130.202.114:6610/gitv_live/G_XIZANG/G_XIZANG.m3u8
-#EXTINF:-1,优漫卡通
-http://39.130.202.114:6610/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
-#EXTINF:-1,兵团卫视
-http://39.130.202.114:6610/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8
-#EXTINF:-1,陕西卫视
-http://39.130.202.114:6610/gitv_live/G_SHANXI/G_SHANXI.m3u8
-#EXTINF:-1,南方卫视
-http://39.130.202.114:6610/gitv_live/G_NANFANG/G_NANFANG.m3u8
-#EXTINF:-1,延边卫视
-http://39.130.202.114:6610/gitv_live/G_YANBIAN/G_YANBIAN.m3u8
-#EXTINF:-1,嘉佳卡通
-http://39.130.202.114:6610/gitv_live/G_JIAJIA/G_JIAJIA.m3u8
-#EXTINF:-1,山东教育电视台
-http://39.130.202.114:6610/gitv_live/G_SDETV/G_SDETV.m3u8
-#EXTINF:-1,卡酷少儿
-http://39.130.202.114:6610/gitv_live/G_KAKU/G_KAKU.m3u8
-#EXTINF:-1,金鹰卡通
-http://39.130.202.114:6610/gitv_live/G_JINYING/G_JINYING.m3u8
-#EXTINF:-1,炫动卡通
-http://39.130.202.114:6610/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
-#EXTINF:-1,CETV-1
-http://39.130.202.114:6610/gitv_live/G_CETV-1/G_CETV-1.m3u8
-#EXTINF:-1,农林卫视
-http://39.130.202.114:6610/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
-#EXTINF:-1,康巴卫视
-http://39.130.202.114:6610/gitv_live/G_KANGBA/G_KANGBA.m3u8
-#EXTINF:-1,云南都市
-http://39.130.202.114:6610/gitv_live/G_YNTV-2/G_YNTV-2.m3u8
-#EXTINF:-1,云南娱乐
-http://39.130.202.114:6610/gitv_live/G_YNTV-3/G_YNTV-3.m3u8
-#EXTINF:-1,云南生活资讯
-http://39.130.202.114:6610/gitv_live/G_YNTV-4/G_YNTV-4.m3u8
-#EXTINF:-1,云南影视
-http://39.130.202.114:6610/gitv_live/G_YNTV-5/G_YNTV-5.m3u8
-#EXTINF:-1,云南公共
-http://39.130.202.114:6610/gitv_live/G_YNTV-6/G_YNTV-6.m3u8
-#EXTINF:-1,云南少儿
-http://39.130.202.114:6610/gitv_live/G_YNTVSE/G_YNTVSE.m3u8
-#EXTINF:-1,云南国际
-http://39.130.202.114:6610/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8
-#EXTINF:-1,云南移动电视【七彩公交】
-http://39.130.202.114:6610/gitv_live/G_QICAIGONGJIAO/G_QICAIGONGJIAO.m3u8
-#EXTINF:-1,昆 明-1新闻综合
-http://39.130.202.114:6610/gitv_live/G_KMTV-1/G_KMTV-1.m3u8
-#EXTINF:-1,昆 明-2经济生活
-http://39.130.202.114:6610/gitv_live/G_KMTV-2/G_KMTV-2.m3u8
-#EXTINF:-1,昆 明-3科学教育
-http://39.130.202.114:6610/gitv_live/G_KMTV-3/G_KMTV-3.m3u8
-#EXTINF:-1,昆 明-4文体娱乐
-http://39.130.202.114:6610/gitv_live/G_KMTV-4/G_KMTV-4.m3u8
-#EXTINF:-1,昆 明-5影视综艺
-http://39.130.202.114:6610/gitv_live/G_KMTV-5/G_KMTV-5.m3u8
-#EXTINF:-1,昆 明-6公共
-http://39.130.202.114:6610/gitv_live/G_KMTV-6/G_KMTV-6.m3u8
 #EXTINF:-1,TBC 대구방송
 http://221.164.220.149:9981/stream/channelid/299694566
 #EXTINF:-1,KBS2
@@ -1069,396 +933,42 @@ http://livetv.dnsfor.me/channel.104.m3u8
 http://livetv.dnsfor.me/channel.105.m3u8
 #EXTINF:-1,香港電台 第一台
 http://livetv.dnsfor.me/channel.101.m3u8
-#EXTINF:-1,CCTV 1
-http://183.184.69.47:8004/udp/226.0.1.18:3017
-#EXTINF:-1,CCTV 13 HD
-http://183.184.69.47:8004/udp/226.0.1.199:2170
-#EXTINF:-1,CCTV 2
-http://183.184.69.47:8004/udp/226.0.1.19:3018
-#EXTINF:-1,CCTV 3
-http://183.184.69.47:8004/udp/226.0.1.20:3024
-#EXTINF:-1,CCTV 4
-http://183.184.69.47:8004/udp/226.0.1.21:3036
-#EXTINF:-1,CCTV 5
-http://183.184.69.47:8004/udp/226.0.1.22:3025
-#EXTINF:-1,CCTV 6
-http://183.184.69.47:8004/udp/226.0.1.23:3026
-#EXTINF:-1,CCTV 7
-http://183.184.69.47:8004/udp/226.0.1.24:3019
-#EXTINF:-1,CCTV 8
-http://183.184.69.47:8004/udp/226.0.1.25:3027
-#EXTINF:-1,CCTV 9
-http://183.184.69.47:8004/udp/226.0.1.26:3037
-#EXTINF:-1,CCTV 10
-http://183.184.69.47:8004/udp/226.0.1.27:3020
-#EXTINF:-1,CCTV 11
-http://183.184.69.47:8004/udp/226.0.1.28:3021
-#EXTINF:-1,CCTV 12
-http://183.184.69.47:8004/udp/226.0.1.29:3022
-#EXTINF:-1,CCTV 13
-http://183.184.69.47:8004/udp/226.0.1.30:3029
-#EXTINF:-1,CCTV 14
-http://183.184.69.47:8004/udp/226.0.1.31:3023
-#EXTINF:-1,CCTV 15
-http://183.184.69.47:8004/udp/226.0.1.32:3028
-#EXTINF:-1,Hunan TV
-http://183.184.69.47:8004/udp/226.0.1.33:3011
-#EXTINF:-1,Dragon TV
-http://183.184.69.47:8004/udp/226.0.1.34:3015
-#EXTINF:-1,辽宁卫视 https://iptv.live
-http://183.184.69.47:8004/udp/226.0.1.35:3033
-#EXTINF:-1,浙江卫视
-http://183.184.69.47:8004/udp/226.0.1.36:3046
-#EXTINF:-1,安徽卫视
-http://183.184.69.47:8004/udp/226.0.1.37:3056
-#EXTINF:-1,江苏卫视
-http://183.184.69.47:8004/udp/226.0.1.38:3034
-#EXTINF:-1,BTV
-http://183.184.69.47:8004/udp/226.0.1.39:3058
-#EXTINF:-1,Southeast TV
-http://183.184.69.47:8004/udp/226.0.1.40:3010
-#EXTINF:-1,金鹰卡通
-http://183.184.69.47:8004/udp/226.0.1.41:3012
-#EXTINF:-1,四川卫视
-http://183.184.69.47:8004/udp/226.0.1.42:3013
-#EXTINF:-1,贵州卫视
-http://183.184.69.47:8004/udp/226.0.1.43:3014
-#EXTINF:-1,Toonmax TV
-http://183.184.69.47:8004/udp/226.0.1.44:3016
-#EXTINF:-1,四川卫视
-http://183.184.69.47:8004/udp/226.0.1.45:3030
-#EXTINF:-1,广西卫视
-http://183.184.69.47:8004/udp/226.0.1.46:3031
-#EXTINF:-1,东方卫视
-http://183.184.69.47:8004/udp/226.0.1.47:3032
-#EXTINF:-1,Heilongjiang TV
-http://183.184.69.47:8004/udp/226.0.1.48:3063
-#EXTINF:-1,湖北卫视
-http://183.184.69.47:8004/udp/226.0.1.49:3042
-#EXTINF:-1,重庆卫视
-http://183.184.69.47:8004/udp/226.0.1.50:3045
-#EXTINF:-1,山东卫视
-http://183.184.69.47:8004/udp/226.0.1.51:3047
-#EXTINF:-1,Henan TV
-http://183.184.69.47:8004/udp/226.0.1.52:3049
-#EXTINF:-1,陕西卫视
-http://183.184.69.47:8004/udp/226.0.1.53:3051
-#EXTINF:-1,江西卫视
-http://183.184.69.47:8004/udp/226.0.1.54:3053
-#EXTINF:-1,甘肃卫视
-http://183.184.69.47:8004/udp/226.0.1.55:3055
-#EXTINF:-1,Tianjin TV
-http://183.184.69.47:8004/udp/226.0.1.56:3057
-#EXTINF:-1,BTV
-http://183.184.69.47:8004/udp/226.0.1.57:3059
-#EXTINF:-1,吉林卫视
-http://183.184.69.47:8004/udp/226.0.1.58:3065
-#EXTINF:-1,青海卫视
-http://183.184.69.47:8004/udp/226.0.1.59:3043
-#EXTINF:-1,云南卫视
-http://183.184.69.47:8004/udp/226.0.1.60:3066
-#EXTINF:-1,Bingtuan TV
-http://183.184.69.47:8004/udp/226.0.1.62:3061
-#EXTINF:-1,NNTV
-http://183.184.69.47:8004/udp/226.0.1.63:3044
-#EXTINF:-1,Ningxia TV
-http://183.184.69.47:8004/udp/226.0.1.64:3050
-#EXTINF:-1,湖北卫视
-http://183.184.69.47:8004/udp/226.0.1.65:3060
-#EXTINF:-1,XZTV
-http://183.184.69.47:8004/udp/226.0.1.66:3068
-#EXTINF:-1,新疆卫视
-http://183.184.69.47:8004/udp/226.0.1.67:3071
-#EXTINF:-1,CETV 1
-http://183.184.69.47:8004/udp/226.0.1.68:3039
-#EXTINF:-1,CETV 2
-http://183.184.69.47:8004/udp/226.0.1.69:3040
-#EXTINF:-1,CETV 4
-http://183.184.69.47:8004/udp/226.0.1.70:3041
-#EXTINF:-1,China Home Affairs Channel
-http://183.184.69.47:8004/udp/226.0.1.71:2104
-#EXTINF:-1,Jiangxi Fashion Shopping https://iptv.live
-http://183.184.69.47:8004/udp/226.0.1.72:3196
-#EXTINF:-1,New animation channel
-http://183.184.69.47:8004/udp/226.0.1.73:2090
-#EXTINF:-1,CCTV 1
-http://183.184.69.47:8004/udp/226.0.1.74:2107
-#EXTINF:-1,广西卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.75:2066
-#EXTINF:-1,东方财经
-http://183.184.69.47:8004/udp/226.0.1.76:3118
-#EXTINF:-1,CCTV 1 HD
-http://183.184.69.47:8004/udp/226.0.1.77:2090
-#EXTINF:-1,QXTV HD
-http://183.184.69.47:8004/udp/226.0.1.78:2007
-#EXTINF:-1,Hainan TV
-http://183.184.69.47:8004/udp/226.0.1.80:3067
-#EXTINF:-1,Shanxi HD
-http://183.184.69.47:8004/udp/226.0.1.81:2003
-#EXTINF:-1,Shanxi Film and Video Channel HD
-http://183.184.69.47:8004/udp/226.0.1.82:2004
-#EXTINF:-1,Shanxi HD
-http://183.184.69.47:8004/udp/226.0.1.83:2005
-#EXTINF:-1,山西卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.85:2001
-#EXTINF:-1,山西卫视
-http://183.184.69.47:8004/udp/226.0.1.86:2001
-#EXTINF:-1,Shanxi
-http://183.184.69.47:8004/udp/226.0.1.87:2003
-#EXTINF:-1,Shanxi Film and Video Channel
-http://183.184.69.47:8004/udp/226.0.1.88:2004
-#EXTINF:-1,Shanxi
-http://183.184.69.47:8004/udp/226.0.1.89:2005
-#EXTINF:-1,YQTV 1
-http://183.184.69.47:8004/udp/226.0.1.91:2011
-#EXTINF:-1,YQTV 2
-http://183.184.69.47:8004/udp/226.0.1.92:2012
-#EXTINF:-1,Jinzhong TV HD
-http://183.184.69.47:8004/udp/226.0.1.93:2051
-#EXTINF:-1,Jinzhong TV HD
-http://183.184.69.47:8004/udp/226.0.1.94:2052
-#EXTINF:-1,CQTV Automobiles
-http://183.184.69.47:8004/udp/226.0.1.95:3215
-#EXTINF:-1,Jiangsu Channel Dressy
-http://183.184.69.47:8004/udp/226.0.1.96:3217
-#EXTINF:-1,Wushu World
-http://183.184.69.47:8004/udp/226.0.1.97:3197
-#EXTINF:-1,CCTV 13 HD
-http://183.184.69.47:8004/udp/226.0.1.98:2028
-#EXTINF:-1,CETV Early Education Channel
-http://183.184.69.47:8004/udp/226.0.1.99:3193
-#EXTINF:-1,Handwriting Channel
-http://183.184.69.47:8004/udp/226.0.1.102:3186
-#EXTINF:-1,中国大气
-http://183.184.69.47:8004/udp/226.0.1.103:2120
-#EXTINF:-1,Shanxi Public Channel
-http://183.184.69.47:8004/udp/226.0.1.104:2006
-#EXTINF:-1,Yellow River TV
-http://183.184.69.47:8004/udp/226.0.1.107:2002
-#EXTINF:-1,Henan Cultural Relics Treasury
-http://183.184.69.47:8004/udp/226.0.1.110:3190
-#EXTINF:-1,SUPER CHANNEL
-http://183.184.69.47:8004/udp/226.0.1.111:3183
-#EXTINF:-1,CND Film Old Story Channel
-http://183.184.69.47:8004/udp/226.0.1.112:3185
-#EXTINF:-1,GTV
-http://183.184.69.47:8004/udp/226.0.1.114:3216
-#EXTINF:-1,Henan Liyuan Channel
-http://183.184.69.47:8004/udp/226.0.1.115:3219
-#EXTINF:-1,Guoxue Channel
-http://183.184.69.47:8004/udp/226.0.1.116:3192
-#EXTINF:-1,CCTV 17 HD
-http://183.184.69.47:8004/udp/226.0.1.117:2033
-#EXTINF:-1,Aniworld
-http://183.184.69.47:8004/udp/226.0.1.119:3136
-#EXTINF:-1,EETV
-http://183.184.69.47:8004/udp/226.0.1.120:3138
-#EXTINF:-1,Hunan TV
-http://183.184.69.47:8004/udp/226.0.1.121:2095
-#EXTINF:-1,Shop
-http://183.184.69.47:8004/udp/226.0.1.122:3142
-#EXTINF:-1,Fishing
-http://183.184.69.47:8004/udp/226.0.1.123:3146
-#EXTINF:-1,Collectibles Channel
-http://183.184.69.47:8004/udp/226.0.1.124:3139
-#EXTINF:-1,Jiangsu Happy Shopping Channel
-http://183.184.69.47:8004/udp/226.0.1.125:3140
-#EXTINF:-1,JYG
-http://183.184.69.47:8004/udp/226.0.1.126:3144
-#EXTINF:-1,Global Travel Channel
-http://183.184.69.47:8004/udp/226.0.1.127:3137
-#EXTINF:-1,Chinese Speciality Channel
-http://183.184.69.47:8004/udp/226.0.1.128:3134
-#EXTINF:-1,Family Finances Channel
-http://183.184.69.47:8004/udp/226.0.1.129:3154
-#EXTINF:-1,山东教育
-http://183.184.69.47:8004/udp/226.0.1.130:3145
-#EXTINF:-1,Excellent Shopping
-http://183.184.69.47:8004/udp/226.0.1.131:3161
-#EXTINF:-1,CHTV
-http://183.184.69.47:8004/udp/226.0.1.132:3143
-#EXTINF:-1,ESports
-http://183.184.69.47:8004/udp/226.0.1.134:3149
-#EXTINF:-1,CCTV 5 HD
-http://183.184.69.47:8004/udp/226.0.1.135:2020
-#EXTINF:-1,CCTV 6 HD
-http://183.184.69.47:8004/udp/226.0.1.137:2021
-#EXTINF:-1,Auto Fan Channel
-http://183.184.69.47:8004/udp/226.0.1.138:3133
-#EXTINF:-1,Fortune World Channel
-http://183.184.69.47:8004/udp/226.0.1.139:3162
-#EXTINF:-1,CCTV 8 HD
-http://183.184.69.47:8004/udp/226.0.1.140:2023
-#EXTINF:-1,CCTV 3 HD
-http://183.184.69.47:8004/udp/226.0.1.141:2018
-#EXTINF:-1,CCTV 17 HD
-http://183.184.69.47:8004/udp/226.0.1.142:2032
-#EXTINF:-1,广西卫视
-http://183.184.69.47:8004/udp/226.0.1.143:2071
-#EXTINF:-1,Hunan Channel Tea HD
-http://183.184.69.47:8004/udp/226.0.1.144:2124
-#EXTINF:-1,Hunan TV HD
-http://183.184.69.47:8004/udp/226.0.1.145:2134
-#EXTINF:-1,Hunan TV HD
-http://183.184.69.47:8004/udp/226.0.1.146:3075
-#EXTINF:-1,浙江卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.147:3076
-#EXTINF:-1,Anhui TV HD
-http://183.184.69.47:8004/udp/226.0.1.148:3077
-#EXTINF:-1,广东卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.149:3078
-#EXTINF:-1,深圳卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.150:3079
-#EXTINF:-1,Heilongjiang TV HD
-http://183.184.69.47:8004/udp/226.0.1.151:3080
-#EXTINF:-1,湖北卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.152:3082
-#EXTINF:-1,Tianjin TV HD
-http://183.184.69.47:8004/udp/226.0.1.153:3083
-#EXTINF:-1,山东卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.154:3084
-#EXTINF:-1,天直播内合
-http://183.184.69.47:8004/udp/226.0.1.155:3231
-#EXTINF:-1,CCTV 1 HD
-http://183.184.69.47:8004/udp/226.0.1.157:3086
-#EXTINF:-1,CCTV 2 HD
-http://183.184.69.47:8004/udp/226.0.1.158:3087
-#EXTINF:-1,CCTV 4 HD
-http://183.184.69.47:8004/udp/226.0.1.160:2019
-#EXTINF:-1,CCTV-TV Guide HD
-http://183.184.69.47:8004/udp/226.0.1.161:2105
-#EXTINF:-1,CCTV Cultural Excellence HD
-http://183.184.69.47:8004/udp/226.0.1.162:2108
-#EXTINF:-1,CCTV 7 HD
-http://183.184.69.47:8004/udp/226.0.1.163:3097
-#EXTINF:-1,CCTV-Storm Music HD
-http://183.184.69.47:8004/udp/226.0.1.164:2109
-#EXTINF:-1,CCTV 9 HD
-http://183.184.69.47:8004/udp/226.0.1.165:3093
-#EXTINF:-1,CCTV 10 HD
-http://183.184.69.47:8004/udp/226.0.1.166:3099
-#EXTINF:-1,CCTV-The First Theater HD
-http://183.184.69.47:8004/udp/226.0.1.167:2110
-#EXTINF:-1,CCTV 12 HD
-http://183.184.69.47:8004/udp/226.0.1.168:3100
-#EXTINF:-1,CCTV World Geography HD
-http://183.184.69.47:8004/udp/226.0.1.169:2111
-#EXTINF:-1,CCTV 14 HD
-http://183.184.69.47:8004/udp/226.0.1.170:3094
-#EXTINF:-1,CCTV HD
-http://183.184.69.47:8004/udp/226.0.1.171:2115
-#EXTINF:-1,CCTV 5+ HD
-http://183.184.69.47:8004/udp/226.0.1.172:3096
-#EXTINF:-1,Game Channel HD
-http://183.184.69.47:8004/udp/226.0.1.173:2096
-#EXTINF:-1,City HD
-http://183.184.69.47:8004/udp/226.0.1.174:2099
-#EXTINF:-1,Max HD
-http://183.184.69.47:8004/udp/226.0.1.175:2098
-#EXTINF:-1,Law & Life
-http://183.184.69.47:8004/udp/226.0.1.176:2100
-#EXTINF:-1,辽宁卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.177:3101
-#EXTINF:-1,重庆卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.178:3102
-#EXTINF:-1,SZTV 1
-http://183.184.69.47:8004/udp/226.0.1.179:3104
-#EXTINF:-1,SZTV 2
-http://183.184.69.47:8004/udp/226.0.1.180:3105
-#EXTINF:-1,CCTV Billiards HD
-http://183.184.69.47:8004/udp/226.0.1.181:2118
-#EXTINF:-1,CCTV-Nostalgia Theater HD
-http://183.184.69.47:8004/udp/226.0.1.182:2121
-#EXTINF:-1,Dragon TV HD
-http://183.184.69.47:8004/udp/226.0.1.183:3106
-#EXTINF:-1,Jiangsu TV HD
-http://183.184.69.47:8004/udp/226.0.1.184:3107
-#EXTINF:-1,BTV HD
-http://183.184.69.47:8004/udp/226.0.1.185:3108
-#EXTINF:-1,河北卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.186:3109
-#EXTINF:-1,四川卫视
-http://183.184.69.47:8004/udp/226.0.1.187:3110
-#EXTINF:-1,贵州卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.188:3116
-#EXTINF:-1,Golden Life HD
-http://183.184.69.47:8004/udp/226.0.1.189:2091
-#EXTINF:-1,Channel Cartoon HD
-http://183.184.69.47:8004/udp/226.0.1.190:3113
-#EXTINF:-1,CETV 1 HD
-http://183.184.69.47:8004/udp/226.0.1.191:3114
-#EXTINF:-1,GTV
-http://183.184.69.47:8004/udp/226.0.1.192:2093
-#EXTINF:-1,HSTV
-http://183.184.69.47:8004/udp/226.0.1.193:3250
-#EXTINF:-1,云南卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.194:3119
-#EXTINF:-1,XYTV
-http://183.184.69.47:8004/udp/226.0.1.195:3123
-#EXTINF:-1,Channel Young HD
-http://183.184.69.47:8004/udp/226.0.1.196:2101
-#EXTINF:-1,SiTV Documentary HD
-http://183.184.69.47:8004/udp/226.0.1.198:2103
-#EXTINF:-1,Shanxi Public Channel HD
-http://183.184.69.47:8004/udp/226.0.1.200:2006
-#EXTINF:-1,河南卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.201:2064
-#EXTINF:-1,Docu China HD
-http://183.184.69.47:8004/udp/226.0.1.202:2085
-#EXTINF:-1,Golden Eagle Documentary HD
-http://183.184.69.47:8004/udp/226.0.1.203:2086
-#EXTINF:-1,Shanxi
-http://183.184.69.47:8004/udp/226.0.1.204:2008
-#EXTINF:-1,Shanxi
-http://183.184.69.47:8004/udp/226.0.1.207:2009
-#EXTINF:-1,Shanxi
-http://183.184.69.47:8004/udp/226.0.1.208:2036
-#EXTINF:-1,CCTV-Storm Football HD
-http://183.184.69.47:8004/udp/226.0.1.209:2122
-#EXTINF:-1,CCTV-Golf & Tennis HD
-http://183.184.69.47:8004/udp/226.0.1.211:2132
-#EXTINF:-1,CCTV HD
-http://183.184.69.47:8004/udp/226.0.1.212:2133
-#EXTINF:-1,CNR
-http://183.184.69.47:8004/udp/226.0.1.215:2047
-#EXTINF:-1,江西卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.219:2067
-#EXTINF:-1,吉林卫视 HD
-http://183.184.69.47:8004/udp/226.0.1.220:2068
-#EXTINF:-1,Taiyuan News Channel
-http://183.184.69.47:8004/udp/226.0.1.225:2001
-#EXTINF:-1,Taiyuan Economic Life Channel
-http://183.184.69.47:8004/udp/226.0.1.226:2002
-#EXTINF:-1,Taiyuan Legal Channel
-http://183.184.69.47:8004/udp/226.0.1.227:2003
-#EXTINF:-1,Taiyuan Film and Video Channel
-http://183.184.69.47:8004/udp/226.0.1.228:2004
-#EXTINF:-1,Taiyuan Style Channel
-http://183.184.69.47:8004/udp/226.0.1.229:2005
-#EXTINF:-1,Taiyuan Education
-http://183.184.69.47:8004/udp/226.0.1.230:2006
-#EXTINF:-1,有線奧運601台
-https://www.navchina.cf/IPTV/icable.php?id=61
-#EXTINF:-1,有線奧運602台
-https://www.navchina.cf/IPTV/icable.php?id=62
-#EXTINF:-1,有線高清603台
-https://www.navchina.cf/IPTV/icable.php?id=63
-#EXTINF:-1,有線奧運604台
-https://www.navchina.cf/IPTV/icable.php?id=64
-#EXTINF:-1,有線奧運605台
-https://www.navchina.cf/IPTV/icable.php?id=65
-#EXTINF:-1,now直播台
-https://www.navchina.cf/IPTV/now.php?id=331
-#EXTINF:-1,now新聞台
-https://www.navchina.cf/IPTV/now.php?id=332
-#EXTINF:-1,now財經台
-https://www.navchina.cf/IPTV/now.php?id=333
-#EXTINF:-1,港台電視31
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1,港台電視32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1,港台電視33
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+#EXTINF:-1,CCTV-1综合
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8$北京8M
+#EXTINF:-1,CCTV-1综合
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8$北京8M
+#EXTINF:-1,CCTV-2财经
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8$北京8M
+#EXTINF:-1,CCTV-2财经
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8$北京8M
+#EXTINF:-1,CCTV-3综艺
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8$北京8M
+#EXTINF:-1,CCTV-4国际
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8$北京4M
+#EXTINF:-1,CCTV-5体育
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8$北京8M
+#EXTINF:-1,CCTV-5+体育赛事
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8$北京4M
+#EXTINF:-1,CCTV-5+体育赛事
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8$北京8M
+#EXTINF:-1,CCTV-7国防军事
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8$北京8M
+#EXTINF:-1,CCTV-8电视剧
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8$北京8M
+#EXTINF:-1,CCTV-9纪录
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8$北京8M
+#EXTINF:-1,CCTV-10科教
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8$北京8M
+#EXTINF:-1,CCTV-11戏曲
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8$北京8M
+#EXTINF:-1,CCTV-12社会与法
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8$北京8M
+#EXTINF:-1,CCTV-13新闻
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8$北京4M
+#EXTINF:-1,CCTV-15音乐
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8$北京4M
+#EXTINF:-1,CCTV-17农业农村
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8$北京4M
 #EXTINF:-1,香港電台視像新聞直播
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 #EXTINF:-1,香港国际财经台
