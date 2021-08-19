@@ -39,6 +39,30 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 http://185.207.176.189:8080/channels/tv-77/playlist.m3u8
 #EXTINF:-1,HKIB hd
 http://185.207.176.189:8080/channels/tv-76/playlist.m3u8
+#EXTINF:-1,TVB翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1,TVB J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1,TVB 新闻
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1,明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1,财经资讯台
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1,港台31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1,港台32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1,港台33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTINF:-1,ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1,ViuTVsix
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1,open hd
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1,HKIB hd
+https://cdn.hkdtmb.com/hls/76/index.m3u8 
 #EXTINF:-1,天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1,天映经典
@@ -982,11 +1006,15 @@ http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 #EXTINF:-1,無綫新聞 newsevent2
 http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 #EXTINF:-1,TVB星河频道
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1,TVB星河台  
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8 
 #EXTINF:-1,翡翠台  
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8 
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 ,astor AOD  
+http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8  
+#EXTINF:-1 ,無線新聞台  
+http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8  
+#EXTINF:-1 ,有線新聞台  
+http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8  
 #EXTINF:-1,天映頻道  
 http://45.126.83.51/qwr9ew/s/s33/01.m3u8  
 #EXTINF:-1,Thrill  
