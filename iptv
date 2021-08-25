@@ -1541,95 +1541,1815 @@ http://132.145.83.248:9981/stream/channelid/1135671778
 http://132.145.83.248:9981/stream/channelid/2079005079
 #EXTINF:-1,TBS
 http://132.145.83.248:9981/stream/channelid/582084395
-#EXTINF:-1,澳亞衛視
-http://180.94.182.199:8891/stream/channelid/856068647
-#EXTINF:-1,澳門衛視
-http://180.94.182.199:8891/stream/channelid/2116646594
-#EXTINF:-1,蓮花衛視
-http://180.94.182.199:8891/stream/channelid/337409454
-#EXTINF:-1,Channel 3 HD
-http://180.94.182.199:8891/stream/channelid/1544659359
-#EXTINF:-1,Channel 1 SD
-http://180.94.182.199:8891/stream/channelid/1315582636
-#EXTINF:-1,Channel 2 SD
-http://180.94.182.199:8891/stream/channelid/969873388
-#EXTINF:-1,澳廣視-CCTV1綜合
-http://180.94.182.199:8891/stream/channelid/275395234
-#EXTINF:-1,澳廣視-CCTV13新聞
-http://180.94.182.199:8891/stream/channelid/1088589152
-#EXTINF:-1,澳廣視-CGTN
-http://180.94.182.199:8891/stream/channelid/1955516797
-#EXTINF:-1,澳廣視-CGTN紀錄(英)
-http://180.94.182.199:8891/stream/channelid/2039955385
-#EXTINF:-1,澳廣視-海峽衛視
-http://180.94.182.199:8891/stream/channelid/1916493307
-#EXTINF:-1,澳廣視-湖南國際
-http://180.94.182.199:8891/stream/channelid/1612654294
-#EXTINF:-1,東南衛視
-http://180.94.182.199:8891/stream/channelid/791258409
-#EXTINF:-1,廣東國際
-http://180.94.182.199:8891/stream/channelid/1297828086
-#EXTINF:-1,CCTV-5 體育
-http://180.94.182.199:8891/stream/channelid/902847558
-#EXTINF:-1,翡翠台
-http://180.94.182.199:8891/stream/channelid/1117461907
-#EXTINF:-1,J2台
-http://180.94.182.199:8891/stream/channelid/1825599162
-#EXTINF:-1,無綫新聞台
-http://180.94.182.199:8891/stream/channelid/735507945
-#EXTINF:-1,明珠台 https://iptv.live
-http://180.94.182.199:8891/stream/channelid/218848154
-#EXTINF:-1,無綫財經 · 資訊台
-http://180.94.182.199:8891/stream/channelid/1491610175
-#EXTINF:-1,澳視澳門
-http://180.94.182.199:8891/stream/channelid/1070640384
-#EXTINF:-1,澳視葡文
-http://180.94.182.199:8891/stream/channelid/1106027934
-#EXTINF:-1,澳門體育
-http://180.94.182.199:8891/stream/channelid/245702515
-#EXTINF:-1,澳門資訊
-http://180.94.182.199:8891/stream/channelid/928019777
-#EXTINF:-1,澳門綜藝
-http://180.94.182.199:8891/stream/channelid/795941266
-#EXTINF:-1,ViuTVsix
-http://180.94.182.199:8891/stream/channelid/2007291362
-#EXTINF:-1,衛星頻道-澳門
-http://180.94.182.199:8891/stream/channelid/1176437165
-#EXTINF:-1,澳門電台
-http://180.94.182.199:8891/stream/channelid/1023104656
-#EXTINF:-1,ViuTV
-http://180.94.182.199:8891/stream/channelid/1818457206
-#EXTINF:-1,鳳凰衛視香港台
-http://180.94.182.199:8891/stream/channelid/936825479
-#EXTINF:-1,鳳凰衛視中文台
-http://180.94.182.199:8891/stream/channelid/294057012
-#EXTINF:-1,鳳凰衛視資訊台
-http://180.94.182.199:8891/stream/channelid/233965238
-#EXTINF:-1,CCTV-4 中文國際
-http://180.94.182.199:8891/stream/channelid/950898276
-#EXTINF:-1,CCTV 娛樂
-http://180.94.182.199:8891/stream/channelid/654887619
-#EXTINF:-1,CCTV 戲曲
-http://180.94.182.199:8891/stream/channelid/890648093
-#EXTINF:-1,RTP
-http://180.94.182.199:8891/stream/channelid/861787131
-#EXTINF:-1,廈門衛視
-http://180.94.182.199:8891/stream/channelid/954886466
-#EXTINF:-1,東方衛視
-http://180.94.182.199:8891/stream/channelid/1822706643
-#EXTINF:-1,江蘇國際頻道
-http://180.94.182.199:8891/stream/channelid/1264660714
-#EXTINF:-1,珠江台
-http://180.94.182.199:8891/stream/channelid/454746070
-#EXTINF:-1,南方衛視
-http://180.94.182.199:8891/stream/channelid/1762757410
-#EXTINF:-1,中天亞洲台
-http://180.94.182.199:8891/stream/channelid/148204221
-#EXTINF:-1,東森亞洲
-http://180.94.182.199:8891/stream/channelid/1618708181
-#EXTINF:-1,東森新聞
-http://180.94.182.199:8891/stream/channelid/586843711
-#EXTINF:-1,濠江衛視
-http://180.94.182.199:8891/stream/channelid/55504488
-#EXTINF:-1,深圳國際頻道
-http://180.94.182.199:8891/stream/channelid/986552490
+#EXTINF:-1,Animal Planet SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17584
+#EXTINF:-1,Arte 1 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17590
+#EXTINF:-1,AXN SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17892
+#EXTINF:-1,Band News SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17910
+#EXTINF:-1,BandNews SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17602
+#EXTINF:-1,BandSports SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17608
+#EXTINF:-1,Cartoon Network SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17619
+#EXTINF:-1,Cinemax SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17625
+#EXTINF:-1,CNN Brasil SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17542
+#EXTINF:-1,Comedy Central SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17907
+#EXTINF:-1,Curta! SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17637
+#EXTINF:-1,Discovery Channel SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17643
+#EXTINF:-1,Discovery Home & Health SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17649
+#EXTINF:-1,Discovery Science SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17667
+#EXTINF:-1,Discovery Theater SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18245
+#EXTINF:-1,Discovery Turbo SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17673
+#EXTINF:-1,Discovery World SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17679
+#EXTINF:-1,Disney Junior SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17691
+#EXTINF:-1,E! SD https://iptv.live
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17922
+#EXTINF:-1,EPTV Campinas SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/34964
+#EXTINF:-1,EPTV Ribeirão SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/34970
+#EXTINF:-1,ESPN 2 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17709
+#EXTINF:-1,ESPN Brasil SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17714
+#EXTINF:-1,ESPN Extra SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17720
+#EXTINF:-1,ESPN SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17703
+#EXTINF:-1,Fashion TV Brazil SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17726
+#EXTINF:-1,Food Network SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17738
+#EXTINF:-1,Fox Sports 2 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17774
+#EXTINF:-1,Fox Sports 1 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17768
+#EXTINF:-1,Globo Brasilia SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/24715
+#EXTINF:-1,Globo Minas SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/24754
+#EXTINF:-1,Globo News SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17786
+#EXTINF:-1,Globo Nordeste SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/24805
+#EXTINF:-1,Globo Rio SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/24886
+#EXTINF:-1,Globo SP SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/24911
+#EXTINF:-1,H2 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17886
+#EXTINF:-1,HGTV SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17792
+#EXTINF:-1,Inter TV Alto Litoral SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/34976
+#EXTINF:-1,Inter TV Cabugi SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/34982
+#EXTINF:-1,Inter TV dos Vales SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/34988
+#EXTINF:-1,Inter TV Grande Minas SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/34994
+#EXTINF:-1,Inter TV Serra Mar SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35000
+#EXTINF:-1,Investigação Discovery SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17655
+#EXTINF:-1,Lifetime SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17928
+#EXTINF:-1,MTV Live SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18015
+#EXTINF:-1,MTV SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17804
+#EXTINF:-1,Music Box Brazil SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17566
+#EXTINF:-1,Nat Geo Kids SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17810
+#EXTINF:-1,National Geographic SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17816
+#EXTINF:-1,National Geographic Wild SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17822
+#EXTINF:-1,Nick Jr. SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17916
+#EXTINF:-1,Nickelodeon SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17828
+#EXTINF:-1,Nickelodeon HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17827
+#EXTINF:-1,Off SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18021
+#EXTINF:-1,Premiere 1 SD https://iptv.live
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35318
+#EXTINF:-1,Premiere 2 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35320
+#EXTINF:-1,Premiere 3 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35322
+#EXTINF:-1,Premiere 4 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35324
+#EXTINF:-1,Premiere 5 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35326
+#EXTINF:-1,Premiere 6 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35328
+#EXTINF:-1,Premiere 7 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35330
+#EXTINF:-1,Premiere 8 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35332
+#EXTINF:-1,Prime Box Brazil SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17560
+#EXTINF:-1,RBS TV Florianópolis SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35006
+#EXTINF:-1,RBS TV Porto Alegre SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35012
+#EXTINF:-1,Record News SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17535
+#EXTINF:-1,Rede Amazônica Boa Vista SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35018
+#EXTINF:-1,Rede Amazônica Macapá SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35024
+#EXTINF:-1,Rede Amazônica Manaus SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35030
+#EXTINF:-1,Rede Amazônica Porto Velho SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35036
+#EXTINF:-1,Rede Amazônica Rio Branco SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35042
+#EXTINF:-1,RPC Curitiba SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35048
+#EXTINF:-1,TBS SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17858
+#EXTINF:-1,TLC SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17864
+#EXTINF:-1,TNT Séries SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17870
+#EXTINF:-1,Travel Box Brazil SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17572
+#EXTINF:-1,TV Anhanguera Goiânia SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35054
+#EXTINF:-1,TV Bahia SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35060
+#EXTINF:-1,TV Fronteira SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35066
+#EXTINF:-1,TV Gazeta SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35072
+#EXTINF:-1,TV Globo Brasília SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35078
+#EXTINF:-1,TV Globo Minas SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35084
+#EXTINF:-1,TV Globo Nordeste SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35090
+#EXTINF:-1,TV Globo Rio SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35096
+#EXTINF:-1,TV Globo São Paulo SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35102
+#EXTINF:-1,TV Integração Uberlândia SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35108
+#EXTINF:-1,TV Liberal Belém SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35114
+#EXTINF:-1,TV Mirante Cocais SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35120
+#EXTINF:-1,TV Mirante Imperatriz SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35126
+#EXTINF:-1,TV Mirante São Luiz SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35132
+#EXTINF:-1,TV Morena Campo Grande SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35138
+#EXTINF:-1,TV Rá Tim Bum! SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17554
+#EXTINF:-1,TV TEM Bauru SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35144
+#EXTINF:-1,TV TEM Itapetininga SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35150
+#EXTINF:-1,TV TEM Sorocaba SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35162
+#EXTINF:-1,TV TEM São José do Rio Preto SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35156
+#EXTINF:-1,TV Tribuna SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35168
+#EXTINF:-1,TV Verdes Mares Cariri SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35174
+#EXTINF:-1,TV Verdes Mares Fortaleza SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35180
+#EXTINF:-1,Urban Doc SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17999
+#EXTINF:-1,Urban Movies SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17997
+#EXTINF:-1,Urban Serie SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17996
+#EXTINF:-1,Urban tv SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18000
+#EXTINF:-1,Warner SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17880
+#EXTINF:-1,Terra Viva SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37295
+#EXTINF:-1,Discovery Kids SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17661
+#EXTINF:-1,TV Escola SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37302
+#EXTINF:-1,Woohoo SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37304
+#EXTINF:-1,Universal Studio SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18042
+#EXTINF:-1,Star Channel SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37313
+#EXTINF:-1,Star Life SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37317
+#EXTINF:-1,TNT Sports SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18039
+#EXTINF:-1,Viva SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18027
+#EXTINF:-1,RedeTV! SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37331
+#EXTINF:-1,Combate SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18196
+#EXTINF:-1,History SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18251
+#EXTINF:-1,Arte1 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17929
+#EXTINF:-1,BIS SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18006
+#EXTINF:-1,GNT SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18009
+#EXTINF:-1,Mais GloboSat SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18012
+#EXTINF:-1,Multishow SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18018
+#EXTINF:-1,VH1 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18024
+#EXTINF:-1,SyFy SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18036
+#EXTINF:-1,Telecine Action SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18072
+#EXTINF:-1,Telecine Cult SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18075
+#EXTINF:-1,Telecine Fun SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18078
+#EXTINF:-1,Telecine Pipoca SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18081
+#EXTINF:-1,Telecine Premium SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18084
+#EXTINF:-1,Telecine Touch SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18087
+#EXTINF:-1,SporTV SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18236
+#EXTINF:-1,SporTV 2 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18239
+#EXTINF:-1,SporTV 3 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18242
+#EXTINF:-1,BabyTV SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18253
+#EXTINF:-1,Disney XD SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18256
+#EXTINF:-1,Gloob SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18259
+#EXTINF:-1,Tooncast SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18261
+#EXTINF:-1,Globo Brasilia SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38843
+#EXTINF:-1,Globo Brasilia SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38844
+#EXTINF:-1,Globo EPTV Campinas SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38849
+#EXTINF:-1,Globo EPTV Campinas SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38850
+#EXTINF:-1,Globo EPTV Central SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38852
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38855
+#EXTINF:-1,Globo EPTV Sul de Minas SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38861
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38864
+#EXTINF:-1,Globo Inter TV dos Vales SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38872
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38875
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38880
+#EXTINF:-1,Globo Minas SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38885
+#EXTINF:-1,Globo Minas SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38886
+#EXTINF:-1,Globo Nordeste SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38899
+#EXTINF:-1,Globo Nordeste SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38900
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38911
+#EXTINF:-1,Globo NSC TV Florianopolis SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38912
+#EXTINF:-1,Globo Rede Amazonica Boa Vista SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38925
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38923
+#EXTINF:-1,Globo Rede Amazonica SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38927
+#EXTINF:-1,Globo Rede Amazonica Manaus SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38932
+#EXTINF:-1,Globo Rede Amazonica Manaus SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38933
+#EXTINF:-1,Globo Rede Amazonica Porto Velho SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38935
+#EXTINF:-1,Globo Rede Amazonica Rio Branco SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38937
+#EXTINF:-1,Globo Rede Bahia SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38940
+#EXTINF:-1,Globo RJ SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38945
+#EXTINF:-1,Globo RPC TV Curitiba SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38955
+#EXTINF:-1,Globo RPC TV Maringa SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38961
+#EXTINF:-1,Globo SP SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38969
+#EXTINF:-1,Globo TV Anhanguera SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38973
+#EXTINF:-1,Globo TV Bahia SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38976
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38992
+#EXTINF:-1,Globo TV Fronteira SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38993
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39004
+#EXTINF:-1,Globo TV Gazeta Vitoria SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39005
+#EXTINF:-1,Globo TV Integracao Juiz de Fora SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39011
+#EXTINF:-1,Globo TV Integracao Uberlandia SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39013
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39018
+#EXTINF:-1,Globo TV Mirante Cocais SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39021
+#EXTINF:-1,Globo TV Mirante Imperatriz SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39023
+#EXTINF:-1,Globo TV Mirante Sao Luis SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39028
+#EXTINF:-1,Globo TV Mirante Sao Luis SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39029
+#EXTINF:-1,Globo TV Morena SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39032
+#EXTINF:-1,Globo TV Rio Sul SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39035
+#EXTINF:-1,Globo TV Subae SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39044
+#EXTINF:-1,Globo TV Sudoeste SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39047
+#EXTINF:-1,Globo TV TEM Bauru SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39052
+#EXTINF:-1,Globo TV TEM Bauru SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39053
+#EXTINF:-1,Globo TV TEM Itapetininga SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39058
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39060
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39065
+#EXTINF:-1,Globo TV TEM Itapetininga SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39059
+#EXTINF:-1,Globo TV TEM Sorocaba SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39070
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39074
+#EXTINF:-1,Globo TV TEM Sorocaba SD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39071
+#EXTINF:-1,Globo TV Verdes Mares Cariri SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39084
+#EXTINF:-1,Globo TV Verdes Mares SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39090
+#EXTINF:-1,Globo interTv Cabo Frio HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39091
+#EXTINF:-1,HBO SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39184
+#EXTINF:-1,HBO 2 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39185
+#EXTINF:-1,HBO Family SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39186
+#EXTINF:-1,HBO Mundi SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39187
+#EXTINF:-1,HBO Plus SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39188
+#EXTINF:-1,HBO Pop SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39189
+#EXTINF:-1,HBO Signature SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39190
+#EXTINF:-1,HBO Xtreme SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39191
+#EXTINF:-1,TV Anhanguera Goiania
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113060
+#EXTINF:-1,REDE TV SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113076
+#EXTINF:-1,A&E SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113098
+#EXTINF:-1,FX SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17780
+#EXTINF:-1,Megapix SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18033
+#EXTINF:-1,Paramount Network SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17840
+#EXTINF:-1,Sony Channel SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17889
+#EXTINF:-1,Space SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17852
+#EXTINF:-1,TNT SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113099
+#EXTINF:-1,Universal TV SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113100
+#EXTINF:-1,AMC SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113101
+#EXTINF:-1,Combate SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113109
+#EXTINF:-1,SporTV SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113110
+#EXTINF:-1,SporTV 2 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113111
+#EXTINF:-1,SporTV 3 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113112
+#EXTINF:-1,Fox Sports SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113113
+#EXTINF:-1,Fox Sports 2 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113114
+#EXTINF:-1,ESPN SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113115
+#EXTINF:-1,ESPN 2 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113116
+#EXTINF:-1,ESPN Brasil SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113117
+#EXTINF:-1,BandSports SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113118
+#EXTINF:-1,Premiere 2 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113119
+#EXTINF:-1,Premiere 3 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113120
+#EXTINF:-1,Premiere 4 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113121
+#EXTINF:-1,Premiere 5 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113122
+#EXTINF:-1,Premiere 6 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113123
+#EXTINF:-1,Premiere 7 SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113124
+#EXTINF:-1,Premiere Clubes SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113127
+#EXTINF:-1,TV Senado SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113194
+#EXTINF:-1,TV Centro America SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113195
+#EXTINF:-1,CNN INTERNACIONAL SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113342
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/392511
+#EXTINF:-1,TruTV SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/408358
+#EXTINF:-1,RecordTV SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/408368
+#EXTINF:-1,CANÇÃO NOVA SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410214
+#EXTINF:-1,TV Cultura SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410215
+#EXTINF:-1,Fish TV SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17732
+#EXTINF:-1,A&E HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17575
+#EXTINF:-1,Arte 1 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17587
+#EXTINF:-1,AXN HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17891
+#EXTINF:-1,Boomerang FHD [H265]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18252
+#EXTINF:-1,BandNews HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17600
+#EXTINF:-1,BandSports HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17606
+#EXTINF:-1,BIS HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18005
+#EXTINF:-1,Boomerang HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17612
+#EXTINF:-1,Cartoon Network HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17617
+#EXTINF:-1,Cinemax HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17623
+#EXTINF:-1,CNN Brasil HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17540
+#EXTINF:-1,Comedy Central HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17906
+#EXTINF:-1,Conmebol TV 1 FHD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18198
+#EXTINF:-1,Conmebol TV 2 FHD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18201
+#EXTINF:-1,Conmebol TV 3 FHD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18204
+#EXTINF:-1,DAZN 1 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18209
+#EXTINF:-1,DAZN 2 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18210
+#EXTINF:-1,DAZN 3 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18211
+#EXTINF:-1,Discovery Channel HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17641
+#EXTINF:-1,Discovery Home & Health HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17647
+#EXTINF:-1,Discovery Kids HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17659
+#EXTINF:-1,Discovery Science HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17665
+#EXTINF:-1,Discovery Theater HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18244
+#EXTINF:-1,Discovery Turbo HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17671
+#EXTINF:-1,Discovery World HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17677
+#EXTINF:-1,Disney Junior HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17689
+#EXTINF:-1,Disney XD HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18255
+#EXTINF:-1,E! HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17695
+#EXTINF:-1,ESPN 2 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17707
+#EXTINF:-1,ESPN Brasil HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17712
+#EXTINF:-1,ESPN Extra HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17718
+#EXTINF:-1,ESPN HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17701
+#EXTINF:-1,Fashion TV Brazil HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17724
+#EXTINF:-1,Fish TV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17730
+#EXTINF:-1,Food Network HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17736
+#EXTINF:-1,Fox Sports 2 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17772
+#EXTINF:-1,Fox Sports HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17766
+#EXTINF:-1,FX HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17778
+#EXTINF:-1,Globo News HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17784
+#EXTINF:-1,Gloob HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18258
+#EXTINF:-1,GNT HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18008
+#EXTINF:-1,H2 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18247
+#EXTINF:-1,HBO 2 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18047
+#EXTINF:-1,HBO Family HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18050
+#EXTINF:-1,HBO HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18053
+#EXTINF:-1,HBO Mundi HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18056
+#EXTINF:-1,HBO Plus HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18059
+#EXTINF:-1,HBO Pop HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18062
+#EXTINF:-1,HBO Signature HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18065
+#EXTINF:-1,HBO Xtreme HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18068
+#EXTINF:-1,HGTV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17790
+#EXTINF:-1,History HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18250
+#EXTINF:-1,Investigação Discovery HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17653
+#EXTINF:-1,Lifetime HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17927
+#EXTINF:-1,Mais GloboSat HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18011
+#EXTINF:-1,Megapix HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18032
+#EXTINF:-1,MTV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17801
+#EXTINF:-1,MTV Live HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18014
+#EXTINF:-1,Multishow HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18017
+#EXTINF:-1,Music Box Brazil HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17564
+#EXTINF:-1,Music Box Brazil HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17563
+#EXTINF:-1,Nat Geo Kids HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17808
+#EXTINF:-1,National Geographic HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17814
+#EXTINF:-1,National Geographic Wild HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17820
+#EXTINF:-1,Nick Jr. HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17914
+#EXTINF:-1,Off HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18020
+#EXTINF:-1,Premiere Clubes HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35317
+#EXTINF:-1,Premiere 2 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35319
+#EXTINF:-1,Premiere 3 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35321
+#EXTINF:-1,Premiere 4 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35323
+#EXTINF:-1,Premiere 5 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35325
+#EXTINF:-1,Premiere 6 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35327
+#EXTINF:-1,Premiere 7 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35329
+#EXTINF:-1,Prime Box Brazil HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17558
+#EXTINF:-1,Record News HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17534
+#EXTINF:-1,Sony Channel HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17844
+#EXTINF:-1,Space HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17850
+#EXTINF:-1,SporTV 2 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18238
+#EXTINF:-1,SporTV 3 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18241
+#EXTINF:-1,SporTV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18235
+#EXTINF:-1,SyFy HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18035
+#EXTINF:-1,TBS HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17856
+#EXTINF:-1,Telecine Action HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18071
+#EXTINF:-1,Telecine Cult HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18074
+#EXTINF:-1,Telecine Fun HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18077
+#EXTINF:-1,Telecine Pipoca HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18080
+#EXTINF:-1,Telecine Premium HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18083
+#EXTINF:-1,Telecine Touch HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18086
+#EXTINF:-1,TLC HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17862
+#EXTINF:-1,TNT Séries HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17868
+#EXTINF:-1,Travel Box Brazil HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17570
+#EXTINF:-1,TV Rá Tim Bum! HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17552
+#EXTINF:-1,Universal Studio HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18041
+#EXTINF:-1,Universal TV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18044
+#EXTINF:-1,VH1 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18023
+#EXTINF:-1,Viva HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/18026
+#EXTINF:-1,Cine SKY 1
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35643
+#EXTINF:-1,Cine SKY 2
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35644
+#EXTINF:-1,Cine SKY 3
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35645
+#EXTINF:-1,Cine SKY 4
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35646
+#EXTINF:-1,Cine SKY 5
+http://blazehd.online:80/Lurdes2021/Lurdes2021/35647
+#EXTINF:-1,TV APARECIDA HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17937
+#EXTINF:-1,CANÇÃO NOVA HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/36364
+#EXTINF:-1,Novo Tempo HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17945
+#EXTINF:-1,BAND HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37271
+#EXTINF:-1,RecordTV SP HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37273
+#EXTINF:-1,RecordTV MG HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37279
+#EXTINF:-1,RecordTV Amazonas HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37280
+#EXTINF:-1,SBT SP HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37285
+#EXTINF:-1,TV Brasil HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37292
+#EXTINF:-1,RedeTV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37296
+#EXTINF:-1,SBT HD - Rede Massa
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37298
+#EXTINF:-1,SBT GO HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37299
+#EXTINF:-1,Futura HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37301
+#EXTINF:-1,Record RS HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37305
+#EXTINF:-1,Estádio TNT 1 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37308
+#EXTINF:-1,Estádio TNT 2 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37309
+#EXTINF:-1,Star Channel HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37314
+#EXTINF:-1,Star Life HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37318
+#EXTINF:-1,Star Hits 1 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37322
+#EXTINF:-1,Star Hits 2 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37325
+#EXTINF:-1,SBT FHD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37327
+#EXTINF:-1,SBT MG HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37328
+#EXTINF:-1,RecordTV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/37329
+#EXTINF:-1,Campeonato Carioca 1 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38270
+#EXTINF:-1,Combate HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38276
+#EXTINF:-1,Paramount Network HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38280
+#EXTINF:-1,RecordTV RJ HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38452
+#EXTINF:-1,TNT HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38453
+#EXTINF:-1,TV Cabralia HD Bahia Record
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38836
+#EXTINF:-1,Globo Brasilia HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38841
+#EXTINF:-1,Globo Brasilia HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38842
+#EXTINF:-1,Globo EPTV Campinas HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38847
+#EXTINF:-1,Globo EPTV Central HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38851
+#EXTINF:-1,Globo EPTV Campinas HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38848
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38860
+#EXTINF:-1,Globo Inter TV Cabugi HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38866
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38871
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38874
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38879
+#EXTINF:-1,Globo Minas HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38883
+#EXTINF:-1,Globo Minas HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38884
+#EXTINF:-1,Globo Nordeste HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38897
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38909
+#EXTINF:-1,Globo NSC TV Florianopolis HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38910
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38920
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38922
+#EXTINF:-1,Globo Rede Amazonica Boa Vista HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38924
+#EXTINF:-1,Globo Rede Amazonica HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38926
+#EXTINF:-1,Globo Rede Amazonica Manaus HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38930
+#EXTINF:-1,Globo Rede Amazonica Manaus HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38931
+#EXTINF:-1,Globo Rede Amazonica Porto Velho HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38934
+#EXTINF:-1,Globo Rede Amazonica Rio Branco HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38936
+#EXTINF:-1,Globo Rede Bahia HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38939
+#EXTINF:-1,Globo RJ HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38943
+#EXTINF:-1,Globo RPC TV Curitiba HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38952
+#EXTINF:-1,Globo RPC TV Curitiba HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38953
+#EXTINF:-1,Globo RPC TV Maringa HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38960
+#EXTINF:-1,Globo SP HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38967
+#EXTINF:-1,Globo TV Anhanguera HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38972
+#EXTINF:-1,Globo TV Bahia HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38975
+#EXTINF:-1,Globo TV Fronteira HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38989
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/38991
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39002
+#EXTINF:-1,Globo TV Gazeta Vitoria HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39003
+#EXTINF:-1,Globo TV Integracao Juiz de Fora HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39010
+#EXTINF:-1,Globo TV Integracao Uberlandia HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39012
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39016
+#EXTINF:-1,Globo TV Mirante Cocais HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39020
+#EXTINF:-1,Globo TV Mirante Imperatriz HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39022
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39026
+#EXTINF:-1,Globo TV Mirante Sao Luis HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39027
+#EXTINF:-1,Globo TV Morena HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39031
+#EXTINF:-1,Globo TV Rio Sul HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39034
+#EXTINF:-1,Globo TV Subae HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39043
+#EXTINF:-1,Globo TV Sudoeste HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39046
+#EXTINF:-1,Globo TV TEM Bauru HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39050
+#EXTINF:-1,Globo TV TEM Bauru HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39051
+#EXTINF:-1,Globo TV TEM Itapetininga HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39056
+#EXTINF:-1,Globo TV TEM Itapetininga HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39057
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39068
+#EXTINF:-1,Globo TV TEM Sorocaba HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39069
+#EXTINF:-1,Globo TV Tribuna Santos HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39073
+#EXTINF:-1,Globo TV Verdes Mares Cariri HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39082
+#EXTINF:-1,Globo TV Verdes Mares Cariri HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39083
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39088
+#EXTINF:-1,Globo TV Verdes Mares HD [Alter]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39089
+#EXTINF:-1,AMC HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17987
+#EXTINF:-1,TV Evangelizar
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39227
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO1)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39670
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO2)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39671
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO3)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39672
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO1)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39674
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 2)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39675
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 3)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39676
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 4)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39677
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 5 )
+http://blazehd.online:80/Lurdes2021/Lurdes2021/39678
+#EXTINF:-1,Estádio TNT 3 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/106773
+#EXTINF:-1,Estádio TNT 4 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/106774
+#EXTINF:-1,Warner HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/106776
+#EXTINF:-1,TV DIARIO HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/106779
+#EXTINF:-1,SBT RIO HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/106780
+#EXTINF:-1,TV Aratu HD SBT Bahia
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113040
+#EXTINF:-1,TV Santa Cruz Bahia HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113042
+#EXTINF:-1,RECORD ITAPOAN HD - BAHIA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113043
+#EXTINF:-1,BAND Bahia HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113044
+#EXTINF:-1,RPC Parana HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113045
+#EXTINF:-1,TV CLUBE HD ( GLOBO PIAUI)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113046
+#EXTINF:-1,GLOBO INTER VALE MG HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113058
+#EXTINF:-1,Globo Sergipe HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113059
+#EXTINF:-1,Band Sergipe HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113061
+#EXTINF:-1,Record Sergipe - TV Atalaia HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113062
+#EXTINF:-1,Record TV Goiania HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113063
+#EXTINF:-1,TV Goiania HD - Band
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113064
+#EXTINF:-1,SBT Sergipe - TV Apariper HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113065
+#EXTINF:-1,GAZETA HD SP
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113066
+#EXTINF:-1,REDE TV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113077
+#EXTINF:-1,Tv Taroba HD [BAND Parana]
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113079
+#EXTINF:-1,Band BSB HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113080
+#EXTINF:-1,BAND CAMPINAS HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113081
+#EXTINF:-1,Band RJ HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113082
+#EXTINF:-1,Band RS HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113083
+#EXTINF:-1,SBT RS HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113085
+#EXTINF:-1,SBT Parana HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113086
+#EXTINF:-1,SBT RJ HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113087
+#EXTINF:-1,SBT RJ FHD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113088
+#EXTINF:-1,TV Justica SD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113089
+#EXTINF:-1,NSC TV Santa Catarina HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113094
+#EXTINF:-1,RPC PARANAVAI HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113095
+#EXTINF:-1,TV MORENA HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113096
+#EXTINF:-1,Record Brasilia HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113097
+#EXTINF:-1,TV COXA HD ( CORITIBA FC)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113167
+#EXTINF:-1,DAZN 4 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113196
+#EXTINF:-1,Disney Channel HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/17685
+#EXTINF:-1,Tooncast HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113225
+#EXTINF:-1,LIGA FUTSAL 2021
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113228
+#EXTINF:-1,Conmebol TV 1 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113233
+#EXTINF:-1,Conmebol TV 2 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113234
+#EXTINF:-1,Conmebol TV 3 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113235
+#EXTINF:-1,REDE GOSPEL HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113236
+#EXTINF:-1,Gospel Movie TV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113237
+#EXTINF:-1,TV GIDEOES HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113238
+#EXTINF:-1,REDE PLENITUDE TV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113239
+#EXTINF:-1,TV GLOBINHO HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113240
+#EXTINF:-1,TV NSPORTS HD (JOGO 1)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113334
+#EXTINF:-1,TV NSPORTS HD (JOGO 2)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113335
+#EXTINF:-1,TV NSPORTS HD (JOGO 3)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113336
+#EXTINF:-1,RIT TV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113337
+#EXTINF:-1,TV PAI ETERNO HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113338
+#EXTINF:-1,REDE 21 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113339
+#EXTINF:-1,CHEFE TV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113340
+#EXTINF:-1,CNN ESPANHOL HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113341
+#EXTINF:-1,TV TEM ITAPE HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113343
+#EXTINF:-1,TV TEM ITAPE FHD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113344
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 1)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113368
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 2)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113369
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 3)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113370
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 4)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113371
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 5)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113372
+#EXTINF:-1,TV Asa branca HD (Globo-Caruaru - PE)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113382
+#EXTINF:-1,Record TV Belem HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/113401
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/392512
+#EXTINF:-1,RecordTV LITORAL SANTOS HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/392514
+#EXTINF:-1,TruTV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/408359
+#EXTINF:-1,Animal Planet HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/408361
+#EXTINF:-1,ALADIN 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409632
+#EXTINF:-1,As Meninas Superpoderosas 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409633
+#EXTINF:-1,BEN 10 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409634
+#EXTINF:-1,BOB ESPONJA 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409635
+#EXTINF:-1,Breaking Bad 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409636
+#EXTINF:-1,CAO CORAGEM 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409637
+#EXTINF:-1,Caverna do Dragão 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409638
+#EXTINF:-1,Chapolin Colorado 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409639
+#EXTINF:-1,CHAVES 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409640
+#EXTINF:-1,CHAVES DESENHO 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409641
+#EXTINF:-1,Denis o Pimentinha 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409642
+#EXTINF:-1,Desenhos Biblicos 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409643
+#EXTINF:-1,Desenhos Disney 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409644
+#EXTINF:-1,Digimon 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409645
+#EXTINF:-1,Dois Homens e Meio 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409646
+#EXTINF:-1,Doug 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409647
+#EXTINF:-1,DRAGON BALL 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409648
+#EXTINF:-1,DRAGON BALL SUPER 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409649
+#EXTINF:-1,DRAGON BALL Z 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409650
+#EXTINF:-1,Eu a Patroa e as Crianças 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409651
+#EXTINF:-1,Formiga Atómica 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409652
+#EXTINF:-1,Galinha Pintadinha 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409653
+#EXTINF:-1,Guardiões da Galaxia 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409654
+#EXTINF:-1,He-Man 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409655
+#EXTINF:-1,Hércules 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409656
+#EXTINF:-1,Historias Disney 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409657
+#EXTINF:-1,HOMEM ARANHA 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409658
+#EXTINF:-1,Homem de Ferro 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409659
+#EXTINF:-1,HOMEMS DE PRETO 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409660
+#EXTINF:-1,Incrível Hulk 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409661
+#EXTINF:-1,Jack-Chan 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409662
+#EXTINF:-1,Jaspion 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409663
+#EXTINF:-1,JIRAYA O Incrível Ninja 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409664
+#EXTINF:-1,Kenan e Kel 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409665
+#EXTINF:-1,Luluzinha 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409666
+#EXTINF:-1,Medabots 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409667
+#EXTINF:-1,MegaMan 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409668
+#EXTINF:-1,Mortal Kombat 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409669
+#EXTINF:-1,24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409670
+#EXTINF:-1,NARUTO 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409671
+#EXTINF:-1,Naruto Shippuden DUB 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409672
+#EXTINF:-1,O Fantástico Mundo de Bobby 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409673
+#EXTINF:-1,O INSPETOR 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409674
+#EXTINF:-1,O MASKARA 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409675
+#EXTINF:-1,Os Anjinhos - Rugrats 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409676
+#EXTINF:-1,OS CAVALEIROS DO ZODIACO 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409677
+#EXTINF:-1,OS FLINTSTONES 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409678
+#EXTINF:-1,OS SIMPSONS 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409679
+#EXTINF:-1,Os Vingadores 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409680
+#EXTINF:-1,Papa-Léguas 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409681
+#EXTINF:-1,Peppa Pig 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409682
+#EXTINF:-1,PERNALONGA 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409683
+#EXTINF:-1,Phineas e Ferb 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409684
+#EXTINF:-1,PICA PAU 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409685
+#EXTINF:-1,Pink-e-Cerebro 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409686
+#EXTINF:-1,POKEMON 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409687
+#EXTINF:-1,Popeye O Marinheiro 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409688
+#EXTINF:-1,Rambo 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409689
+#EXTINF:-1,Scooby-Doo 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409690
+#EXTINF:-1,Smallville 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409691
+#EXTINF:-1,Sobrenatural 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409692
+#EXTINF:-1,South Park 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409693
+#EXTINF:-1,Steven Universe 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409694
+#EXTINF:-1,Superman 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409695
+#EXTINF:-1,TARTARUGAS NINJAS 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409696
+#EXTINF:-1,Thundercats 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409697
+#EXTINF:-1,TIMAO E PUMBA 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409698
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409699
+#EXTINF:-1,Tom & Jerry 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409700
+#EXTINF:-1,Tres Espias Demais 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409701
+#EXTINF:-1,UM MALUCO NO PEDAÇO 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409702
+#EXTINF:-1,Uma Família da Pesada 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409703
+#EXTINF:-1,Ursinhos Carinhos 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409704
+#EXTINF:-1,X-MAN 24HS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409705
+#EXTINF:-1,Xena 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409706
+#EXTINF:-1,YU-GI-OH 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409707
+#EXTINF:-1,YU-YU-Hakusho 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409708
+#EXTINF:-1,3 Palavrinhas 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409709
+#EXTINF:-1,A Grande Familia 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409710
+#EXTINF:-1,Bita e os Animais 24hrs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409711
+#EXTINF:-1,Liga da Justica 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409712
+#EXTINF:-1,VAI QUE COLA 24HRS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409713
+#EXTINF:-1,Vai Que Cola 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409714
+#EXTINF:-1,Super Choque 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409715
+#EXTINF:-1,A Feiticeira 24hs
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409716
+#EXTINF:-1,Corrida Maluca
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409717
+#EXTINF:-1,24H BUBU E AS CORUJINHAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409718
+#EXTINF:-1,24H O SHOW DO GARFIELD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409719
+#EXTINF:-1,24H DANIEL TIGRE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409720
+#EXTINF:-1,24H GALINHA PINTADINHA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409721
+#EXTINF:-1,24H POLLY POCKET
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409722
+#EXTINF:-1,24H LOUIE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409723
+#EXTINF:-1,24H SEE T01
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409724
+#EXTINF:-1,24H JESUS UM REINO SEM FRONTEIRA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409725
+#EXTINF:-1,24H AVATAR A LENDA DE KORA H265
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409726
+#EXTINF:-1,24H CANÇÕES DE NINAR
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409727
+#EXTINF:-1,24H 9-1-1
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409728
+#EXTINF:-1,24H GALINHA PINTADINHA MINI
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409729
+#EXTINF:-1,CINE TRAPALHÕES
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409730
+#EXTINF:-1,24H PEPE LEGAL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409731
+#EXTINF:-1,24H SONIC THE HEDGEHOG
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409732
+#EXTINF:-1,24H ANIMANIACS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409733
+#EXTINF:-1,24H AS NOIVAS DE COPACABANA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409734
+#EXTINF:-1,24H A VIDA COMO ELA É
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409735
+#EXTINF:-1,24H MALHAÇÃO 1999
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409736
+#EXTINF:-1,24H ZILLION
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409737
+#EXTINF:-1,24H OS SIMPSONS 2011-2020
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409738
+#EXTINF:-1,24H PEGADINHAS AMERICANAS 2
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409739
+#EXTINF:-1,24H GRAN HOTEL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409740
+#EXTINF:-1,24H CHERNOBYL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409741
+#EXTINF:-1,24H REALITY Z
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409742
+#EXTINF:-1,24H LARGADOS E PELADOS A TRIBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409743
+#EXTINF:-1,24H LADY NIGHT
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409744
+#EXTINF:-1,24H MUNDO BITA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409745
+#EXTINF:-1,24H OS SNORKS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409746
+#EXTINF:-1,24H TOM & JERRY CLASSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409747
+#EXTINF:-1,24H BOB ESPONJA T01 A 04
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409748
+#EXTINF:-1,24H PATRULHA CANINA T01
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409749
+#EXTINF:-1,24H PATRULHA CANINA T02
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409750
+#EXTINF:-1,24H PATRULHA CANINA T03
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409751
+#EXTINF:-1,24H PATRULHA CANINA T04
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409752
+#EXTINF:-1,24H CHANGEMAN
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409753
+#EXTINF:-1,24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409754
+#EXTINF:-1,24H OS SIMPSON 2000/2010
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409755
+#EXTINF:-1,24H CAVERNA DO DRAGÃO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409756
+#EXTINF:-1,24H IRMÃO DO JOREL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409757
+#EXTINF:-1,24H BLACK KAMEN RIDER
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409758
+#EXTINF:-1,24H IRMÃOS A OBRA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409759
+#EXTINF:-1,24H HOUSE OF CARDS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409760
+#EXTINF:-1,24H OS HERCULÓIDES
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409761
+#EXTINF:-1,24H GIGANTES DA INDUSTRIA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409762
+#EXTINF:-1,24H MARIA MAGDALENA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409763
+#EXTINF:-1,24H MARVEL DEMOLIDOR
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409764
+#EXTINF:-1,24H OS TRAPALHÕES
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409765
+#EXTINF:-1,24H DRAGONBALL CLASSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409766
+#EXTINF:-1,24H A TURMA DA PANTERA COR DE ROSA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409767
+#EXTINF:-1,24H TURMA DO RONALDINHO GAUCHO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409768
+#EXTINF:-1,24H O PODEROSO MIGTHOR
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409769
+#EXTINF:-1,24H 3 PALAVRINHAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409770
+#EXTINF:-1,24H NARUTO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409771
+#EXTINF:-1,24H OS SMURFS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409772
+#EXTINF:-1,24H PERDIDO NAS ESTRELAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409773
+#EXTINF:-1,24H OS CAVALEIROS DO ZODIACO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409774
+#EXTINF:-1,24H PLIC & PLOC
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409775
+#EXTINF:-1,24H ROBOCOP DESENHO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409776
+#EXTINF:-1,24H SCOOBY-DOO & SCOOBY-LOO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409777
+#EXTINF:-1,24H SURFISTA PRATEADO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409778
+#EXTINF:-1,24H SOUTH PARK
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409779
+#EXTINF:-1,24H SPARTACUS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409780
+#EXTINF:-1,24H TARZAN
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409781
+#EXTINF:-1,24H LARGADOS E PELADOS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409782
+#EXTINF:-1,24H ENGRAÇADINHA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409783
+#EXTINF:-1,24H TV COLOSSO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409784
+#EXTINF:-1,24H V A BATALHA FINAL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409785
+#EXTINF:-1,24H OS GÁRGULAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409786
+#EXTINF:-1,24H AMERICAN HOUSEWIFE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409787
+#EXTINF:-1,24H BONES
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409788
+#EXTINF:-1,24H COMANDOS EM AÇÃO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409789
+#EXTINF:-1,24H FREAKAZOID
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409790
+#EXTINF:-1,24H JIBAN
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409791
+#EXTINF:-1,24H BYCROSSERS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409792
+#EXTINF:-1,24H HEROES
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409793
+#EXTINF:-1,24H FUTURAMA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409794
+#EXTINF:-1,24H A VACA E O FRANGO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409795
+#EXTINF:-1,24H CASTORES PIRADOS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409796
+#EXTINF:-1,24H EU SOU O MAXIMO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409797
+#EXTINF:-1,24H FAISCA & FUMAÇA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409798
+#EXTINF:-1,24H GATO FELIX
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409799
+#EXTINF:-1,24H HE-MAN
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409800
+#EXTINF:-1,24H BANANAS DE PIJAMAS DESENHO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409801
+#EXTINF:-1,24H OS CAÇA FANTASMA DESENHO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409802
+#EXTINF:-1,24H SHE-RA CLASSICA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409803
+#EXTINF:-1,24H PUNKY A LEVADA DA BRECA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409804
+#EXTINF:-1,24H DRAGON BALL LONGAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409805
+#EXTINF:-1,24H UM MALUCO NO PEDAÇO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409806
+#EXTINF:-1,24H XENA A PRINCESA GUERREIRA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409807
+#EXTINF:-1,24H BOOBA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409808
+#EXTINF:-1,24H CARGA PESADA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409809
+#EXTINF:-1,24H OS URSINHOS CARINHOSOS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409810
+#EXTINF:-1,24H CAPITÃO CAVERNA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409811
+#EXTINF:-1,24H O SÓCIO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409812
+#EXTINF:-1,24H MARSHA E O URSO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409813
+#EXTINF:-1,24H TRÊS ESPIÃS DEMAIS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409814
+#EXTINF:-1,24H TAZ MANIA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409815
+#EXTINF:-1,24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409816
+#EXTINF:-1,24H OS JOVENS TITÃS EM AÇÃO T05
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409817
+#EXTINF:-1,24H BOB CONSTRUTOR 1999
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409818
+#EXTINF:-1,24H HILDA FURACÃO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409819
+#EXTINF:-1,24H OS RONI
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409820
+#EXTINF:-1,24H CONTOS ASSUSTADORES DA MASHA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409821
+#EXTINF:-1,24H TV QUACK
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409822
+#EXTINF:-1,24H TRANSFORMERS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409823
+#EXTINF:-1,24H TODO MUNDO ODEIA O CHRIS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409824
+#EXTINF:-1,24H CHAVES MULTISHOW
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409825
+#EXTINF:-1,24H SUPERCAMPEÕES
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409826
+#EXTINF:-1,24H SUPERAMIGOS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409827
+#EXTINF:-1,24H STREET FIGHTER
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409828
+#EXTINF:-1,24H SITIO DO PICA PAU AMARELO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409829
+#EXTINF:-1,24H SHAZAAM
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409830
+#EXTINF:-1,24H SAMURAI JACK
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409831
+#EXTINF:-1,24H A VIDA MODERNA DE ROCKO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409832
+#EXTINF:-1,24H REN & STIMPY
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409833
+#EXTINF:-1,24H RAMBO DESENHO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409834
+#EXTINF:-1,24H POWER RANGERS CLASSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409835
+#EXTINF:-1,24H POLE POSITION
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409836
+#EXTINF:-1,24H PINK E O CEREBRO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409837
+#EXTINF:-1,24H PICA- PAU
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409838
+#EXTINF:-1,24H O PEQUENO SCOOBY-DOO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409839
+#EXTINF:-1,24H PAPA LÉGUAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409840
+#EXTINF:-1,24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409841
+#EXTINF:-1,24H O PEQUENO URSO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409842
+#EXTINF:-1,24H 44 GATOS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409843
+#EXTINF:-1,24H MUMIAS VIVAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409844
+#EXTINF:-1,24H MISTER MAKER
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409845
+#EXTINF:-1,24H CHAVES TEMPORADA 01 E 02
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409846
+#EXTINF:-1,24H CHAVES TEMPORADA 03 E 04
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409847
+#EXTINF:-1,24H CHAVES TEMPORADA 05 E 06
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409848
+#EXTINF:-1,24H CHAVES TEMPORADA 07
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409849
+#EXTINF:-1,24H MORANGUINHO AVENTURAS EM TUTTI FRUTI
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409850
+#EXTINF:-1,24H MICKEY CLASSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409851
+#EXTINF:-1,24H A TURMA DO ZÉ COLMÉIA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409852
+#EXTINF:-1,24H O MANDALORIANO T01
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409853
+#EXTINF:-1,24H DRAGONBALL SUPER H265
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409854
+#EXTINF:-1,24H DRAGONBALL Z SAGA SAYAJIN
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409855
+#EXTINF:-1,24H DRAGONBALL Z SAGA NAMEKUSEI
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409856
+#EXTINF:-1,24H DRAGONBALL Z SAGA FREEZA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409857
+#EXTINF:-1,24H DRAGONBALL Z SAGA ANDROIDES
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409858
+#EXTINF:-1,24H DRAGONBALL Z SAGA CELL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409859
+#EXTINF:-1,24H DRAGONBALL Z SAGA TORNEIO DO CELL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409860
+#EXTINF:-1,24H DRAGONBALL Z SAGA SAYAMAN
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409861
+#EXTINF:-1,24H DRAGONBALL Z SAGA BABIDI
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409862
+#EXTINF:-1,24H DRAGONBALL Z SAGA MAJINBU
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409863
+#EXTINF:-1,24H A CASA DO MICKEY MOUSE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409864
+#EXTINF:-1,24H A FAMILÍA HATHAWAYS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409865
+#EXTINF:-1,24H MEU AMIGÃOZÃO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409866
+#EXTINF:-1,24H ANIMAZOO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409867
+#EXTINF:-1,24H BABY LOONEY TUNES
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409868
+#EXTINF:-1,24H OS BACKYARDIGANS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409869
+#EXTINF:-1,24H BATMAN E ROBIN CLASSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409870
+#EXTINF:-1,24H SAKURA CARDCAPTORS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409871
+#EXTINF:-1,24H BEN 10 OMNIVERSE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409872
+#EXTINF:-1,24H BEN 10
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409873
+#EXTINF:-1,24H SUPER CHOQUE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409874
+#EXTINF:-1,24H BRAVESTAR
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409875
+#EXTINF:-1,24H FRANKSTEIN JR E OS IMPOSSIVEÍS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409876
+#EXTINF:-1,24H XODÓ DA VOVÓ
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409877
+#EXTINF:-1,24H WOLVERINE E OS X-MEN
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409878
+#EXTINF:-1,24H ZORRO CLASSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409879
+#EXTINF:-1,24H BOB ZOOM
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409880
+#EXTINF:-1,24H CAVALO DE FOGO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409881
+#EXTINF:-1,24H TÁ CHOVENDO HAMBURGUER
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409882
+#EXTINF:-1,24H CLARÊNCIO O OTIMISTA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409883
+#EXTINF:-1,24H CORAGEM O CÃO COVARDE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409884
+#EXTINF:-1,24H CYBERCOPS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409885
+#EXTINF:-1,24H DRAKE & JOSH
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409886
+#EXTINF:-1,24H DE VOLTA PARA O FUTURO DESENHO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409887
+#EXTINF:-1,24H DESENCANTO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409888
+#EXTINF:-1,24H AS AVENTURAS DE TOM & JERRY
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409889
+#EXTINF:-1,24H DESENHOS BIBLICOS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409890
+#EXTINF:-1,24H MEGAMAN CLASSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409891
+#EXTINF:-1,24H OS 7A
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409892
+#EXTINF:-1,24H DIGIMON
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409893
+#EXTINF:-1,24H OQUE HÁ DE NOVO SCOOBY DOO?
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409894
+#EXTINF:-1,24H QUE LEGAL SCOOBY DOO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409895
+#EXTINF:-1,24H PATO DONALD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409896
+#EXTINF:-1,24H DOUG
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409897
+#EXTINF:-1,24H SILVERHAWKS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409898
+#EXTINF:-1,24H SUPERNATURAL T01 A 05
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409899
+#EXTINF:-1,24H LEGO UMA AVENTURA NA CIDADE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409900
+#EXTINF:-1,24H BREAKING BAD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409901
+#EXTINF:-1,24H POLICIA 24 HORAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409902
+#EXTINF:-1,24H DUCK DODGERS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409903
+#EXTINF:-1,24H DUCK TALES CLÁSSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409904
+#EXTINF:-1,24H FÁBULAS DA DISNEY
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409905
+#EXTINF:-1,24H VERDADES SECRETAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409906
+#EXTINF:-1,24H OS FEITICEIROS DE WAVERLY PLACE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409907
+#EXTINF:-1,24H FORMIGA ATÔMICA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409908
+#EXTINF:-1,24H GALINHA BABY
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409909
+#EXTINF:-1,24H GOOGLE FIVE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409910
+#EXTINF:-1,24H O SHOW DOS LOONEY TUNES
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409911
+#EXTINF:-1,24H O INCRÍVEL MUNDO DE GUMBALL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409912
+#EXTINF:-1,24H EMPIRE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409913
+#EXTINF:-1,24H iCARLY
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409914
+#EXTINF:-1,24H LION MAN
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409915
+#EXTINF:-1,24H JAKE E OS PIRATAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409916
+#EXTINF:-1,24H OS JETSONS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409917
+#EXTINF:-1,24H HULK CLÁSSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409918
+#EXTINF:-1,24H JONNY QUEST
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409919
+#EXTINF:-1,24H KENAN E KEL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409920
+#EXTINF:-1,24H LIE TO ME
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409921
+#EXTINF:-1,24H NIPTUCK ESTÉTICA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409922
+#EXTINF:-1,24H X-MEN CLÁSSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409923
+#EXTINF:-1,24H SUPER-MÁQUINA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409924
+#EXTINF:-1,24H OPERAÇÃO POLICIAL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409925
+#EXTINF:-1,24H FLY O PEQUENO GUERREIRO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409926
+#EXTINF:-1,24H PICA-PAU CLÁSSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409927
+#EXTINF:-1,24H EU A PATROA E AS CRIANÇAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409928
+#EXTINF:-1,24H THE BIG BANG THEORY T01 Á T05
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409929
+#EXTINF:-1,OS SIMPSONS 1989/1999
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409930
+#EXTINF:-1,24H JASPION
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409931
+#EXTINF:-1,24H SHAUN O CARNEIRO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409932
+#EXTINF:-1,24H OGGY E AS BARATAS TONTAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409933
+#EXTINF:-1,24H LARANJA IRRITANTE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409934
+#EXTINF:-1,24H DE FÉRIAS COM O EX BRASIL
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409935
+#EXTINF:-1,24H
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409936
+#EXTINF:-1,24H DOIS HOMENS E MEIO T01 A 06
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409937
+#EXTINF:-1,24H HENRY DANGER
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409938
+#EXTINF:-1,24H (ANIME)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409939
+#EXTINF:-1,24H OS SIMPSONS T.31
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409940
+#EXTINF:-1,24H HORA DE AVENTURA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409941
+#EXTINF:-1,24H GRAVITY FALLS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409942
+#EXTINF:-1,24H AS TARTARUGAS NINJAS CLASSICO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409943
+#EXTINF:-1,24H POPEYE
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409944
+#EXTINF:-1,24H INUYASHA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409945
+#EXTINF:-1,24H DOIS HOMENS E MEIO T07 A 12
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409946
+#EXTINF:-1,24H BOB ESPONJA T05 A 08
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409947
+#EXTINF:-1,24H CAPITÃO PLANETA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409948
+#EXTINF:-1,24H SHAMAN KING (ANIME)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409949
+#EXTINF:-1,24H MUCHA LUTA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409950
+#EXTINF:-1,24H ALF O
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409951
+#EXTINF:-1,24H HANNAH MONTANA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409952
+#EXTINF:-1,24H MANNY MÃOS À OBRA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409953
+#EXTINF:-1,24H VINGADORES OS SUPER HERÓIS MAIS PODEROSOS DA TERRA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409954
+#EXTINF:-1,24H STAR WARS GUERRA DOS CLONES T01 A 04
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409955
+#EXTINF:-1,24H STAR WARS GUERRA DOS CLONES T05 A 07
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409956
+#EXTINF:-1,24H VINGADORES UNIDOS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409957
+#EXTINF:-1,24H PATRULHA CANINA T05
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409958
+#EXTINF:-1,24H DOUTORA BRINQUEDO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409959
+#EXTINF:-1,24H NARUTO SHIPPUDEN T01 A 05
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409960
+#EXTINF:-1,24H BORUTO NARUTO NEXT GENERATIONS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409961
+#EXTINF:-1,24H Blaze e os Monster Machines
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409962
+#EXTINF:-1,24H Bubble Guppies
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409963
+#EXTINF:-1,24H Equipe Umizoomi
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409964
+#EXTINF:-1,24H Dora Aventureira
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409965
+#EXTINF:-1,24H Anos Incríveis
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409966
+#EXTINF:-1,24H Batman A Série Animada
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409967
+#EXTINF:-1,24H Pesadelo Na Cozinha
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409968
+#EXTINF:-1,24H Bear Grylls A Prova de Tudo
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409969
+#EXTINF:-1,24H Desafio Sob Fogo America Latina
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409970
+#EXTINF:-1,24H Panico na Band 2014
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409971
+#EXTINF:-1,24H Panico na Band 2015
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409972
+#EXTINF:-1,24H Charlie Brown e Snoopy
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409973
+#EXTINF:-1,24H JORNADA NAS ESTRELAS
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409974
+#EXTINF:-1,24H Larva
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409975
+#EXTINF:-1,24H Familia Dinossauro
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409976
+#EXTINF:-1,24H Bob Esponja Kamp koral
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409977
+#EXTINF:-1,24H Scooby Doo Longas
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409978
+#EXTINF:-1,24H Os Flintstones
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409979
+#EXTINF:-1,24H APENAS UM SHOW
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409980
+#EXTINF:-1,24H Machine Man
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409981
+#EXTINF:-1,24H Desafio em Dose Dupla
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409982
+#EXTINF:-1,24H VELOZES E FURIOSOS ESPIÕES DO ASFALTO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409983
+#EXTINF:-1,24H As Trapalhadas de FlapJack
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409984
+#EXTINF:-1,24H Os Ursinhos Gummi
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409985
+#EXTINF:-1,24H Mickey Donald e Pateta
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409986
+#EXTINF:-1,24H MAD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409987
+#EXTINF:-1,24H Invencível
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409988
+#EXTINF:-1,24H Criminal Minds T06 a 10
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409989
+#EXTINF:-1,24H Criminal Minds S01 a S05
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409990
+#EXTINF:-1,My Time Movie Network
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409991
+#EXTINF:-1,CINE SKY 01 *
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409992
+#EXTINF:-1,CINE SKY 02 *
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409993
+#EXTINF:-1,CINE SKY 03 *
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409994
+#EXTINF:-1,CINE SKY 04 *
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409995
+#EXTINF:-1,CINE SKY 05 *
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409996
+#EXTINF:-1,CINE SKY 06 *
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409997
+#EXTINF:-1,CINE SKY 07 *
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409998
+#EXTINF:-1,CINE SKY 08 *
+http://blazehd.online:80/Lurdes2021/Lurdes2021/409999
+#EXTINF:-1,CINE SKY 09 *
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410000
+#EXTINF:-1,CINE SKY 10 *
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410001
+#EXTINF:-1,CINE SKY LIGA DA JUSTIÇA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410002
+#EXTINF:-1,SporTV 4 HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410029
+#EXTINF:-1,RecordTV Minas HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410043
+#EXTINF:-1,Band Minas HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410045
+#EXTINF:-1,RPC CASCAVEL HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410047
+#EXTINF:-1,FURACAO TV HD
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410306
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 6)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410309
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 7)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410310
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 8)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410311
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 9)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410312
+#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 10)
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410313
+#EXTINF:-1,REDE AMAZONICA BOA VISTA HD - GLOBO RORAIMA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410451
+#EXTINF:-1,REDE AMAZONICA BOA VISTA FHD - GLOBO RORAIMA
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410452
+#EXTINF:-1,TV CABO BRANCO JOAO PESSOA HD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410453
+#EXTINF:-1,TV CABO BRANCO JOAO PESSOA FHD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410454
+#EXTINF:-1,REDE AMAZONICA PORTO VELHO HD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410455
+#EXTINF:-1,REDE AMAZONICA PORTO VELHO FHD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410456
+#EXTINF:-1,TV GAZETA ALAGOAS HD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410457
+#EXTINF:-1,TV GAZETA ALAGOAS FHD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410458
+#EXTINF:-1,TV CLUBE PIAUI FHD -GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410459
+#EXTINF:-1,NSC TV CHAPECO HD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410460
+#EXTINF:-1,NSC TV CHAPECO FHD -GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410461
+#EXTINF:-1,RBS PASSO FUNDO HD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410462
+#EXTINF:-1,RBS PASSO FUNDO FHD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410463
+#EXTINF:-1,TV GAZETA VITORIA ES HD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410464
+#EXTINF:-1,TV GAZETA VITORIA ES FHD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410465
+#EXTINF:-1,TV TEM SOROCABA HD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410466
+#EXTINF:-1,TV TEM SOROCABA FHD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410467
+#EXTINF:-1,TV INTEGRAÇÃO UBERABA HD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410468
+#EXTINF:-1,TV INTEGRAÇÃO UBERABA FHD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410469
+#EXTINF:-1,TV INTEGRAÇÃO ARAXÁ HD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410470
+#EXTINF:-1,TV INTEGRAÇÃO ARAXÁ FHD - GLOBO
+http://blazehd.online:80/Lurdes2021/Lurdes2021/410471
