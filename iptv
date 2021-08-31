@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF:-1,TVB翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
+http://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1,TVB J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+http://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1,TVB 新闻
-https://cdn.hkdtmb.com/hls/83/index.m3u8
+http://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1,明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+http://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1,财经资讯台
-https://cdn.hkdtmb.com/hls/85/index.m3u8
+http://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1,港台31
-https://cdn.hkdtmb.com/hls/31/index.m3u8
+http://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1,港台32
-https://cdn.hkdtmb.com/hls/32/index.m3u8
+http://cdn.hkdtmb.com/hls/32/index.m3u8
 #EXTINF:-1,港台33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
+http://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1,ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
+http://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1,ViuTVsix
-https://cdn.hkdtmb.com/hls/96/index.m3u8
+http://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1,open hd
-https://cdn.hkdtmb.com/hls/77/index.m3u8
+http://cdn.hkdtmb.com/hls/77/index.m3u8
 #EXTINF:-1,HKIB hd
-https://cdn.hkdtmb.com/hls/76/index.m3u8 
+http://cdn.hkdtmb.com/hls/76/index.m3u8 
 #EXTINF:-1,TVB NEWS
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1,TVB翡翠台
