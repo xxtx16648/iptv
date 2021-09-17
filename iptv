@@ -63,10 +63,6 @@ http://61.238.6.49:8001/bysid/85
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1, ViuTV6
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1,鳳凰衛視中文台
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
-#EXTINF:-1,鳳凰衛視資訊台
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1,鳳凰衛視香港台
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1,凤凰中文
