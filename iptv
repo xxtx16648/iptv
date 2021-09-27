@@ -69,6 +69,12 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1,凤凰资讯
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1,凤凰中文
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1,无线新闻
 https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
 #EXTINF:-1,无线翡翠
@@ -97,6 +103,14 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1,now直播台
 https://api.leonardpark.dev/live/now/331
+#EXTINF:-1,有线新闻台
+https://www.navchina.cf/IPTV/icable.php?id=37
+#EXTINF:-1,有线财经资讯台
+https://www.navchina.cf/IPTV/icable.php?id=38
+#EXTINF:-1,有线直播新闻台
+https://www.navchina.cf/IPTV/icable.php?id=39
+#EXTINF:-1,香港开电视
+https://www.navchina.cf/IPTV/icable.php?id=77
 #EXTINF:0,RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,RTHK32
