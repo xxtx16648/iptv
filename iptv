@@ -127,7 +127,7 @@ http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228194/index.m3u8
 http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
 #EXTINF:-1,CCTV9 8M1080
 http://223.110.236.23/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
-CCTV10 5.5M1080HEVC
+#EXTINF:-1,CCTV10 5.5M1080HEVC
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
 #EXTINF:-1,CCTV10 8M1080
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
