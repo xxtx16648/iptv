@@ -394,6 +394,10 @@ http://data.3g.yy.com/live/hls/29900720/29900720
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1 ,TVBS新聞台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1,中天新闻
+http://iptv.tvfix.org/hls/ztxw.m3u8
+#EXTINF:-1,东森新闻
+http://iptv.tvfix.org/hls/dsxw.m3u8
 #EXTINF:-1 ,美亚电影台
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 ,美亚电影台(普通话)
@@ -434,6 +438,12 @@ http://iptv.tvfix.org/hls/fhdy.m3u8
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 ,国家地理
 http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1,动物星球
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1,Love Nature 4K
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1,Love Nature 4K(第2声道)
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
 #EXTINF:-1 ,星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1 ,Star Sports
