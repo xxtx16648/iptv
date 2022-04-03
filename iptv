@@ -1058,3 +1058,13 @@ http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1,都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1,超級體育
+http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
+#EXTINF:-1,超級體育
+http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1,HBO HD
+http://125.227.210.55:16027/VideoInput/play.ts
+#EXTINF:-1,FOX Sport HD 1 (720p)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1,Eurosport (UK)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
