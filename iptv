@@ -445,6 +445,10 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 http://iptv.tvfix.org/hls/nbatv.m3u8
 #EXTINF:-1,天映频道
 http://iptv.tvfix.org/hls/typd.m3u8
+#EXTINF:-1,凤凰电影
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1,卫视电影
+http://iptv.tvfix.org/hls/starmovies.m3u8
 #EXTINF:-1,五星体育
 http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_awrztomp_keyC58BFEFEDA84F497FA36D076CEC29526B9B8745AD47009A12E7D3F6C90306390A2BFB7DF24A04D1F8C3450391B35FB2433D8F2CE28A1F95FC075791193C1C82B421B41D36D863DBBD5FE551A7EE2D0E4B7640CF39A4FE6FE4AA3C1052E6F3A8B5E9B37BAAA6E952743C1B5DF5E8FCF8C_/live/ssty/4000000/d1.m3u8
 #EXTINF:-1,CCTV 5
@@ -743,6 +747,8 @@ http://iptv.tvfix.org/hls/j2.m3u8
 http://iptv.tvfix.org/hls/j22.m3u8
 #EXTINF:-1 ,無綫新聞台
 http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 ,無綫新聞台
+http://livesec.mudu.tv/watch/ow7vfa.m3u8
 #EXTINF:-1 ,明珠台
 http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 ,明珠台(2)
