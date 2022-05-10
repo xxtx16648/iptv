@@ -23,6 +23,32 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 http://185.207.176.189:8080/channels/tv-77/playlist.m3u8
 #EXTINF:-1,HKIB hd
 http://185.207.176.189:8080/channels/tv-76/playlist.m3u8
+#EXTINF:-1,RTHK 32
+http://livetv.dnsfor.me:80/channel.2.m3u8
+#EXTINF:-1,有線財經資訊台 HD
+http://livetv.dnsfor.me:80/channel.6.m3u8
+#EXTINF:-1,有線新聞台 HD
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1,有線綜合娛樂台 HD
+http://livetv.dnsfor.me:80/channel.7.m3u8
+#EXTINF:-1,now财经台
+http://livetv.dnsfor.me:80/channel.8.m3u8
+#EXTINF:-1,now直播台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1,now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1,now sport prime
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1,TVB 翡翠台
+http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:-1,J2
+http://livetv.dnsfor.me:80/channel.19.m3u8
+#EXTINF:-1,無綫新聞台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1,無綫財經資訊台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1,無綫財經資訊台
+http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,FashionTV UHD 
@@ -465,7 +491,7 @@ http://39.134.19.248:6610/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomai
 http://39.134.19.248:6610/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,东方卫视 3M1080
 http://39.134.19.248:6610/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东方卫视 Max16M1080
+#EXTINF:-1,东方卫视东方卫视 Max16M1080
 http://39.134.19.248:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,北京卫视 3M1080
 http://39.134.19.248:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
