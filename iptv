@@ -987,6 +987,10 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1,Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1,Fashion TV US
 https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
 #EXTINF:-1,Fashion TV Tokyo
 https://fashs043.cloudycdn.services/scte/pg13/pg13_1080p_chunklist.m3u8
