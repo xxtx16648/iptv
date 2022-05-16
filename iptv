@@ -801,6 +801,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1,RT Documentary HD [RUS]
 https://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1,Sky News Extra 3 (1080p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1,Россия 24
 http://iptv.tvfix.org/hls/russia24.m3u8
 #EXTINF:-1,Россия 24
@@ -817,6 +819,28 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1,USA Today
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
+#EXTINF:-1,Fashion TV New York (PG13) (720p) [Not 24/7]
+https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+#EXTINF:-1,Fashion TV Tokyo (PG13) (1080p)
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
+#EXTINF:-1,Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1,FTV PARIS NEW HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,FTV PARIS OPT 1 NEW
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1,FTV PARIS OPT 2 NEW
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1,World Fashion Channel
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1,ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1,有線新聞台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1,有線財經資訊台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1,有線直播新聞台
+https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1,港台電視31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1,港台電視32
@@ -962,3 +986,11 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1,Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,Fashion TV Paris
+https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
+#EXTINF:-1,Fashion TV Tokyo
+https://fashs043.cloudycdn.services/scte/pg13/pg13_1080p_chunklist.m3u8
+#EXTINF:-1,Fashion TV Africa
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+#EXTINF:-1,Fashion TV Asia
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
