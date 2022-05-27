@@ -23,6 +23,8 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 http://185.207.176.189:8080/channels/tv-77/playlist.m3u8
 #EXTINF:-1,HKIB hd
 http://185.207.176.189:8080/channels/tv-76/playlist.m3u8
+#EXTINF:-1,RTHK 31
+http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1,RTHK 32
 http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:-1,有線財經資訊台 HD
@@ -998,3 +1000,102 @@ https://fashs043.cloudycdn.services/scte/pg13/pg13_1080p_chunklist.m3u8
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1,Fashion TV Asia
 https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,BBC News (1080p)
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1,DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,Euronews English (720p)
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,iMode TV (1080p)
+https://juyunlive.juyun.tv/live/24950198.m3u8
+#EXTINF:-1,Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,KBS World (720p)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1,KBS World (720p)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Kix (1080p)
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,RT Documentary (1080p)
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1,RT en Español (1080p)
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1,RT News (1080p)
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1,RTHK (港台電視31) (1080p) 
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1,RTHK (港台電視32) (1080p) 
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1,RTP Internacional (504p)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1,TRT World (720p) 
+https://tv-trtworld.live.trt.com.tr/master.m3u8\
+#EXTINF:-1,UN Web TV (1080p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1,World Fashion Channel (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1,World Poker Tour (1080p)
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1,耀才財經台 (576p)
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,Baby TV Asia (1080p)
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,BBC World News Asia Pacific (576p)
+https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1,Dreamworks Channel Asia (Vietnamese dub) (1080p)
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
+#EXTINF:-1,tvN
+https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
+#EXTINF:-1,BBC Earth (Vietnamese dub) (1080p)
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1,BBC Lifestyle Asia (576p)
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1,BBC One HD (720p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,BBC Two HD (720p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,BBC Three HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1,Bloomberg TV Europe UHD (2160p)
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,CBBC (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1,CBeebies (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1,CBeebies Asia (Vietnamese dub) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+#EXTINF:-1,CNBC Europe (480p)
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1,CNN International Germany (720p)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Comedy Channel (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,EDGEsport (1080p)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-country="EUR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="" group-title="Undefined",Fashion TV (England) (1080p) [Not 24/7]
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FTFForthefans.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="Undefined",FTF For the fans (720p)
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News (1080p)
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="Outdoor",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-id="HorseandCountry.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="Undefined",Horse and Country (720p)
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="General",PBS America (720p)
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="XXX",Fashion TV Midnight Secrets (1080p)
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1,CNA
+https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/planetearthhd_abr/playlist.m3u8
+#EXTINF:-1,Animax
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+#EXTINF:-1,Cinemax
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
